@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b8ed9b7c-5b73-4e6d-a6e1-b0911a09f947"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/b7htot</alternateIdentifier>
+                <alternateIdentifier>http://pontos.fwl.oregonstate.edu:8080/ipt/resource.do?r=oregonstate_fish</alternateIdentifier>
+                <alternateIdentifier>b8ed9b7c-5b73-4e6d-a6e1-b0911a09f947</alternateIdentifier>
+                <alternateIdentifier>15007</alternateIdentifier>
+        <title>Oregon State Ichthyology Collection</title>
+            <creator>
+            <individualName>
+<givenName>Brian</givenName>                    <surName>Sidlauskas</surName>
+            </individualName>
+<organizationName>Oregon State University</organizationName><positionName>Assistant Professor and Curator of Fishes</positionName>            <address>
+<deliveryPoint>104 Nash Hall</deliveryPoint><city>Corvallis</city><administrativeArea>OR</administrativeArea><postalCode>97331</postalCode><country>UNITED_STATES</country>            </address>
+<phone>541-737-6789</phone><electronicMailAddress>brian.sidlauskas@oregonstate.edu</electronicMailAddress><onlineUrl>http://people.oregonstate.edu/~sidlausb/</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Brian</givenName>                    <surName>Sidlauskas</surName>
+            </individualName>
+<organizationName>Oregon State University</organizationName><positionName>Assistant Professor and Curator of Fishes</positionName>            <address>
+<deliveryPoint>104 Nash Hall</deliveryPoint><city>Corvallis</city><administrativeArea>OR</administrativeArea><postalCode>97331</postalCode><country>UNITED_STATES</country>            </address>
+<phone>541-737-6789</phone><electronicMailAddress>brian.sidlauskas@oregonstate.edu</electronicMailAddress><onlineUrl>http://people.oregonstate.edu/~sidlausb/</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Brian</givenName>                    <surName>Sidlauskas</surName>
+            </individualName>
+<electronicMailAddress>brian.sidlauskas@oregonstate.edu</electronicMailAddress>            <role>PRINCIPAL_INVESTIGATOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-09-05
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Specimens held by the Oregon State Ichthyology Collection</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>The majority of holdings are freshwater fishes from the Pacific Northwest of North America or marine fishes from the Northern Pacific.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1905-01-01
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2013-07-01
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>All fishes, including jawless fishes, Chondrichthyans and Osteichthyans</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                                        <commonName>Ray-finned fishes</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Cephalaspidomorphi</taxonRankValue>
+                                        <commonName>Lampreys</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Cephalochordata</taxonRankValue>
+                                        <commonName>Lancelets</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Elasmobranchii</taxonRankValue>
+                                        <commonName>Sharks, skates and rays</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Holocephali</taxonRankValue>
+                                        <commonName>Chimaeras</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Myxini</taxonRankValue>
+                                        <commonName>Hagfishes</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Sarcopterygii</taxonRankValue>
+                                        <commonName>Lobe-finned fishes</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <contact>
+            <individualName>
+<givenName>Brian</givenName>                    <surName>Sidlauskas</surName>
+            </individualName>
+<organizationName>Oregon State University</organizationName><positionName>Assistant Professor and Curator of Fishes</positionName>            <address>
+<deliveryPoint>104 Nash Hall</deliveryPoint><city>Corvallis</city><administrativeArea>OR</administrativeArea><postalCode>97331</postalCode><country>UNITED_STATES</country>            </address>
+<phone>541-737-6789</phone><electronicMailAddress>brian.sidlauskas@oregonstate.edu</electronicMailAddress>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para></para>
+                        </description>
+                    </methodStep>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:36Z</dateStamp>
+                <citation>Sidlauskas B (2017). Oregon State Ichthyology Collection. Oregon State University. Occurrence dataset https://doi.org/10.15468/b7htot accessed via GBIF.org on 2023-01-20.</citation>
+                        <collection>
+                            <parentCollectionIdentifier>OSC</parentCollectionIdentifier>
+                            <collectionIdentifier>OS</collectionIdentifier>
+                            <collectionName>Oregon State Ichthyology Collection</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+                            <jgtiCuratorialUnit>
+                                <jgtiUnitType>Cataloged specimen lots</jgtiUnitType>
+                                <jgtiUnits uncertaintyMeasure="1,000">19,000</jgtiUnits>
+                            </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

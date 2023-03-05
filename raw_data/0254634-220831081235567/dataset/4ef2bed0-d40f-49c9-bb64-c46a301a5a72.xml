@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4ef2bed0-d40f-49c9-bb64-c46a301a5a72"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.25494/p6js3m</alternateIdentifier>
+                <alternateIdentifier>10.15468/8s86xk</alternateIdentifier>
+                <alternateIdentifier>doi:10.25494/P6F30N</alternateIdentifier>
+                <alternateIdentifier>doi:10.25494/P65K5W</alternateIdentifier>
+                <alternateIdentifier>doi:10.25494/P69885</alternateIdentifier>
+                <alternateIdentifier>https://www.sciencebase.gov/catalog/item/5fceb944d34e30b9123976f4</alternateIdentifier>
+                <alternateIdentifier>4ef2bed0-d40f-49c9-bb64-c46a301a5a72</alternateIdentifier>
+                <alternateIdentifier>https://www1.usgs.gov/obis-usa/ipt/resource?r=rcca_transects</alternateIdentifier>
+        <title>Abundance of Rocky Reef Fishes, Invertebrates and Algae, Reef Check California (RCCA), 2006 - 2017</title>
+            <creator>
+            <individualName>
+<givenName>Jan</givenName>                    <surName>Friewald</surName>
+            </individualName>
+<organizationName>Reef Check Foundation</organizationName><positionName>Executive Director</positionName><electronicMailAddress>jfreiwald@reefcheck.org</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Diana</givenName>                    <surName>LaScala-Gruenewald</surName>
+            </individualName>
+<organizationName>CeNCOOS</organizationName><positionName>Data Scientist</positionName><electronicMailAddress>dianalg@mbari.org</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Diana</givenName>                    <surName>LaScala-Gruenewald</surName>
+            </individualName>
+<organizationName>CeNCOOS</organizationName><positionName>Data Scientist</positionName><electronicMailAddress>dianalg@mbari.org</electronicMailAddress>            <role>PROCESSOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Abby</givenName>                    <surName>Benson</surName>
+            </individualName>
+<organizationName>U.S. Geological Survey</organizationName><positionName>Biologist</positionName><electronicMailAddress>albenson@usgs.gov</electronicMailAddress>            <userId directory="http://orcid.org/">dianalg@mbari.org</userId>
+            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Mathew</givenName>                    <surName>Biddle</surName>
+            </individualName>
+<organizationName>United States Marine Biodiversity Observation Network (US MBON)</organizationName><positionName>Physical Scientist</positionName>            <address>
+<deliveryPoint>1315 East-West Highway</deliveryPoint><city>Silver Spring</city><administrativeArea>MD</administrativeArea><postalCode>20910</postalCode><country>UNITED_STATES</country>            </address>
+<phone>3017134928</phone><electronicMailAddress>mathew.biddle@noaa.gov</electronicMailAddress><onlineUrl>https://ioos.noaa.gov/</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-4897-1669</userId>
+            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Data in this collection include the abundance of organisms observed during Self-Contained Underwater Breathing Apparatus (SCUBA) diver surveys conducted by Reef Check California (RCCA) volunteers in nearshore, rocky reef environments along the coast of California between 2006 and 2019. After completing training through RCCA, volunteer teams of divers select survey sites and perform surveys according to RCCA standard protocol. Since its inception in 2006, RCCA trained divers have conducted thousands of these surveys at hundreds of sites, including sites within more than 50 State Marine Reserves and State Marine Conservation Areas. 
+
+At each site, buddy teams of divers conduct 18, 30 m x 2 m benthic transects to monitor key species of invertebrates, algae and fish. For fish and algae, size measurements are also collected. Finally, the substrate type, biological cover and relief of the reef are characterized, using a Uniform Point Contact (UPC) sampling strategy. Each site is divided into two &amp;#34;zones&amp;#34; by depth: shallow (5-12 m) and deep (12-18 m). These zones are distributed from offshore to inshore at sites with little depth variation. Half of the transects are conducted in each zone. RCCA’s survey methods are based on visual census survey methods developed by the Partnership of Interdisciplinary Studies of Coastal Oceans (PISCO) and have been modified so that they can be taught in a reasonable amount of time to volunteer SCUBA divers. Species are selected because of their ecological or economic importance or because they are of specific management interest. 
+
+Data are presented as three comma-separated values (.csv) files: RCCA_occurrence.csv, RCCA_event.csv and RCCA_MoF.csv. The occurrence file contains the presence/absence and density for 33 invertebrate taxa, 9 algal taxa and 37 fish taxa, identified to the Genus or Species level. The event file contains the location of each site, the depth of each transect, and the date each transect was conducted. The Measurement or Fact (MoF) file contains temperature and visibility measurements taken at the beginning of each transect, the UPC data from each transect, the number of stipes for each giant kelp (Macrocystis pyrifera) observed, the length for each individual fish observed, and the minimum and maximum size for each group of fish observed. This data set was transformed from its native format into a table structure using Darwin Core term names as column names.
+
+Original data, additional size data, and full description of methods can be found at these links:
+https://opc.dataone.org/view/doi%3A10.25494%2FP6JS3M, https://opc.dataone.org/view/doi%3A10.25494%2FP69885, https://opc.dataone.org/view/doi%3A10.25494%2FP65K5W, https://opc.dataone.org/view/doi%3A10.25494%2FP6F30N 
+
+The data has these identifiers: doi:10.25494/P6JS3M,  doi:10.25494/P69885, doi:10.25494/P65K5W, doi:10.25494/P6F30N</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Samplingevent</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>marine, harvested by OBIS</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>The coast of southern Oregon and California.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-124.295</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-117.265</eastBoundingCoordinate>
+                                <northBoundingCoordinate>42.045</northBoundingCoordinate>
+                                <southBoundingCoordinate>32.694</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Jan</givenName>                    <surName>Friewald</surName>
+            </individualName>
+<organizationName>Reef Check Foundation</organizationName><positionName>Executive Director</positionName><electronicMailAddress>jfreiwald@reefcheck.org</electronicMailAddress>            </contact>
+            <contact>
+            <individualName>
+<givenName>Diana</givenName>                    <surName>LaScala-Gruenewald</surName>
+            </individualName>
+<organizationName>CeNCOOS</organizationName><positionName>Data Scientist</positionName><electronicMailAddress>dianalg@mbari.org</electronicMailAddress>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Data were retrieved from where they are archived on the Ocean Protection Council&apos;s DataONE node and saved in Comma Separated Values (.csv) files.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Data were transformed from the native format output into a table structure using Darwin Core Archive (DwC-A, occurrence core, measurement or fact extension) term names as column names. Python 3 processing scripts were used to run the data format conversion.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Sites are selected by Reef Check California (RCCA) dive teams using RCCA protocol. A site is defined as a location containing shallow rocky reef/kelp forest habitat that is 250 linear meters of coastline in size unless otherwise distinguished by distinct geological features (e.g., a bay). Priority is given to sites that are inside or near existing or planned Marine Protected Areas, so that trends can be compared between protected areas and areas open to fishing.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>A survey, at minimum, consists of 18 band transects: 6 core transects and 12 fish-only transects. During each transect, an area of 30 m x 2 m is surveyed (60 m2) in approximately 10-15 minutes. Half of the transects (3 core and 6 fish-only) are conducted inshore in shallower waters, while the other half are conducted offshore in deeper waters. Transects must be haphazardly placed in rocky reef habitat, spaced at least 5 m apart, and follow a depth contour as much as possible. No transects are conducted at depths greater than 18 m. During each core transect, divers search for invertebrates, kelp, and fish. They also perform a Uniform Point Contact (UPC) survey to characterize the substrate, its topography, and any organisms directly covering it. Divers are required to use a flashlight, and are instructed to search the transect area as thoroughly as possible while remaining approximately within the 10-15 minute survey interval. Fish are surveyed first, while laying the transect tape, so that their behavior is minimally affected by the divers&apos; presence. Before beginning, divers assess visibility: One diver holds up a hand, and the other diver swims away until they can no longer distinguish the fingers. This distance defines the visibility measurement; a visibility of at least 3 m is required to perform fish surveys. If the visibility is sufficient, divers search for fish within the 30 m x 2 m transect area, up to a height of 2 m off the bottom, for a total survey volume of 120 m3. They identify and size all fish observed that are part of the RCCA&apos;s list of 35 key fish taxa. Size is estimated by eye to the nearest centimeter. If a large number of fish of the same species is observed, divers may estimate the minimum and maximum size of the group. Young of the year rockfish (Genus Sebastes) are always given a minimum size of 1 cm and a maximum size of 10 cm. Divers also record the presence or absence of all invertebrates and algae from the RCCA&apos;s list of key taxa during core transects. Invertebrates must be at least 2.5 cm in size to be recorded, except for anemones (Order Actinaria) and gorgonians (Genuses Muricea and Leptogorgia). Anemones must be at least 10 cm tall or wide while gorgonians must be at least 10 cm tall. If divers encounter a large density of a particular invertebrate taxa, that taxa may be subsampled. To subsample, divers count 50 individuals, and then note where they are along the transect line (e.g., 50 urchins were observed in 17 m). Red abalone (Haliotis rufescens) are not subsampled. Densities for subsampled taxa have already been adjusted to have units of number of individuals per 60 m2 in this data submission. When giant kelp (Macrocystis pyrifera) are observed, the number of stipes for each individual is recorded. Finally, as part of the UPC survey, divers examine the substrate at each of 30 points at 1 m intervals along the transect tape and characterize it as one of 5 categories: sand, cobble, boulder, bedrock and other. At each point, the topography, or relief, of the substrate is also characterized as one of 4 categories: 0-10 cm, 10 cm - 1 m, &gt; 1 m - 2 m, and &gt; 2 m. Finally, divers record which organisms (if any) are covering the substrate at each point. In addition to the 6 core transects, divers also perform 12 fish-only transects (6 inshore and 6 offshore). Occasionally, more than 12 fish-only transects are performed. All fish-only transects use the same protocols for fish surveys described above. For additional details on survey methods, see the RCCA monitoring protocol, available here: https://opc.dataone.org/view/doi%3A10.25494%2FP69885</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>For all survey types, divers record data on a slate while underwater. At the end of each dive, divers tally up the total numbers of individuals of each species observed. They ensure that all data are complete and totaled correctly and that all writing is legible. For fish transects, another diver reviews the data sheet as an additional quality assurance step. After a survey is complete, the data are entered into an online database and the original data sheets are sent to RCCA.</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:55:32Z</dateStamp>
+                <citation>United States Geological Survey: Abundance of Rocky Reef Fishes, Invertebrates and Algae, Reef Check California (RCCA), 2006 - 2017 https://doi.org/10.25494/p6js3m accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

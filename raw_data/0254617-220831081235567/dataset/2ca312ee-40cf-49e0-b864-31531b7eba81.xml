@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="2ca312ee-40cf-49e0-b864-31531b7eba81"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/spzgor</alternateIdentifier>
+                <alternateIdentifier>http://ipt.sanbi.org.za/iptsanbi/resource?r=am_freshwater_invertebrates</alternateIdentifier>
+                <alternateIdentifier>http://197.189.235.147:8080/iptsanbi/resource?r=am_freshwater_invertebrates</alternateIdentifier>
+                <alternateIdentifier>2ca312ee-40cf-49e0-b864-31531b7eba81</alternateIdentifier>
+                <alternateIdentifier>11950</alternateIdentifier>
+        <title>AM: Freshwater Invertebrates (1900-2005)</title>
+            <creator>
+            <individualName>
+<givenName>Ferdy</givenName>                    <surName>de Moor</surName>
+            </individualName>
+<organizationName>Albany Museum</organizationName><positionName>Senior Specialist Scientist</positionName>            <address>
+<deliveryPoint>Albany Museum, Department of Sports Arts Recreation and Culture , Eastern Cape Government, Somerset Street</deliveryPoint><city>Grahamstown</city><administrativeArea>Eastern Cape</administrativeArea><postalCode>6139</postalCode><country>SOUTH_AFRICA</country>            </address>
+<phone>046-6222312</phone><electronicMailAddress>f.demoor@ru.ac.za</electronicMailAddress><onlineUrl>http://albanymuseum.blogspot.com</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Fhatani</givenName>                    <surName>Ranwashe</surName>
+            </individualName>
+<organizationName>SANBI</organizationName><positionName>Data Technician</positionName>            <address>
+<deliveryPoint>Private Bag X7, Kirstenbosch</deliveryPoint><city>Claremont</city><administrativeArea>Western Cape</administrativeArea><postalCode>7735</postalCode><country>SOUTH_AFRICA</country>            </address>
+<phone>021 799 8738</phone><electronicMailAddress>f.ramwashe@sanbi.org.za</electronicMailAddress><onlineUrl>http://www.sanbi.org.za</onlineUrl>            </metadataProvider>
+            <pubDate>
+                2017-11-22
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Specimen records held in the National Collection of Freshwater Invertebrates housed in the Albany Museum, Grahamstown, South Africa. 60344 records with approximately 57000 records georeferenced.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Freshwater Invertebrates</keyword>
+                        <keywordThesaurus>n/a</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>The collection covers the whole of the Afrotropical Region (including surrounding islands and Madagascar) and there are small collections made in other regions of the world.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1900-01-05
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2005-08-11
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Bivalvia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Chlorophyceae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Polyplacophora</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Secernentea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Branchiopoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Amphibia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Polychaeta</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Monogononta</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Gastropoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Oligohymenophorea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Enopla</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Adenophorea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Hirudinea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Chroobacteria</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Arachnida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Charophyceae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Insecta</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Oligochaeta</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Hydrozoa</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Maxillopoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Phylactolaemata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Ostracoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Nectonematoida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Malacostraca</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Osteichthyes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Gymnolaemata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Turbellaria</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Demospongiae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Diplopoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Anthozoa</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Crustacea</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Ferdy</givenName>                    <surName>de Moor</surName>
+            </individualName>
+<organizationName>Albany Museum</organizationName><positionName>Senior Specialist Scientist</positionName>            <address>
+<deliveryPoint>Albany Museum, Department of Sports Arts Recreation and Culture , Eastern Cape Government, Somerset Street</deliveryPoint><city>Grahamstown</city><administrativeArea>Eastern Cape</administrativeArea><postalCode>6139</postalCode><country>SOUTH_AFRICA</country>            </address>
+<phone>046-6222312</phone><electronicMailAddress>f.demoor@ru.ac.za</electronicMailAddress><onlineUrl>http://albanymuseum.blogspot.com</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:42:54Z</dateStamp>
+                <citation>de Moor F, Ranwashe F (2017). AM: Freshwater Invertebrates (1900-2005). Version 1.3. South African National Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/spzgor accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>http://197.189.235.147:8080/iptsanbi/logo.do?r=am_freshwater_invertebrates</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

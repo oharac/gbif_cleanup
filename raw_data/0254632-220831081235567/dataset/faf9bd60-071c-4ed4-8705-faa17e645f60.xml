@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="faf9bd60-071c-4ed4-8705-faa17e645f60"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/xzdrqw</alternateIdentifier>
+                <alternateIdentifier>https://csvcoll.org/portal/collections/misc/collprofiles.php?collid=3</alternateIdentifier>
+        <title>Arizona State University Ichthyology Collection</title>
+            <creator>
+<organizationName>CSVColl Portal</organizationName><electronicMailAddress>egbot@asu.edu</electronicMailAddress><onlineUrl>https://csvcoll.org/portal/index.php</onlineUrl>            </creator>
+            <metadataProvider>
+<organizationName>CSVColl Portal</organizationName><electronicMailAddress>egbot@asu.edu</electronicMailAddress><onlineUrl>https://csvcoll.org/portal/index.php</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Dakota</givenName>                    <surName>Rowsey</surName>
+            </individualName>
+<positionName>Collection Manager</positionName><electronicMailAddress>drowsey@asu.edu</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0002-5925-0579</userId>
+            <role>CONTENT_PROVIDER</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Ichthyology Collection at the ASU Natural History Collections contains approximately 22,000 lots representing more than 580 species, with a geographic concentration in the southwestern United States and northwestern Mexico. Please note: when searching our collection, all catalog numbers follow the format ASUFIC######.</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <contact>
+<organizationName>Arizona State University Ichthyology Collection</organizationName><phone>(480) 727-5870</phone><electronicMailAddress>drowsey@asu.edu</electronicMailAddress><onlineUrl>https://biokic.asu.edu/collections</onlineUrl>            <userId directory="https://orcid.org/">0000-0002-5925-0579</userId>
+            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:53:08Z</dateStamp>
+                <citation>Arizona State University Biocollections (2023). Arizona State University Ichthyology Collection. Occurrence dataset https://doi.org/10.15468/xzdrqw accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="56687a3d-b48f-44e5-b2b8-d55bafff2f33"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/gv9cy5</alternateIdentifier>
+                <alternateIdentifier>https://ipt.pensoft.net/resource?r=galiano-data-paper-part-i</alternateIdentifier>
+                <alternateIdentifier>56687a3d-b48f-44e5-b2b8-d55bafff2f33</alternateIdentifier>
+                <alternateIdentifier>http://ipt.pensoft.net/resource?r=galiano-data-paper-part-i</alternateIdentifier>
+        <title>Galiano Island BC Canada Marine Zoology 1893–2021</title>
+            <creator>
+            <individualName>
+<givenName>Andrew</givenName>                    <surName>Simon</surName>
+            </individualName>
+<organizationName>Institute for Multidisciplinary Ecological Research in the Salish Sea</organizationName><positionName>Director</positionName>            <address>
+<deliveryPoint>281 Highland Road</deliveryPoint><city>Galiano Island</city><administrativeArea>BC</administrativeArea><postalCode>V0N 1P0</postalCode><country>CANADA</country>            </address>
+<phone>12505395089</phone><electronicMailAddress>adfsimon@uvic.ca</electronicMailAddress><onlineUrl>https://www.imerss.org</onlineUrl>            <userId directory="http://orcid.org/">0000-0002-5358-8974</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Antranig</givenName>                    <surName>Basman</surName>
+            </individualName>
+<organizationName>Institute for Multidisciplinary Ecological Research in the Salish Sea</organizationName><positionName>Research Affilliate</positionName>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Andrew</givenName>                    <surName>Simon</surName>
+            </individualName>
+<organizationName>Institute for Multidisciplinary Ecological Research in the Salish Sea</organizationName><positionName>Director</positionName>            <address>
+<deliveryPoint>281 Highland Road</deliveryPoint><city>Galiano Island</city><administrativeArea>BC</administrativeArea><postalCode>V0N 1P0</postalCode><country>CANADA</country>            </address>
+<phone>12505395089</phone><electronicMailAddress>adfsimon@uvic.ca</electronicMailAddress><onlineUrl>https://www.imerss.org</onlineUrl>            <userId directory="http://orcid.org/">0000-0002-5358-8974</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Andrew</givenName>                    <surName>Simon</surName>
+            </individualName>
+<organizationName>Institute for Multidisciplinary Ecological Research in the Salish Sea</organizationName><positionName>President</positionName>            <address>
+<deliveryPoint>281 Highland Road</deliveryPoint><city>Galiano Island</city><administrativeArea>British Columbia</administrativeArea><postalCode>V0N 1P0</postalCode><country>CANADA</country>            </address>
+<phone>12505395089</phone><electronicMailAddress>biodiversity.galiano@gmail.com</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0002-5358-8974</userId>
+            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <pubDate>
+                2022-02-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Catalogue synthesizing various sources of marine animal occurrence data, documenting species reported for waters around Galiano Island, British Columbia, Canada. Data aggregated from the following sources: 1. British Columbia Cetacean Sightings Network; 2. Canadian Museum of Nature; 3. Chu &amp;amp; Leys (2010, 2012); 4. Erickson (2000); 5. iNaturalist; 6. Pacific Marine Life Surveys; and, 7. Royal British Columbia Museum, dataset extracted from  https://doi.org/10.15468/dl.qpth2t</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Observation</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://github.com/IMERSS/imerss-bioinfo/tree/data-paper-i</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Location: Galiano Island, British Columbia, Canada.
+For a GeoJSON file precisely designating the study area please see:
+https://github.com/IMERSS/imerss-bioinfo/blob/8df8a3847aa71e5c28a57f558204ea58e42c15c2/data/Galiano/Galiano_Island_Project_Boundary_Chu_final_2021-02-23.json</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-123.618</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-123.291</eastBoundingCoordinate>
+                                <northBoundingCoordinate>49.027</northBoundingCoordinate>
+                                <southBoundingCoordinate>48.845</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Taxonomic groups covered include: Porifera, Cnidaria, Ctenophora, Nemertea, Platyhelminthes, Chaetognatha, Mollusca, Annelida, Sipuncula, Arthropoda, Entoprocta, Brachiopoda, Bryozoa, Phoronida, Echinodermata, Chordata</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Porifera</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Cnidaria</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Ctenophora</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Nemertea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Platyhelminthes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Chaetognatha</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Mollusca</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Annelida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Sipuncula</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Arthropoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Entoprocta</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Brachiopoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Bryozoa</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Phoronida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Echinodermata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Chordata</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Andrew</givenName>                    <surName>Simon</surName>
+            </individualName>
+<organizationName>Institute for Multidisciplinary Ecological Research in the Salish Sea</organizationName><positionName>Director</positionName>            <address>
+<deliveryPoint>281 Highland Road</deliveryPoint><city>Galiano Island</city><administrativeArea>BC</administrativeArea><postalCode>V0N 1P0</postalCode><country>CANADA</country>            </address>
+<phone>12505395089</phone><electronicMailAddress>adfsimon@uvic.ca</electronicMailAddress><onlineUrl>https://www.imerss.org</onlineUrl>            <userId directory="http://orcid.org/">0000-0002-5358-8974</userId>
+            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>The data catalogues contributing to this dataset have been normalised, aligned, corrected, and rendered into visualisations by a collection of open source data processing scripts written in JavaScript. These scripts operate in the following stages:
+
+1. The columns of each source catalogue, imported as CSV, are mapped onto a common core of fields drawn from a subset of the Darwin Core standard, as well as other project-specific fields
+
+2. The taxon name is mapped onto a core backbone by means of a taxon resolution file which resolves preferred taxon names and accounts for typographical errors
+
+3. A dataset id is assigned to every source catalogue, and they are then combined into a single master catalogue 
+
+4. This catalogue is filtered to include only the taxa of interest—marine fauna
+
+5. Private or obscured coordinates held in project-specific fields are copied into the principal georeferencing fields
+
+6. A patch of georeferencing corrections is then applied to the resulting coordinates, together with curational notes motivating the corrections
+
+7. The resulting observations are then filtered by the polygon representing the project area
+
+8. The resulting output produces two consolidated CSV files, a catalogue of all observations, and a master summary file
+
+9. The master summary file is then divided into phyla according to the checklist divisions in this paper, for curation by subject matter experts—these are exported into a Google Sheets representation where they may edit them live
+
+10. The subject matter experts add and check authorities for the taxa, add curation notes and resolve taxonomic discrepancies
+
+11. After curation, the Google Sheets are then re-ingested, combined, and converted back into CSV, and compared with the original summary produced at Step 8
+
+12. Any discrepancies between these summaries are fed into the taxon resolution file at Step 2, and, where appropriate, circulated amongst the managers of the source catalogues to incorporate corrections they find desirable
+
+13. The process is then rerun from Step 1 until repeated passes of curation and reconciliation give rise to no further discrepancies at Step 12
+
+The files output at Step 8 of the pipeline form the basis of the map-based data visualisations referenced from this paper, as well our our Darwin Core data submission to the Global Biodiversity Information Facility.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Study extent was roughly delimited by bathymetric and geographic boundaries, including: Porlier Pass (north of Galiano Island), Active Pass (south of Galiano Island), the Trincomali Channel (west of Galiano Island), and the Outer Island fault line, which lies in the Strait of Georgia (east of Galiano Island). For a GeoJSON file precisely designating the study area please see: https://github.com/IMERSS/imerss-bioinfo/blob/data-paper-i-final/data/Galiano/Galiano_Island_Project_Boundary_Chu_final_2021-02-23.json</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Sampling procedures vary according to each data source, including systematic dive records (Pacific Marine Life Surveys), ecological data collected by ROV (Chu and Leys 2010, Chu and Leys 2012), museum voucher specimens (Canadian Museum of Nature, Royal British Columbia Museum), crowd-sourced citizen science observations (British Columbia Cetacean Sightings Network and iNaturalist observations on the Biodiversity Galiano Island Project), and additional reports from the literature (Agassiz 1862, McMurrich 1921, Erickson 2000). Museum specimens may represent collections made through heterogenous methods. All raw catalogues, processing scripts, and processed catalogues contributing to this paper have been tagged in GitHub at https://github.com/IMERSS/imerss-bioinfo/tree/data-paper-i-final .</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>Curation of this dataset was facilitated through a rigorous review of taxonomic summaries and catalogues of occurrence data based around each phylum and data source. The algorithms we designed summarized all taxa represented in source catalogues by phylum. These summaries were then made available in Google Sheets for expert review. Based on the critical remarks added by experts to these taxonomic summaries, catalogues were reviewed and revised as necessary. This iterative process was continued until there was a one-to-one correspondence between taxonomic summaries and catalogues of occurrence records. Our algorithms conserved memory of all modifications, including typographic errors, and taxonomic and nomenclatural changes. iNaturalist observations were thoroughly reviewed and identifications added on the iNaturalist platform. Other sources were modified in collaboration with contributing authorities. Where disagreements arose between our critical review process and occurrence records published by sources such as the Royal BC Museum and Canadian Museum of Nature, we have added critical annotations identifying the discrepancy between species names reported in this dataset vs those reported by institutions. We also reported these discrepancies directly to museum curators. Georeferencing was also reviewed and corrected where appropriate based on the best available metadata. These change are recorded in our finalized catalogue of occurrence records.</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project id="FFGIBCCAN">
+                <title>The Flora and Fauna of Galiano Island, British Columbia, Canada: Part I. Marine Zoology</title>
+                    <personnel>
+            <individualName>
+<givenName>Andrew</givenName>                    <surName>Simon</surName>
+            </individualName>
+            <userId directory="http://orcid.org/">0000-0002-5358-8974</userId>
+            <role>POINT_OF_CONTACT</role>
+                    </personnel>
+                <abstract>
+                    <para>Over 20,000 marine animal occurrence records from waters around Galiano Island, BC, Canada, dating from 1893 to 2021. Occurrences include dive records collected through the Pacific Marine Life Surveys, museum voucher specimens, ecological data, and crowd-sources observations from the BC Cetacean Sightings Network and iNaturalist platform.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>Galiano Island (Hul&apos;qumi&apos;num: Swiikw) is located on the northwest coast of North America, in a bioregion known as the Salish Sea. The island lies within the traditional territories of Penelakut, Hwlitsum, and Tsawwassen First Nations, and other Hul’qumi’num-speaking peoples.
+
+Galiano Island is part of an archipelago that spans the Canada–USA border, falling in the rain shadow of mountains on Vancouver Island, British Columbia, Canada, and the Olympic Peninsula of Washington, USA.</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+                    <designDescription>
+                        <description>
+                            <para>We synthesized data from multiple sources, which were subject to critical review by contributing experts. Review of the dataset was facilitated through a series of data pipelines developed in JavaScript. Each dataset represents various forms of search effort. We quantified the proportional contributions of each source and evaluated their biases and limitations.</para>
+                        </description>
+                    </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:55:33Z</dateStamp>
+                <citation>Simon A, Basman A (2022). Galiano Island BC Canada Marine Zoology 1893–2021. Version 1.5. Biodiversity Data Journal. Occurrence dataset https://doi.org/10.15468/gv9cy5 accessed via GBIF.org on 2023-01-20.</citation>
+                        <collection>
+                            <parentCollectionIdentifier>CMN</parentCollectionIdentifier>
+                            <collectionIdentifier>https://nature.ca/en/research-collections/collections/animals</collectionIdentifier>
+                            <collectionName>Canadian Museum of Nature</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier>RBCM</parentCollectionIdentifier>
+                            <collectionIdentifier>http://search-collections.royalbcmuseum.bc.ca/</collectionIdentifier>
+                            <collectionName>Royal BC Museum</collectionName>
+                        </collection>
+                    <livingTimePeriod>1893–2021</livingTimePeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

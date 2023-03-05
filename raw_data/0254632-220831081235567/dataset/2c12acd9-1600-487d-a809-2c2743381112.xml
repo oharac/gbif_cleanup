@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="2c12acd9-1600-487d-a809-2c2743381112"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5886/mc7h1q</alternateIdentifier>
+                <alternateIdentifier>10.15468/xzmld6</alternateIdentifier>
+                <alternateIdentifier>http://data.canadensys.net/ipt/resource?r=ontariobioblitz</alternateIdentifier>
+                <alternateIdentifier>2c12acd9-1600-487d-a809-2c2743381112</alternateIdentifier>
+        <title>Ontario BioBlitz Species Records</title>
+            <creator>
+            <individualName>
+<givenName>Angela</givenName>                    <surName>Telfer</surName>
+            </individualName>
+<organizationName>Ontario BioBlitz</organizationName><positionName>Data Manager</positionName>            <address>
+<deliveryPoint>50 Stone Road East</deliveryPoint><city>Guelph</city><administrativeArea>Ontario</administrativeArea><postalCode>N1G 2W1</postalCode><country>CANADA</country>            </address>
+<phone>2269791604</phone><electronicMailAddress>atelfer@uoguelph.ca</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Angela</givenName>                    <surName>Telfer</surName>
+            </individualName>
+<organizationName>Ontario BioBlitz</organizationName><positionName>Data Manager</positionName>            <address>
+<deliveryPoint>50 Stone Road East</deliveryPoint><city>Guelph</city><administrativeArea>Ontario</administrativeArea><postalCode>N1G 2W1</postalCode><country>CANADA</country>            </address>
+<phone>2269791604</phone><electronicMailAddress>atelfer@uoguelph.ca</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Angela</givenName>                    <surName>Telfer</surName>
+            </individualName>
+<organizationName>Ontario BioBlitz</organizationName><positionName>Data Manager</positionName>            <address>
+<deliveryPoint>50 Stone Road East</deliveryPoint><city>Guelph</city><administrativeArea>Ontario</administrativeArea><postalCode>N1G 2W1</postalCode><country>CANADA</country>            </address>
+<phone>2269791604</phone><electronicMailAddress>atelfer@uoguelph.ca</electronicMailAddress>            <role>USER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Jeremy</givenName>                    <surName>deWaard</surName>
+            </individualName>
+<organizationName>Biodiversity Institute of Ontario</organizationName><positionName>Director, Bio-Inventory and Collections</positionName>            <address>
+<deliveryPoint>50 Stone Road East</deliveryPoint><city>Guelph</city><administrativeArea>Ontario</administrativeArea><country>CANADA</country>            </address>
+<electronicMailAddress>dewaardj@uoguelph.ca</electronicMailAddress>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <pubDate>
+                2017-10-17
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>A BioBlitz brings together taxonomic experts, citizen scientists and the general public to inventory all species (plants, animals, fungi and more) in a particular area over a  24 hour period.  Participants record all the organisms they find, then experts verify their identity. As the Blitz proceeds and after it is done, the species records are compiled into a single data set- our species list. This resource represents all species sighted or collected from each of the flagship Ontario BioBlitz events hosted under the Ontario BioBlitz program. Records include observations or collections from the following BioBlitz events: Rouge Watershed BioBlitz 2012, Rouge Watershed BioBlitz 2013, Humber Watershed BioBlitz 2014, Don Watershed BioBlitz 2015, Credit Watershed BioBlitz 2016, and Rouge Watershed BioBlitz 2017. Species records may be modified as further information becomes available. Visit our website at www.ontariobioblitz.ca to learn more about the Ontario BioBlitz program!</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keyword>Observation</keyword>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>More information is available at our website, www.ontariobioblitz.ca</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Data included in this release was collected from the Rouge River Watershed, Humber River Watershed, Don River Watershed, and Credit River Waterhsed from the Greater Toronto area of Ontario. Sector information is provided in the DwC file. For Rouge Watershed records, please refer to the map available at www.ontariobioblitz.ca to match sector numbers to their region of the watershed.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-94.07</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-78.2</eastBoundingCoordinate>
+                                <northBoundingCoordinate>55.91</northBoundingCoordinate>
+                                <southBoundingCoordinate>43.38</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Fungi</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Animalia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Protozoa</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Chromista</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Plantae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <purpose>
+                <para>A BioBlitz brings together taxonomic experts, citizen scientists and the general public to inventory all species (plants, animals, fungi and more) in a particular area over a  24 hour period.  Participants record all the organisms they find, then experts verify their identity. As the Blitz proceeds and after it is done, the species records are compiled into a single data set: the species list, which provides a snapshot of the biodiversity in that location on that date.  
+
+The Ontario BioBlitz program is led by a partnership of some of the province&apos;s leading conservation, education and research organizations. Our collective goal is to connect scientists with the public, promote citizen science, and to work together to increase awareness of Ontario&apos;s biodiversity and encourage local surveys of familiar and little known organisms.</para>
+            </purpose>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Angela</givenName>                    <surName>Telfer</surName>
+            </individualName>
+<organizationName>Ontario BioBlitz</organizationName><positionName>Data Manager</positionName>            <address>
+<deliveryPoint>50 Stone Road East</deliveryPoint><city>Guelph</city><administrativeArea>Ontario</administrativeArea><postalCode>N1G 2W1</postalCode><country>CANADA</country>            </address>
+<phone>2269791604</phone><electronicMailAddress>atelfer@uoguelph.ca</electronicMailAddress>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Description of how to run a BioBlitz available at http://www.ontariobioblitz.ca/protocol-guide.html</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>All specimens were collected in a 24 hour time period. Some specimen identification took place within this 24 h time frame, however the specimen can be identified and verified at any point after the BioBlitz. BioBlitz dates are as follows: the first Rouge Watershed BioBlitz was  June 15 to 16, 2012. The second Rouge Watershed BioBlitz occurred on September 13 and 14, 2013. The Humber Watershed BioBlitz occurred May 24 and 25, 2014. The Don Watershed BioBlitz occurred June 13 and 14, 2015, the Credit Watershed BioBlitz occurred June 11 and 12, 2016, and finally the third Rouge Watershed BioBlitz occurred June 24 and 25, 2017.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Various methods were used to survey taxa across all kingdoms of life.</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>Experts in their respective fields were responsible for leading a team of volunteers in the collection, identification, and verification of specimens.</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project >
+                <title>Ontario BioBlitz</title>
+                    <personnel>
+            <individualName>
+<givenName>Angela</givenName>                    <surName>Telfer</surName>
+            </individualName>
+            <role>CURATOR</role>
+                    </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Funding and in-kind support for the Ontario BioBlitz program is provided its partner organizations, listed on the Ontario BioBlitz program under the Sponsors header. Partner organizations change each year depending on where the BioBlitz is hosted. Sponsers for the Ontario BioBlitz program include the Biodiversity Education and Awareness Network (BEAN), Pizza Pizza, Maple Lodge Farms, Weetabix, and Organic Meadow. In 2017, the Rouge Watershed BioBlitz was also supported as part of the BioBlitz Canada 150 initiative.</para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>Different locations within the Rouge River Watershed, Humber River Watershed, Don River Watershed and Credit River Watershed were selected based on expected biodiversity, availability to the public, and/or lack of data collection in a specific area.</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+                    <designDescription>
+                        <description>
+                            <para>Expert taxonomists and naturalists survey a given area in an attempt to discover as many species as they can within a 24 hour time period. A great emphasis is placed on inclusion of the public, to increase awareness of and excitement about biodiversity.</para>
+                        </description>
+                    </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:53:04Z</dateStamp>
+                <citation identifier="http://doi.org/10.5886/mc7h1q">Telfer A (2017). Ontario BioBlitz Species Records. Version 4.6. Royal Ontario Museum. Occurrence dataset https://doi.org/10.5886/mc7h1q accessed via GBIF.org on 2023-01-20.</citation>
+                    <physical>
+                        <objectName>Canadensys Explorer</objectName>
+                        <characterEncoding>UTF-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>HTML</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">http://data.canadensys.net/explorer/en/resources/ontariobioblitz</url>
+                            </online>
+                        </distribution>
+                    </physical>
+                    <physical>
+                        <objectName>GBIF data portal</objectName>
+                        <characterEncoding>UTF-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>HTML</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">http://www.gbif.org/dataset/2c12acd9-1600-487d-a809-2c2743381112</url>
+                            </online>
+                        </distribution>
+                    </physical>
+                    <resourceLogoUrl>http://data.canadensys.net/ipt/logo.do?r=ontariobioblitz</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                            <collectionIdentifier>ROM</collectionIdentifier>
+                            <collectionName>Royal Ontario Museum</collectionName>
+                        </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

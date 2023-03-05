@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1d743188-1e65-4d99-a814-fa3fd51f1490"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15470/qlqqdx</alternateIdentifier>
+                <alternateIdentifier>https://ipt.gbif.es/resource?r=cbr-icm</alternateIdentifier>
+                <alternateIdentifier>http://ipt.gbif.es/resource?r=cbr-icm</alternateIdentifier>
+                <alternateIdentifier>1d743188-1e65-4d99-a814-fa3fd51f1490</alternateIdentifier>
+                <alternateIdentifier>http://www.gbif.es/ipt/resource?r=cbr-icm</alternateIdentifier>
+        <title>Biological Reference Collections ICM-CSIC</title>
+            <creator>
+            <individualName>
+<givenName>Elena</givenName>                    <surName>Guerrero</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone><electronicMailAddress>cbr@icm.csic.es</electronicMailAddress><onlineUrl>https://cbr.icm.csic.es/en</onlineUrl>            </creator>
+            <creator>
+            <individualName>
+<givenName>Pere</givenName>                    <surName>Abelló</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Tenured researcher</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </creator>
+            <creator>
+            <individualName>
+<givenName>Antoni</givenName>                    <surName>Lombarte</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Tenured researcher</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </creator>
+            <creator>
+            <individualName>
+<givenName>Roger</givenName>                    <surName>Villanueva</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Tenured researcher</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </creator>
+            <creator>
+            <individualName>
+<givenName>Montserrat</givenName>                    <surName>Ramón</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Tenured researcher</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </creator>
+            <creator>
+            <individualName>
+<givenName>Ana</givenName>                    <surName>Sabatés</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Tenured researcher</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </creator>
+            <creator>
+            <individualName>
+<givenName>Ricardo</givenName>                    <surName>Santos</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Elena</givenName>                    <surName>Guerrero</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone><electronicMailAddress>cbr@icm.csic.es</electronicMailAddress><onlineUrl>https://cbr.icm.csic.es/en</onlineUrl>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Pere</givenName>                    <surName>Abelló</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Tenured researcher</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Antoni</givenName>                    <surName>Lombarte</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Tenured researcher</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Roger</givenName>                    <surName>Villanueva</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Tenured researcher</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Montserrat</givenName>                    <surName>Ramón</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Tenured researcher</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Ana</givenName>                    <surName>Sabatés</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Tenured researcher</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Ricardo</givenName>                    <surName>Santos</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone>            </metadataProvider>
+            <pubDate>
+                2021-12-17
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The marine Biological Reference Collections (CBR) are located at the Institute of Marine Sciences (ICM-CSIC) in Barcelona, Spain. The CBR are a Unit of Service where around 15000 referenced species are preserved, catalogued and maintained for their study. The most represented marine groups at the CBR are fish, crustaceans, molluscs and echinoderms, but also other groups are present. The studies based on the CBR specimens are focused on biodiversity, biogeography, taxonomy (type species), invasive and alien species, and genetic analysis. Several PhD theses have also been carried out in collaboration with the CBR.
+
+The CBR are a reference point for the marine biodiversity of the Mediterranean Sea, but in their facilities the CBR also hold specimens from all the oceans (Atlantic, Pacific, Indian, Antarctic and Arctic). The Collections are constantly receiving new specimens and updating. The main sources of specimens are oceanographic surveys and different kind of sampling programs carried out by the research projects run by the ICM-CSIC. However, the CBR have also received (in the past and currently) different collections donated by naturalists, researchers, other institutions, and particulars. 
+
+The CBR were created in 1981, in the earlier history of the ICM-CSIC, by Jaume Rucabado, Domingo Lloris and Concepción Allué. The Collections were later recognized and catalogued by the Spanish Ministry of Culture in 1990. In the last decade, the CBR initiated a new stage where the information was digitized and the physical preservation of specimens updated to the new rules (such as change from formaldehyde to ethanol). The CBR are now part of GBIF (Global Biodiversity Information Facility), thus making public and available all data collections and their metadata. We have also incorporated the use of Geographical Information Systems (GIS) to monitor and study the geographical distribution of our specimens and moreover, the CBR started to act as repository of DNA voucher collections for genetic analyses.
+
+As a unit of service of the ICM-CSIC we think that education and outreach of marine science is of crucial importance for the society and for that reason the CBR take active part in several outreach activities with schools, universities and general public.   
+
+For more information or details you can visit our webpage (http://cbr.icm.csic.es/en/node) and send us an e-mail (cbr&amp;#64;icm.csic.es). We will be happy to help you.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>crustaceans</keyword>
+                        <keyword>echinoderms</keyword>
+                        <keyword>fish</keyword>
+                        <keyword>molluscs</keyword>
+                        <keyword>marine</keyword>
+                        <keywordThesaurus>n/a</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://cbr.icm.csic.es/en/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Worldwide spatial coverage
+
+Fishes
+
+The specimens of the reference collection of Fish come mostly from the following geographical areas:
+
+• W Mediterranean (31%): Catalan and Iberian Mediterranean ...
+• SE Atlantic (28%): Angola, Valdivia Bank, Namibia ...
+• Central-E Atlantic (8%): Gulf of Guinea, Mauritania, Sahara, Senegal ...
+• Central-E Pacific (7%): California, Mexico ...
+• W Indian ocean (7%): Mozambique, Somalia ...
+
+Many specimens were collected from fishery research cruises (Atlor, Bathos, Benguela, CEEMEX, Marca, MEDITS, Mozambique, Sahara, Valdivia ...), but also from exchanges, doantions and diverse sampling procedures.
+
+Decapods
+
+The specimens of the Decapoda-General collection were mainly collected from the following geographical zones:
+
+• SE Atlantic Ocean (43 %): Angola, Namibia …
+• W Mediterranean Sea (36 %)
+• Central-E Pacific (10 %): Mexico …
+• Central-E Atlantic Ocean (7 %): Guinea …
+• And other zones of the Atlantic Ocean (France, Galicia; Newfoundland, Gulf of Mexico, Beagle Channel), the Indian Ocean (Mozambique) and the Antarctic Ocean.
+
+Most specimens of the Decapoda-General collection have been collected in oceanographic and fishery research cruises and coastal samplings: Africana, Bathos, Batimar, Benguela, CEEMEX, Marca, MEDITS, Namibia, Valdivia…
+
+Cephalopods
+
+The collection contains about 1,500 specimens. The two main areas of origin are the SE Atlantic Ocean (62%, Namibia, Valdivia Bank) and the W Mediterranean (33%). There are about 60 species from the SE Atlantic Ocean and about 40 species from the Mediterranean Sea.
+
+The main collecting cruises were: Atlor, Bathos, Benguela, MEDITS and Valdivia.
+
+Other taxa
+
+There are specimens of the phyllum Echinodermata from the deep Mediterranean Sea (up to 2,850 m), belonging to the classes Asteroidea, Echinoidea and Holothuroidea.
+
+Cumacean species, the majority of them are types (holotypes, paratypes, allotypes; there are types of 20 species. Their origin is varied: Antarctic Ocean-Shetland Islands, Gulf of Thailand, Pacific Ocean-New Caledonia, Persian Gulf, Atlantic Ocean, Mediterranean Sea.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Phylum Arthropoda</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Arthropoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Subphylum</taxonRankName>
+                                    <taxonRankValue>Crustacea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Amphipoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Euphausiacea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Isopoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Lophogastrida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Mysida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Calanoida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Scalpelliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Decapoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Cumacea</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Phylum Mollusca</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Mollusca</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Cephalopoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Myopsida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Octopoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Oegopsida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Sepiida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Spirulida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Vampyromorpha</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Decapodiformes </taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Bivalvia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Arcidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cardiidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Glossidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Gryphaeidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Limidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Mactridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Pandoridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Pectinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Pharidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Pinnidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Psammobiidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Veneridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Anomiidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Hiatellidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Mytilidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Noetiidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Nuculidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Ostreidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Tellinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Solecurtidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Pteriidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Solenidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Nassariidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Donacidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Lucinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Umbraculidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Corbulidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Buccinidae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Phylum Echinodermata</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Echinodermata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Asteroidea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Crinoidea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Echinoidea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Holothuroidea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Ophiuroidea</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Phylum Annelida</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Annelida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Polychaeta</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Eunicida</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Kingdom Chromista </generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Chromista </taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Ciliophora </taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Oligotrichea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Oligotrichida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Tontoniidae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Phylum Chordata</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Chordata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Acipenseriformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Anguiliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Atheriniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Batrachoidiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Beloniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Beryciformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Carcharhiniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Cetomimiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Chimaeriformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Clupeiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Cypriniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Dactylopteriformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Elopiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Gadiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Gasterosteiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Gobiesociformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Heterodontiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Hexanchiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Lamniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Lampridiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Lophiiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Mugiliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Myctophiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Myliobatiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Myxiniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Notacanthiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Ophidiiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Orectolobiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Perciformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Petromyzoniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Pleuronectiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Rajiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Salmoniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Scorpaeniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Siluriformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Squaliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Squatiniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Stomiiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Syngnathiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Tetraodontiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Torpediniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Zeiformes</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Phylumm Mollusca</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Mollusca</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Gastropoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Architectonicidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Calliostomatidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Calyptraeidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Capulidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cassidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Clathurellidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Columbellidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Costellaridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Dorididae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Fasciolariidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Marginellidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Muricidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Naticidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Ovulidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Polyceridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Raphitomidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Scaphandridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Triviidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Trochidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Turritellidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Aporrhaidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cancellariidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Marginellidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Ranellidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Fissurellidae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Phylum Mollusca</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Polyplacophora</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Acanthochitonidae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Order Stomatopoda</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Arthropoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Subphylum</taxonRankName>
+                                    <taxonRankValue>Crustacea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Stomatopoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Squillidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Hemisquillidae </taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Nannosquillidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Parasquillidae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Phylumm Nemertea</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Nemertea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Anopla</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Lineidae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Subphylum Tonicata</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Subphylum</taxonRankName>
+                                    <taxonRankValue>Tunicata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Ascidiacea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Phlebobranchia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Ascidiidae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Phylum Sipuncula</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Sipuncula</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Phascolosomatidea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Sipunculidea</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Class Pycnogonida</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Pycnogonida </taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Elena</givenName>                    <surName>Guerrero</surName>
+            </individualName>
+<organizationName>ICM-CSIC</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>Passeig Marítim de la Barceloneta, 37.</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>E-08003</postalCode><country>SPAIN</country>            </address>
+<phone>+34 93 230 95 00</phone><electronicMailAddress>cbr@icm.csic.es</electronicMailAddress><onlineUrl>https://cbr.icm.csic.es/en</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-1657-6648</userId>
+            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para></para>
+                        </description>
+                    </methodStep>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:35Z</dateStamp>
+                <citation identifier="http://doi.org/10.15470/qlqqdx">Guerrero E, Abelló P, Lombarte A, Villanueva R, Ramón M, Sabatés A, Santos R (2021). Biological Reference Collections ICM-CSIC. Version 1.29. Instituto de Ciencias del Mar (CSIC). Occurrence dataset https://doi.org/10.15470/qlqqdx accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>http://www.gbif.es/ipt/logo.do?r=cbr-icm</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier>http://www.gbif.es/ic_colecciones.php?ID_Coleccion=9751</collectionIdentifier>
+                            <collectionName>General Collection</collectionName>
+                        </collection>
+                    <formationPeriod>1975-current</formationPeriod>
+                        <specimenPreservationMethod>FORMALIN</specimenPreservationMethod>
+                            <jgtiCuratorialUnit>
+                                <jgtiUnitType>specimen</jgtiUnitType>
+                                <jgtiUnitRange>
+                                    <beginRange>27,000</beginRange>
+                                    <endRange>29,000</endRange>
+                                </jgtiUnitRange>
+                            </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

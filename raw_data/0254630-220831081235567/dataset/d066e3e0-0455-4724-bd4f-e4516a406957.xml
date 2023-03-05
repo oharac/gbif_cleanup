@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d066e3e0-0455-4724-bd4f-e4516a406957"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/z0dq5e</alternateIdentifier>
+                <alternateIdentifier>d066e3e0-0455-4724-bd4f-e4516a406957</alternateIdentifier>
+                <alternateIdentifier>http://ipt.gbif.fr/resource?r=mzs_fishes</alternateIdentifier>
+        <title>Fishes MZS</title>
+            <creator>
+            <individualName>
+<givenName>David</givenName>                    <surName>Carita</surName>
+            </individualName>
+<organizationName>Musée Zoologique de la ville de Strasbourg</organizationName><positionName>Assistant curator</positionName>            <address>
+<deliveryPoint>Ville et Eurométropole de Strasbourg Direction de la Culture · Service des Musées. 1 parc de l&apos;Étoile</deliveryPoint><city>Strasbourg</city><postalCode>67076 Strasbourg Cedex</postalCode><country>FRANCE</country>            </address>
+<phone>+33 (0)3 68 85 04 92</phone><electronicMailAddress>David.CARITA@strasbourg.eu</electronicMailAddress>            </creator>
+            <creator>
+            <individualName>
+<givenName>Marie</givenName>                    <surName>Meister</surName>
+            </individualName>
+<organizationName>Musée Zoologique de la ville de Strasbourg</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>Ville et Eurométropole de Strasbourg Direction de la Culture · Service des Musées. 1 parc de l&apos;Étoile</deliveryPoint><city>Strasbourg</city><postalCode>67076 Strasbourg Cedex</postalCode><country>FRANCE</country>            </address>
+<electronicMailAddress>mf.meister@unistra.fr</electronicMailAddress>            </creator>
+            <creator>
+            <individualName>
+<givenName>Elisabeth</givenName>                    <surName>Ludes-Fraulob</surName>
+            </individualName>
+<organizationName>Musée Zoologique de la ville de Strasbourg</organizationName><positionName>Collection manager</positionName>            <address>
+<deliveryPoint>Ville et Eurométropole de Strasbourg Direction de la Culture · Service des Musées. 1 parc de l&apos;Étoile</deliveryPoint><city>Strasbourg</city><postalCode>67076 Strasbourg Cedex</postalCode><country>FRANCE</country>            </address>
+<electronicMailAddress>Elisabeth.LUDES-FRAULOB@strasbourg.eu</electronicMailAddress>            </creator>
+            <creator>
+            <individualName>
+<givenName>Marie-Dominique</givenName>                    <surName>Wandhammer</surName>
+            </individualName>
+<organizationName>Musée Zoologique de la ville de Strasbourg</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>Ville et Eurométropole de Strasbourg Direction de la Culture · Service des Musées. 1 parc de l&apos;Étoile</deliveryPoint><city>Strasbourg</city><postalCode>67076 Strasbourg Cedex</postalCode><country>FRANCE</country>            </address>
+<phone>+33(0)368850497</phone><electronicMailAddress>marie-dominique.wandhammer@strasbourg.eu</electronicMailAddress><onlineUrl>http://www.musees-strasbourg.org/F/musees/zoologique/zoo.html</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Marie</givenName>                    <surName>Meister</surName>
+            </individualName>
+<organizationName>Musée Zoologique de la ville de Strasbourg</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>Ville et Eurométropole de Strasbourg Direction de la Culture · Service des Musées. 1 parc de l&apos;Étoile</deliveryPoint><city>Strasbourg</city><postalCode>67076 Strasbourg Cedex</postalCode><country>FRANCE</country>            </address>
+<electronicMailAddress>mf.meister@unistra.fr</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+                    <surName>GBIF France</surName>
+            </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT support</positionName>            <address>
+<deliveryPoint>43 rue Buffon Géologie CP48</deliveryPoint><city>Paris</city><postalCode>75005</postalCode><country>FRANCE</country>            </address>
+<phone>+33140798065</phone><electronicMailAddress>connexion@gbif.fr</electronicMailAddress>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-05-26
+            </pubDate>
+        <language>FRENCH</language>
+            <abstract>
+                    <para>The collection entails some 4930 specimens, mostly conserved in fluid. A few are dry.  They originate from all oceans and a number of seas worldwide, and were essentially collected in the 19th century. The major collection spots are Japanese waters (Tokyo bay and surroundings) and the Mediterranean, namely the Adriatic Sea. The Japanese specimens were collected by Ludwig Döderlein between 1879 and 1881. The Adriatic ones are from Franz Doflein, 1896. There are abundant specimens collected by Paul Bühlichen in the North Sea, and collects from the Deutsche Tiefsee Expedition (1898-1899). Fishes from the Museum of Comparative Zoology in Cambridge, Massachusetts, were often sent by Louis Agassiz: they are from American coasts or rivers. Specimens from Arnold Ortmann were collected on the Tanzania coasts, or locally in Alsace, those sent by Wilhelm Reiss in 1874 are from Ecuador. There is also a significant representation of the local aquatic fauna of the 19th and 20th centuries. Finally, many specimens were purchased in the 19th century from Natural history dealers such as Gustav Schneider in Basel, Hermann Rolle in Berlin and the Museum Godeffroy in Hamburg.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Worldwide</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>David</givenName>                    <surName>Carita</surName>
+            </individualName>
+<organizationName>Musée Zoologique de la ville de Strasbourg</organizationName><positionName>Assistant curator</positionName>            <address>
+<deliveryPoint>Ville et Eurométropole de Strasbourg Direction de la Culture · Service des Musées. 1 parc de l&apos;Étoile</deliveryPoint><city>Strasbourg</city><postalCode>67076 Strasbourg Cedex</postalCode><country>FRANCE</country>            </address>
+<phone>+33 (0)3 68 85 04 92</phone><electronicMailAddress>David.CARITA@strasbourg.eu</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:40Z</dateStamp>
+                <citation>Carita D, Meister M, Ludes-Fraulob E, Wandhammer M (2020). Fishes MZS. Version 1.2. Musée Zoologique de la Ville de Strasbourg. Occurrence dataset https://doi.org/10.15468/z0dq5e accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

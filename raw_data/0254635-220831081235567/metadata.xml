@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="10.15468/dl.6jruck"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+                <alternateIdentifier>0254635-220831081235567</alternateIdentifier>
+        <title>GBIF Occurrence Download 10.15468/dl.6jruck</title>
+            <creator>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </metadataProvider>
+            <pubDate>
+                2023-01-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [
+    &quot;is Cherax destructor Clark, 1936&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+14 records from ALA species sightings and OzAtlas
+24 records from Canberra Nature Map
+3 records from Queen Victoria Museum Art Gallery provider for OZCAM
+4170 records from Victorian Biodiversity Atlas
+1 records from Auckland Museum NZ Marine Collection
+2 records from RBINS DaRWIN
+13 records from Northern Territory Museum and Art Gallery provider for OZCAM
+47 records from Earth Guardians Weekly Feed
+1 records from Auswildlife
+39 records from Contrat de Rivière - RIPARIAS: detection and management of aquatic invasive alien species
+185 records from Museums Victoria provider for OZCAM
+1 records from Tasmanian Museum and Art Gallery provider for OZCAM-Arthropoda
+1 records from City of Kalamunda Biodiversity Inventory
+225 records from NSW BioNet Atlas
+1 records from NHMD Invertebrate Zoology Collection
+1 records from Australian National Wildlife Collection provider for OZCAM
+13 records from NMNH Extant Specimen Records (USNM, US)
+1 records from Invertebrates excl. Entomology at the Natural History Museum of Denmark
+2 records from Tasmanian Natural Values Atlas
+1 records from Collection Crustacea SMF
+5 records from Wingecarribee Shire Council Macroinvertebrate Sampling
+57 records from International Barcode of Life project (iBOL)
+39 records from Western Australian Museum provider for OZCAM
+1 records from The Living Murray Fish data
+232 records from South Australian Museum Adelaide provider for OZCAM
+46 records from Queensland Museum provider for OZCAM
+8 records from INSDC Sequences
+8 records from NMNH Material Samples (USNM)
+2 records from Royal Belgian Institute of Natural Sciences Crustacea collection
+1 records from Girraween National Park
+47 records from NatureMapr
+3 records from Naturalis Biodiversity Center (NL) - Crustacea
+3 records from NatureShare
+151 records from MDFRC macroinvertebrate survey
+162 records from Australian Museum provider for OZCAM
+486 records from SA Fauna (BDBSA)
+80 records from WildNet - Queensland Wildlife Data
+274 records from iNaturalist Research-grade Observations
+1 records from Tasmanian Museum and Art Gallery provider for OZCAM</para>
+            </abstract>
+            <contact>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:57:40Z</dateStamp>
+                <citation identifier="10.15468/dl.6jruck">GBIF Occurrence Download 10.15468/dl.6jruck</citation>
+                    <physical>
+                        <objectName>Darwin Core Archive</objectName>
+                        <characterEncoding>UTF-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>Darwin Core Archive</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">https://api.gbif.org/v1/occurrence/download/request/0254635-220831081235567.zip</url>
+                            </online>
+                        </distribution>
+                    </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

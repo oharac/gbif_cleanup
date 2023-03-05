@@ -1,0 +1,112 @@
+Dataset: Abundance of Rocky Reef Fishes, Invertebrates and Algae, Reef Check California (RCCA), 2006 - 2017 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Collection Mollusca SMF 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Canadian Museum of Nature Mollusc Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Molluscan specimen database of Kanagawa Prefectural Museum of Natural History 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Field Museum of Natural History (Zoology) Invertebrate Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UF Invertebrate Zoology 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of California Museum of Paleontology 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mollusca (Luomus) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum Aarhus Malacology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Gastropoda collection (TSZG) The Arctic University Museum of Norway 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Galiano Island BC Canada Marine Zoology 1893–2021 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Royal Belgian Institute of Natural Sciences Mollusc collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Gastropod Specimens of the Yamagata Prefectural Museum 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CAS Invertebrate Zoology (IZ) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: LACM Malacology 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Gwaii Haanas Invertebrates (OBIS Canada) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Biologiezentrum Linz 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: International Barcode of Life project (iBOL) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: LACM Invertebrate Paleontology 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: bmhs_weatherheadshell_collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Invertebrate Zoology Division, Yale Peabody Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Recent Invertebrates Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Collection Malakologie - SNSD 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ocean Genome Legacy Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MAL 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UAM Invertebrate Collection (Arctos) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" (MACN). Invertebrates National Collection (MACNIn) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Victoria - Zooarchaeology Lab Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NatureServe Network Species Occurrence Data 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: BMSM Bailey-Matthews National Shell Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SysTax -  Zoological Collections 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RBINS DaRWIN 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Natural History Museum Rotterdam - Specimens 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NHMD Invertebrate Zoology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Invertebrates excl. Entomology at the Natural History Museum of Denmark 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Molluscus specimens of Toyohashi Museum of Natural History 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SIO Benthic Invertebrate Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Auburn University Museum of Natural History Mollusks 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museu de Ciències Naturals de Barcelona: MCNB-Malac 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mollusca specimens of Manazuru Shell Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SDNHM Paleontology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Mollusca specimens of Okinawa Prefectural Museum & Art Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INSDC Sequences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CHAS Malacology Collection (Arctos) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SDSM Invertebrate Collections 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Bernice P. Bishop Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Delaware Museum of Natural History – Mollusks 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Invertebrate fossil collection of National Museum of Nature and Science 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Biodiversitätsdatenbank Salzburg 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: DMNS Marine Invertebrate Collection (Arctos) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Mollusca 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: FBIP:ELM: Malacology Collections 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode

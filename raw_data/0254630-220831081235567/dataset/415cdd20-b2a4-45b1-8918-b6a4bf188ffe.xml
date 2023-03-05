@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="415cdd20-b2a4-45b1-8918-b6a4bf188ffe"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/g6k66x</alternateIdentifier>
+                <alternateIdentifier>415cdd20-b2a4-45b1-8918-b6a4bf188ffe</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=mlz_fish</alternateIdentifier>
+        <title>MLZ Fish Collection (Arctos)</title>
+            <creator>
+            <individualName>
+<givenName>Zoe</givenName>                    <surName>Scholz</surName>
+            </individualName>
+<organizationName>Occidental College - Moore Laboratory of Zoology</organizationName><positionName>Research Assistant</positionName>            <address>
+<deliveryPoint>1600 Campus Road</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90041</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>zscholz@oxy.edu</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Zoe</givenName>                    <surName>Scholz</surName>
+            </individualName>
+<organizationName>Occidental College - Moore Laboratory of Zoology</organizationName><positionName>Research Assistant</positionName>            <address>
+<deliveryPoint>1600 Campus Road</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90041</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>zscholz@oxy.edu</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>John</givenName>                    <surName>Wieczorek</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Daniel</givenName>                    <surName>Pondella</surName>
+            </individualName>
+<organizationName>Occidental College - Vantuna Research Group</organizationName><positionName>Director</positionName>            <address>
+<deliveryPoint>1600 Campus Road</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90041</postalCode><country>UNITED_STATES</country>            </address>
+<phone>3232592955</phone><electronicMailAddress>pondella@oxy.edu</electronicMailAddress>            <role>CURATOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Chelsea</givenName>                    <surName>Williams</surName>
+            </individualName>
+<organizationName>Occidental College - Vantuna Research Group</organizationName><positionName>Research Associate</positionName>            <address>
+<deliveryPoint>1600 Campus Road</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90041</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>cmunoz@oxy.edu</electronicMailAddress>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Jonathan</givenName>                    <surName>Williams</surName>
+            </individualName>
+<organizationName>Occidental College - Vantuna Research Group</organizationName><positionName>Research Scientist</positionName>            <address>
+<deliveryPoint>1600 Campus Road</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90041</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>jonwilliams@oxy.edu</electronicMailAddress>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Dusty</givenName>                    <surName>McDonald</surName>
+            </individualName>
+<organizationName>Arctos</organizationName><positionName>Lead Programmer</positionName><onlineUrl>http://dustymc@gmail.com</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <pubDate>
+                2022-12-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Vantuna Research Group’s (VRG) fish collection, now integrated into the Moore Laboratory of Zoology collection, is located at Occidental College in Los Angeles, California. The fish collection totals nearly 600,000 specimens and includes whole organisms (&amp;gt;20,000), larvae (&amp;gt;550,000), tissue samples (6,236), otoliths (19,458), gonads (676), and vertebrae (126). The collection was established by Dr. John S. Stephens in 1960. Stephens and his mentee, Dr. Dan Pondella, the current VRG Director, worked together on rocky-reef fishes of the eastern Pacific. Stephens described the family of Chaenopsidae and Pondella specialized in phylogenetic systematics of bass and groupers. The vast majority of the collection’s specimens are from the Southern California Bight and together encompass the full spatial extent of the southern California rocky reef ecosystem. Taxonomic strengths of the collection, excluding larvae specimens, include Sciaenidae (13,765), Atherinopsidae (3,199), Sebastidae (1,740), Embiotocidae (1,628), and Serranidae (837). Most of the larvae specimens were collected as part of an ongoing study and represent over 45 years of monthly collections—this is one of the largest and longest time-series collections of nearshore fish larvae in the region. Taxonomic strengths of this larvae collection include Gobiidae (166,507), Blenniidae (130,666), Pomacentridae (83,558), and Labrisomidae (52,767).</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>http://vertnet.org/resources/norms.html; Arctos Data Ownership and Use: http://arctosdb.org/home/data/</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.oxy.edu/academics/vantuna-research-group</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>The collection has global coverage. The vast majority of the specimens in the collection are from the Southern California Bight and together encompass the full spatial extent of the southern California rocky reef ecosystem.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1938
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2021
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Chondrichthyes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Petromyzontida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Myxini</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Sarcopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Leptocardii</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Zoe</givenName>                    <surName>Scholz</surName>
+            </individualName>
+<organizationName>Occidental College - Moore Laboratory of Zoology</organizationName><positionName>Research Assistant</positionName>            <address>
+<deliveryPoint>1600 Campus Road</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90041</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>zscholz@oxy.edu</electronicMailAddress>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para></para>
+                        </description>
+                    </methodStep>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:29Z</dateStamp>
+                <citation>Scholz Z (2022). MLZ Fish Collection (Arctos). Version 1.21. Moore Laboratory of Zoology. Occurrence dataset https://doi.org/10.15468/g6k66x accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>https://www.oxy.edu/sites/default/files/vrg-logo.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3ee66eb3-4786-4bda-b7f1-c145b1a57a6b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/lfwzak</alternateIdentifier>
+                <alternateIdentifier>https://invertebase.org/portal/collections/misc/collprofiles.php?collid=10</alternateIdentifier>
+                <alternateIdentifier>http://www.invertebase.org/portal/collections/misc/collprofiles.php?collid=10</alternateIdentifier>
+                <alternateIdentifier>http://invertebase.org/portal/collections/misc/collprofiles.php?collid=10</alternateIdentifier>
+        <title>Delaware Museum of Natural History – Mollusks</title>
+            <creator>
+<organizationName>Invert-E-Base Portal</organizationName><electronicMailAddress>egbot@asu.edu</electronicMailAddress><onlineUrl>https://invertebase.org/portal/index.php</onlineUrl>            </creator>
+            <metadataProvider>
+<organizationName>Invert-E-Base Portal</organizationName><electronicMailAddress>egbot@asu.edu</electronicMailAddress><onlineUrl>https://invertebase.org/portal/index.php</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+                    <surName>Elizabeth Shea</surName>
+            </individualName>
+<electronicMailAddress>eshea@delmnh.org</electronicMailAddress>            <role>CONTENT_PROVIDER</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Museum&amp;#39;s mollusk collection consists of more than 2 million specimens, making it one of the largest in the United States. The 220,000 cataloged lots represent more than 18,000 species. Worldwide in scope and covering all seven living classes of mollusks, our holdings include marine gastropods (45%), land and freshwater gastropods (30%), marine bivalves (15%), freshwater bivalves (5%) and other (5%). The Museum&amp;#39;s mollusk collection is primarily dry shells, with some alcohol preserved cephalopod specimens. Most specimens are recent; however there is some Cenozoic fossil material. Our type collection contains more than 1,200 lots.</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <contact>
+<organizationName>Delaware Museum of Natural History – Mollusks</organizationName><electronicMailAddress>eshea@delmnh.org</electronicMailAddress><onlineUrl>http://www.delmnh.org/mollusks/</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:55:37Z</dateStamp>
+                <citation>Delaware Museum of Natural History (2023). Delaware Museum of Natural History – Mollusks. Occurrence dataset https://doi.org/10.15468/lfwzak accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

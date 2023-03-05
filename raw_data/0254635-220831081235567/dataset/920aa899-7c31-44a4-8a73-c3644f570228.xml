@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="920aa899-7c31-44a4-8a73-c3644f570228"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/flcvft</alternateIdentifier>
+                <alternateIdentifier>https://collections.ala.org.au/public/show/dr613</alternateIdentifier>
+                <alternateIdentifier>fd68923e-0687-38b9-b0db-269399b95751</alternateIdentifier>
+                <alternateIdentifier>http://collections.ala.org.au/public/show/dr613</alternateIdentifier>
+                <alternateIdentifier>920aa899-7c31-44a4-8a73-c3644f570228</alternateIdentifier>
+                <alternateIdentifier>e5c369ba-d5bb-3f05-9940-fa53daad2bcd</alternateIdentifier>
+                <alternateIdentifier>fc9891b2-e09b-32fa-a816-3f510ad69380</alternateIdentifier>
+        <title>Girraween National Park</title>
+            <creator>
+<organizationName>Girraween National Park</organizationName>            </creator>
+            <metadataProvider>
+<organizationName>Girraween National Park</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>            <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>            </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-09-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This website is dedicated to Girraween National Park, which is situated in the state of Queensland, Australia. As well as information on the park about camping and tracks, there is a number of images of plants and animals found in the park.</para>
+            </abstract>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://collections.ala.org.au/public/show/dr613</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Vanessa</givenName>                    <surName>Ryan</surName>
+            </individualName>
+<positionName>editor</positionName><electronicMailAddress>wyvern@bigpond.net.au</electronicMailAddress>            </contact>
+            <methods>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:57:38Z</dateStamp>
+                <citation>Atlas of Living Australia (2019). Girraween National Park. Occurrence dataset https://doi.org/10.15468/flcvft accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5f647492-7aee-4c5e-8a95-fc6ef54b54ce"  system="http://gbif.org" scope="system"
+xml:lang="es">
+
+    <dataset>
+            <alternateIdentifier>10.15472/ofizpm</alternateIdentifier>
+                <alternateIdentifier>5f647492-7aee-4c5e-8a95-fc6ef54b54ce</alternateIdentifier>
+                <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=rrbb_hidrobio_sanandres_2021</alternateIdentifier>
+        <title>Peces, crustáceos decápodos y moluscos de San Andrés y Providencia - Expedición Sea Flower  Plus 2021</title>
+            <creator>
+            <individualName>
+<givenName>Roy</givenName>                    <surName>González-M</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador Principal</positionName>            <address>
+<deliveryPoint>Avenida paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>rgonzalez@humboldt.org.co</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Magda Susana</givenName>                    <surName>Bernal Sierra</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Contratista</positionName>            <address>
+<deliveryPoint>Avenida paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>susana.bersie33@gmail.com</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Magda Susana</givenName>                    <surName>Bernal Sierra</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Contratista</positionName>            <address>
+<deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>susana.bersie33@gmail.com</electronicMailAddress>            <role>AUTHOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Carlos</givenName>                    <surName>DoNascimiento</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador adjunto</positionName>            <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>cdonascimiento@humboldt.org.co</electronicMailAddress>            <role>CURATOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Carlos Andrés</givenName>                    <surName>Lasso Alcalá</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador Senior</positionName>            <address>
+<deliveryPoint>Calle 28A # 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>classo@humboldt.org.co</electronicMailAddress>            <role>PRINCIPAL_INVESTIGATOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+                    <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>            <address>
+<deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>            <role>CUSTODIAN_STEWARD</role>
+            </associatedParty>
+            <pubDate>
+                2022-02-18
+            </pubDate>
+        <language>SPANISH</language>
+            <abstract>
+                    <para>Base de datos de información primaria correspondiente a los peces, crustáceos decápodos y moluscos de aguas dulces y salobres del Archipiélago de San Andrés, Providencia y Santa Catalina, producto de la expedición de campo &amp;#39;&amp;#39;Seaflower Plus&amp;#39;&amp;#39; en octubre del 2021. Las colectas se realizaron mediante captura manual con nasa, equipo de electropesca, nasas con cebo y arrastres con red de 2 y 5 m de largo. El listado incluye la identificación taxonómica de las especies, junto con localidad, parámetros fisicoquimicos, método de colecta, entre otros. Se reportan 50 registros que corresponden a 813 individuos.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>reserva de la biosfera</keyword>
+                        <keyword>Archipiélago</keyword>
+                        <keyword>peces</keyword>
+                        <keyword>moluscos</keyword>
+                        <keyword>diadromía</keyword>
+                        <keyword>crustáceos decápodos</keyword>
+                        <keywordThesaurus>N/A</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=rrbb_hidrobio_sanandres_2021</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Ecosistemas insulares estuarinos con variación en la concentración de sal quebradas o gullys con conexión al mar.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-81.73</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-81.35</eastBoundingCoordinate>
+                                <northBoundingCoordinate>13.39</northBoundingCoordinate>
+                                <southBoundingCoordinate>12.5</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                2021-10-12
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2021-11-11
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>En total se colectaron 594 peces distribuidos en 7 ordenes, 14 familias y 19 especies</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Elopiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Anguilliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Clupeiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Gobiiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Carangiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Blenniiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Acanthuriformes</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>En total se colectaron 219 individuos, distribuidos en 1 orden, 7 familias y 9 especies</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Palaemonidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Penaeidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Barbouriidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Gecarcinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Grapsidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Portunidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Panopeidae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>En total se colectaron 47 moluscos distribuidos en 1 orden, 1 familia y 1 género</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Neritina</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <purpose>
+                <para>Debido a la ausencia de información sobre la fauna estuarina y diádroma del Archipiélago de San Andrés, Providencia y Santa Catalina, se realizó la expedición Sea Flower Plus con el fin de dar continuidad a la Expedición Cangrejo Negro realizada en enero del 2021. Esto con el fin de generar una capa de unidades bióticas y saber el grado de afectación en la fauna de la isla después del paso de los huracanes IOTA y ETA.</para>
+            </purpose>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Carlos Andrés</givenName>                    <surName>Lasso Alcalá</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador</positionName>            <address>
+<deliveryPoint>Calle 28A # 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>classo@humboldt.org.co</electronicMailAddress>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Previa a la salida de campo se revisó información secundaria a partir de literatura y registros biológicos del SiB. El material colectado se ingresó a la colección de peces del Instituto Alexander von Humboldt junto con su respectiva muestra de tejido. Posterior a esto se diligenció formato de migración para posterior paso a formato Darwin Core</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Archipiélago de San Andrés, Providencia y Santa Catalina. Providencia</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Trabajo de campo: Se tomaron parámetros fisicoquímicos al llegar al punto de muestreo, posterior a esto se procedió a pescar mediante equipo de electropesca, arrastres con red de arrastre y captura manual con nasas. De igual forma se instalaron trampas con cebo de forma equidistante desde la desembocadura del gully en dirección aguas arriba. 
+Preservación de especímenes colectados: los ejemplares de peces fueron fijados en formol al 10% de concentración, en los casos donde el ejemplar medía más de 10cm de longitud estándar (LE), se inyectó la cavidad abdominal con la misma solución. Crustáceos y moluscos fueron anestesiados con eugenol y posteriormente fijados con etanol al 70% de concentración</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>La información geográfica se verificó en base a la división político administrativa del DANE Colombia.
+Se realizó la validación taxonómica mediante la consulta de del Sistema de Integrado Información Taxonomica. La verificación taxonómica se hizo en base al árbol taxonómico de GBIF. Las coordenadas decimales se obtuvieron con el transformador de coordenadas Canadensys.</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project >
+                <title>Seaflower Plus</title>
+                    <personnel>
+            <individualName>
+<givenName>Magda Susana</givenName>                    <surName>Bernal Sierra</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Convenio interadministrativo No 628 de 2021, celebrado entre el Ministerio de Ambiente y Desarrollo Sostenible, el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, el Instituto de Hidrología, Meteorología y Estudios Ambientales – IDEAM, y el Instituto de Investigaciones Marinas y Costeras “José Benito Vives de Andréis” – INVEMAR, el cual se realiza bajo el marco del convenio 21-266 (Instituto Humboldt). Contrato 21-21-266-317PS entre Susana Bernal y el Instituto Humboldt.</para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>Archipiélago de San Andrés, Providencia y Santa Catalina, en el cual se encuentra la reserva de Biósfera Seaflower, la cual fue sujeto de un fuerte impacto ambiental debido al paso de los huracanes ETA e IOTA; siendo el huracán IOTA el más fuerte de la temporada de huracanes del Atlántico en 2020 y el primero de categoría 5 registrado para la zona.</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+                    <designDescription>
+                        <description>
+                            <para>El proyecto tuvo como propósito adelantar estudios técnicos con relación a los efectos causados por el paso de los huracanes ETA e IOTA en los ecosistemas emergidos y sumergidos del Archipiélago de San Andrés, Providencia y Santa Catalina. 
+
+En el componente de Entomología, se elaboró una lista de especies de artrópodos con base en información secundaria, y se obtuvieron registros espacialmente explícitos en campo para la generación de una capa de unidades bióticas en el archipiélago, posterior al paso de los huracanes. Los registros apoyaron la identificación de un portafolio de áreas prioritarias de restauración, rehabilitación y recuperación para las áreas afectadas y socializar y apropiar el conocimiento científico generado durante el desarrollo de la expedición con la comunidad raizal, los residentes del Archipiélago y las demás partes interesadas.</para>
+                        </description>
+                    </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:52:57Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/ofizpm">González-M R, Bernal Sierra M S (2022). Peces, crustáceos decápodos y moluscos de San Andrés y Providencia - Expedición Sea Flower  Plus 2021. Version 1.1. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/ofizpm accessed via GBIF.org on 2023-01-20.</citation>
+                    <physical>
+                        <objectName>Peces, crustáceos decápodos y moluscos de San Andrés y Providencia - Expedición Sea Flower  Plus 2021</objectName>
+                        <characterEncoding>utf-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>txt</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_hidrobio_sanandres_2021</url>
+                            </online>
+                        </distribution>
+                    </physical>
+                    <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                            <collectionIdentifier>IAvH-P</collectionIdentifier>
+                            <collectionName>Colección de Peces del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier>IAvH-I</collectionIdentifier>
+                            <collectionName>Colección de Invertebrados del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

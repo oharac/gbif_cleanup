@@ -1,0 +1,248 @@
+Dataset: CUMV Fish Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Actualización y enriquecimiento de las bases de datos del proyecto de evaluación y análisis geográfico de la diversidad faunística de Chiapas 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Electronic Atlas of Ichthyoplankton on the Scotian Shelf of North America (OBIS Canada) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Estado actual, identificación de riesgos y propuestas para el manejo de las especies invasoras presentes en las regiones hidrológicas prioritarias, confluencia de las Huastecas, Media Luna y Cabecera del río de La Laja 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ABC Corbara 2020 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UWIZM Fish Collections 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Diveboard - Scuba diving citizen science observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CNPE/Coleccion Nacional de Peces 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Texas, Biodiversity Center, Ichthyology Collection (TNHCi) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Lund Museum of Zoology (MZLU) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fishes of Texas Project (FoTX) Database - Darwin Core 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Fishbase 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Collection Pisces SMF 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The fishes collection (IC) of the Muséum national d'Histoire naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Alberta Museum of Zoology Ichthyology Collection (UAMZ) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UWFC Ichthyology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: International Barcode of Life project (iBOL) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bell Museum fishes 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Colección de peces dulceacuícolas de Costa Rica 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vertebrate Zoology Division - Ichthyology, Yale Peabody Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Queensland Museum provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Royal Belgian Institute of Natural Sciences Fish collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: New Zealand Freshwater Fish Database (extended) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Bay of Fundy Species List 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MLZ Fish Collection (Arctos) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Maritimes Summer Research Vessel Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Référentiel taxonomique national (TAXREF) - Inventaire des Collectivités d'outre-mer et de la métropole (ICOM_14) issu des données biogéographiques de TAXREF v14 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Référentiel taxonomique national (TAXREF) - Inventaire des Collectivités d'outre-mer et de la métropole (ICOM_15) issu des données biogéographiques de TAXREF v15 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Peces, crustáceos decápodos y moluscos de San Andrés y Providencia - Expedición Sea Flower  Plus 2021 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Computarización de la Colección Nacional de Peces del Instituto de Biología UNAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ALA species sightings and OzAtlas 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NatureServe Network Species Occurrence Data 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Palaeobiology - Vertebrate Comparative Osteology Collection - Royal Ontario Museum 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fish collection, Natural History Museum, University of Oslo 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Earth Guardians Weekly Feed 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ichthyology Collection - Royal Ontario Museum 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Florida Fish and Wildlife Conservation Commission - Freshwater Fishes of Florida - 1956-2000 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SEFSC CAGES Alabama Fish Length Data with CPUE 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Données du Parc national de la Guadeloupe - Base de donnée suivi rivières 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Northeast Area Monitoring and Assessment Program Near Shore Trawl Survey (NEAMAP) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Northern Gulf of St. Lawrence Fishes 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Fishes of Vermont 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Macaulay Library Audio and Video Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SILENE-FAUNE-PACA - ONF_2017_12_18 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Field Museum of Natural History (Zoology) Fish Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: MSB Fish Collection (Arctos) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Florida Fish and Wildlife Conservation Commission - Florida Imperiled Fish Species Investigation - 2001-2004 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Coleção Ictiológica (MNRJ), Museu Nacional (MN), Universidade Federal do Rio de Janeiro(UFRJ) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UF FLMNH Ichthyology 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ohio Wesleyan University Fish Specimens (Arctos) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MMNS Ichthyology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Occurrence records of southern African aquatic biodiversity 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Michigan Museum of Zoology, Division of Fishes 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Fish Collection NRM 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: INSDC Sequences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Material Samples (USNM) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: USGS Nonindigenous Aquatic Species database 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Maritimes Fall Research Vessel Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ictiologia Collection - Instituto Nacional de Pesquisas da Amazônia (INPA) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Multistate Aquatic Resources Information System - MARIS - Fish 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: KUBI Ichthyology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Canadian Museum of Nature Fish Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Freshwater Fishes of Guyana 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Diversidad y distribución de las comunidades de fitoplancton y peces de ríos y lagunas del volcán San Martín de la reserva de la biósfera Los Tuxtlas (Peces) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mohonk Preserve Historical Observational Biodiversity Data 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: USGS Great Lakes Science Center Research Vessel Catch Information System Trawl 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Maine Department of Marine Resources Inshore Trawl Survey 2000-2019 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Maritimes Spring Research Vessel Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Banco de datos de la ictiofauna del Río Bravo desde 1902 a 1992 en la colección ictiológica de la UANL 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Atlantic Reference Centre Museum of Canadian Atlantic Organisms - Invertebrates and Fishes Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Florida Vertebrate Paleontology 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The Fish Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: LSUMZ (LSU MNS) Fishes Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Northeast Fisheries Science Center Bottom Trawl Survey Data 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NEON Biorepository Fish Collection (DNA Extracts) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Biological Reference Collections ICM-CSIC 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Nova Scotia Museum - Marine Birds, Mammals, and Fishes 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: DFO Quebec Region MLI museum collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ghent  University - Zoology Museum - Vertebrate collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Poissons et Crustacés d'eau douce de la Martinique 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Oregon State Ichthyology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Ontario BioBlitz Species Records 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Pisces 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Biodiversity Research and Teaching Collections - TCWC Vertebrates 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Données du Parc National de la Guadeloupe - Atlas des Poissons et Crustacés d'eau douce de Guadeloupe 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Colección de Peces de Agua Dulce del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-P) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UCM Fish Collection (Arctos) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: KUBI Vertebrate Paleontology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: AUM Fish Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Tasmanian Museum and Art Gallery provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Fish collection of National Museum of Nature and Science 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MCNH Museum of Cultural and Natural History Fish Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Auckland Museum NZ Marine Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SIO Marine Vertebrate Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Lewis Creek fish surveys 2016 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: RBINS DaRWIN 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Iowa State University Fishes Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Colección de peces del Museo de Historia Natural de la Pontificia Universidad Javeriana 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Collection Ichthyologie - SNSD 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ECNASAP - East Coast North America Strategic Assessment 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Asia-Pacific Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museo Nacional de Ciencias Naturales, Madrid: MNCN_ICTIO 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: New Zealand Freshwater Fish Database 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NCSM Ichthyology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Estudio taxonómico y zoogeográfico de áreas selectas de peces marinos en Laguna Madre y Costas de Tamaulipas, Veracruz y Campeche, México 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Ichthyology Collection at the Staatliches Museum für Naturkunde Stuttgart 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ohio State University Fish Division (OSUM) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Soviet Trawl Fishery Data (New Zealand Waters) 1964-1987 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ISM Ichthyology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Fish Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Computarización de la base de datos de la colección ictiológica de la Universidad Michoacana 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CAS Ichthyology (ICH) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Fortalecimiento de las colecciones de ECOSUR. Primera fase (Peces Chetumal) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: LACM Vertebrate Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Arizona State University Ichthyology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" (MACN). Ichthyology National Collection (MACNIct) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UAIC Ichthyological Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UAFMC Fish 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Fishes MZS 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode

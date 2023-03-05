@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="10.15468/dl.75teq7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+                <alternateIdentifier>0254632-220831081235567</alternateIdentifier>
+        <title>GBIF Occurrence Download 10.15468/dl.75teq7</title>
+            <creator>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </metadataProvider>
+            <pubDate>
+                2023-01-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [
+    &quot;is one of (Anguilla dieffenbachii Gray, 1842, Anguilla rostrata (Lesueur, 1817))&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+308 records from CUMV Fish Collection
+4 records from Actualización y enriquecimiento de las bases de datos del proyecto de evaluación y análisis geográfico de la diversidad faunística de Chiapas
+6 records from Electronic Atlas of Ichthyoplankton on the Scotian Shelf of North America (OBIS Canada)
+5 records from Estado actual, identificación de riesgos y propuestas para el manejo de las especies invasoras presentes en las regiones hidrológicas prioritarias, confluencia de las Huastecas, Media Luna y Cabecera del río de La Laja
+1 records from ABC Corbara 2020
+1 records from Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC
+5 records from UWIZM Fish Collections
+16 records from Diveboard - Scuba diving citizen science observations
+3 records from CNPE/Coleccion Nacional de Peces
+182 records from University of Texas, Biodiversity Center, Ichthyology Collection (TNHCi)
+4 records from Lund Museum of Zoology (MZLU)
+99 records from Fishes of Texas Project (FoTX) Database - Darwin Core
+466 records from Fishbase
+1 records from Collection Pisces SMF
+35 records from The fishes collection (IC) of the Muséum national d&apos;Histoire naturelle (MNHN - Paris)
+6 records from University of Alberta Museum of Zoology Ichthyology Collection (UAMZ)
+6 records from UWFC Ichthyology Collection
+90 records from International Barcode of Life project (iBOL)
+26 records from Bell Museum fishes
+1 records from Colección de peces dulceacuícolas de Costa Rica
+101 records from Vertebrate Zoology Division - Ichthyology, Yale Peabody Museum
+1 records from Queensland Museum provider for OZCAM
+2 records from Royal Belgian Institute of Natural Sciences Fish collection
+17386 records from New Zealand Freshwater Fish Database (extended)
+1 records from Bay of Fundy Species List
+2 records from MLZ Fish Collection (Arctos)
+2 records from Maritimes Summer Research Vessel Surveys
+5 records from Référentiel taxonomique national (TAXREF) - Inventaire des Collectivités d&apos;outre-mer et de la métropole (ICOM_14) issu des données biogéographiques de TAXREF v14
+5 records from Référentiel taxonomique national (TAXREF) - Inventaire des Collectivités d&apos;outre-mer et de la métropole (ICOM_15) issu des données biogéographiques de TAXREF v15
+1 records from Peces, crustáceos decápodos y moluscos de San Andrés y Providencia - Expedición Sea Flower  Plus 2021
+2 records from Computarización de la Colección Nacional de Peces del Instituto de Biología UNAM
+2 records from ALA species sightings and OzAtlas
+556 records from NatureServe Network Species Occurrence Data
+2 records from Palaeobiology - Vertebrate Comparative Osteology Collection - Royal Ontario Museum
+5 records from Fish collection, Natural History Museum, University of Oslo
+7 records from Earth Guardians Weekly Feed
+174 records from Ichthyology Collection - Royal Ontario Museum
+686 records from Florida Fish and Wildlife Conservation Commission - Freshwater Fishes of Florida - 1956-2000
+8 records from SEFSC CAGES Alabama Fish Length Data with CPUE
+27 records from Données du Parc national de la Guadeloupe - Base de donnée suivi rivières
+12 records from Northeast Area Monitoring and Assessment Program Near Shore Trawl Survey (NEAMAP)
+368 records from Northern Gulf of St. Lawrence Fishes
+26 records from Fishes of Vermont
+6 records from Macaulay Library Audio and Video Collection
+567 records from NMNH Extant Specimen Records (USNM, US)
+2 records from SILENE-FAUNE-PACA - ONF_2017_12_18
+69 records from Field Museum of Natural History (Zoology) Fish Collection
+9 records from MSB Fish Collection (Arctos)
+70 records from Florida Fish and Wildlife Conservation Commission - Florida Imperiled Fish Species Investigation - 2001-2004
+1 records from Coleção Ictiológica (MNRJ), Museu Nacional (MN), Universidade Federal do Rio de Janeiro(UFRJ)
+520 records from UF FLMNH Ichthyology
+1 records from Ohio Wesleyan University Fish Specimens (Arctos)
+81 records from MMNS Ichthyology Collection
+5 records from Occurrence records of southern African aquatic biodiversity
+176 records from University of Michigan Museum of Zoology, Division of Fishes
+6 records from Fish Collection NRM
+119 records from INSDC Sequences
+8 records from NMNH Material Samples (USNM)
+27 records from USGS Nonindigenous Aquatic Species database
+4 records from Maritimes Fall Research Vessel Surveys
+1 records from Ictiologia Collection - Instituto Nacional de Pesquisas da Amazônia (INPA)
+1678 records from Multistate Aquatic Resources Information System - MARIS - Fish
+1511 records from iNaturalist Research-grade Observations
+23 records from KUBI Ichthyology Collection
+423 records from Canadian Museum of Nature Fish Collection
+1 records from Freshwater Fishes of Guyana
+11 records from Diversidad y distribución de las comunidades de fitoplancton y peces de ríos y lagunas del volcán San Martín de la reserva de la biósfera Los Tuxtlas (Peces)
+1 records from Mohonk Preserve Historical Observational Biodiversity Data
+184 records from USGS Great Lakes Science Center Research Vessel Catch Information System Trawl
+8 records from Maine Department of Marine Resources Inshore Trawl Survey 2000-2019
+17 records from Maritimes Spring Research Vessel Surveys
+4 records from Banco de datos de la ictiofauna del Río Bravo desde 1902 a 1992 en la colección ictiológica de la UANL
+227 records from Atlantic Reference Centre Museum of Canadian Atlantic Organisms - Invertebrates and Fishes Data
+4 records from University of Florida Vertebrate Paleontology
+19 records from The Fish Collection
+33 records from LSUMZ (LSU MNS) Fishes Collection
+25 records from Northeast Fisheries Science Center Bottom Trawl Survey Data
+2 records from NEON Biorepository Fish Collection (DNA Extracts)
+4 records from Biological Reference Collections ICM-CSIC
+2 records from Nova Scotia Museum - Marine Birds, Mammals, and Fishes
+456 records from Museum of Comparative Zoology, Harvard University
+11 records from DFO Quebec Region MLI museum collection
+1 records from Ghent  University - Zoology Museum - Vertebrate collection
+4 records from Poissons et Crustacés d&apos;eau douce de la Martinique
+7 records from Oregon State Ichthyology Collection
+1 records from Ontario BioBlitz Species Records
+8 records from Naturalis Biodiversity Center (NL) - Pisces
+42 records from Biodiversity Research and Teaching Collections - TCWC Vertebrates
+12 records from Données du Parc National de la Guadeloupe - Atlas des Poissons et Crustacés d&apos;eau douce de Guadeloupe
+3 records from Colección de Peces de Agua Dulce del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-P)
+4 records from UCM Fish Collection (Arctos)
+1 records from KUBI Vertebrate Paleontology Collection
+96 records from AUM Fish Collection
+1 records from Tasmanian Museum and Art Gallery provider for OZCAM
+30 records from Fish collection of National Museum of Nature and Science
+3 records from MCNH Museum of Cultural and Natural History Fish Collection
+1 records from Auckland Museum NZ Marine Collection
+5 records from SIO Marine Vertebrate Collection
+3 records from Lewis Creek fish surveys 2016
+40 records from Natural History Museum (London) Collection Specimens
+2 records from RBINS DaRWIN
+3 records from Iowa State University Fishes Collection
+9 records from Colección de peces del Museo de Historia Natural de la Pontificia Universidad Javeriana
+1 records from Collection Ichthyologie - SNSD
+11 records from ECNASAP - East Coast North America Strategic Assessment
+4 records from Asia-Pacific Dataset
+27 records from Museo Nacional de Ciencias Naturales, Madrid: MNCN_ICTIO
+17376 records from New Zealand Freshwater Fish Database
+1203 records from NCSM Ichthyology Collection
+1 records from Estudio taxonómico y zoogeográfico de áreas selectas de peces marinos en Laguna Madre y Costas de Tamaulipas, Veracruz y Campeche, México
+19 records from The Ichthyology Collection at the Staatliches Museum für Naturkunde Stuttgart
+99 records from Ohio State University Fish Division (OSUM)
+27 records from Soviet Trawl Fishery Data (New Zealand Waters) 1964-1987
+5 records from ISM Ichthyology Collection
+16 records from Fish Specimens
+1 records from Computarización de la base de datos de la colección ictiológica de la Universidad Michoacana
+31 records from CAS Ichthyology (ICH)
+5 records from Fortalecimiento de las colecciones de ECOSUR. Primera fase (Peces Chetumal)
+13 records from LACM Vertebrate Collection
+5 records from Arizona State University Ichthyology Collection
+1 records from Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Ichthyology National Collection (MACNIct)
+212 records from UAIC Ichthyological Collection
+4 records from UAFMC Fish
+4 records from Fishes MZS</para>
+            </abstract>
+            <contact>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:53:09Z</dateStamp>
+                <citation identifier="10.15468/dl.75teq7">GBIF Occurrence Download 10.15468/dl.75teq7</citation>
+                    <physical>
+                        <objectName>Darwin Core Archive</objectName>
+                        <characterEncoding>UTF-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>Darwin Core Archive</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">https://api.gbif.org/v1/occurrence/download/request/0254632-220831081235567.zip</url>
+                            </online>
+                        </distribution>
+                    </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

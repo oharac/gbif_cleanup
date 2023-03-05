@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="eccf4b09-f0c8-462d-a48c-41a7ce36815a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/8mjsel</alternateIdentifier>
+                <alternateIdentifier>http://ipt.flmnh.ufl.edu:8080/ipt/resource?r=ichthyology</alternateIdentifier>
+                <alternateIdentifier>http://ipt.flmnh.ufl.edu:8080/ipt/resource.do?r=ichthyology</alternateIdentifier>
+                <alternateIdentifier>eccf4b09-f0c8-462d-a48c-41a7ce36815a</alternateIdentifier>
+                <alternateIdentifier>14301</alternateIdentifier>
+        <title>UF FLMNH Ichthyology</title>
+            <creator>
+            <individualName>
+<givenName>Rob</givenName>                    <surName>Robins</surName>
+            </individualName>
+<organizationName>Florida Museum of Natural History</organizationName><positionName>Ichthyology Collection Manager</positionName>            <address>
+<deliveryPoint>PO Box 117800</deliveryPoint><city>Gainesville</city><administrativeArea>FL</administrativeArea><postalCode>32611-7800</postalCode>            </address>
+<phone>352-273-1957</phone><electronicMailAddress>rhrobins@flmnh.ufl.edu</electronicMailAddress><onlineUrl>http://www.flmnh.ufl.edu/fish/</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Rob</givenName>                    <surName>Robins</surName>
+            </individualName>
+<organizationName>Florida Museum of Natural History</organizationName><positionName>Ichthyology Collection Manager</positionName>            <address>
+<deliveryPoint>PO Box 117800</deliveryPoint><city>Gainesville</city><administrativeArea>FL</administrativeArea><postalCode>32611-7800</postalCode>            </address>
+<phone>352-273-1957</phone><electronicMailAddress>rhrobins@flmnh.ufl.edu</electronicMailAddress><onlineUrl>http://www.flmnh.ufl.edu/fish/</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Rob</givenName>                    <surName>Robins</surName>
+            </individualName>
+<organizationName>Florida Museum of Natural History</organizationName><positionName>Ichthyology Collection Manager</positionName>            <address>
+<deliveryPoint>PO Box 117800</deliveryPoint><city>Gainesville</city><administrativeArea>FL</administrativeArea><postalCode>32611-7800</postalCode>            </address>
+<phone>352-273-1957</phone><electronicMailAddress>rhrobins@flmnh.ufl.edu</electronicMailAddress><onlineUrl>http://www.flmnh.ufl.edu/fish/</onlineUrl>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-16
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The UF Fish Collection, dating to 1917, contains 214,205 lots and 2,300,803 specimens. Included are representatives of 8,250 species from 400 families. The collection includes 93 primary types and approximately 1,600 lots of secondary types representing 563 species. Also in the collection are 5,825 specimens of disarticulated and articulated skeletons representing 875 species. Especially notable are historic collections of large and important marine fishes as well as rapidly growing collections of freshwater fishes from Southeast Asia. In 2006, the museum expanded its program to archive frozen tissue samples with a newly established UF Genetic Resources Collection. Tissues of fishes are stored in -20ºC freezers and number 4,150 samples of 900 species. All specimens and tissues are databased online and available for loan.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Global.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Rob</givenName>                    <surName>Robins</surName>
+            </individualName>
+<organizationName>Florida Museum of Natural History</organizationName><positionName>Ichthyology Collection Manager</positionName>            <address>
+<deliveryPoint>PO Box 117800</deliveryPoint><city>Gainesville</city><administrativeArea>FL</administrativeArea><postalCode>32611-7800</postalCode>            </address>
+<phone>352-273-1957</phone><electronicMailAddress>rhrobins@flmnh.ufl.edu</electronicMailAddress><onlineUrl>http://www.flmnh.ufl.edu/fish/</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:52:59Z</dateStamp>
+                <citation>Robins R (2023). UF FLMNH Ichthyology. Version 117.384. Florida Museum of Natural History. Occurrence dataset https://doi.org/10.15468/8mjsel accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

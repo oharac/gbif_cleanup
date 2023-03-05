@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ee21cfcd-9f34-47f0-ab46-9b21e9db5c5a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/535q2j</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=isua_fishes</alternateIdentifier>
+                <alternateIdentifier>ee21cfcd-9f34-47f0-ab46-9b21e9db5c5a</alternateIdentifier>
+        <title>Iowa State University Fishes Collection</title>
+            <creator>
+            <individualName>
+<givenName>John</givenName>                    <surName>Olson</surName>
+            </individualName>
+<organizationName>Iowa State University Museum of Natural History</organizationName><positionName>Collection volunteer</positionName>            <address>
+<deliveryPoint>1222 SW 3rd St</deliveryPoint><city>Ankeny</city><administrativeArea>IA</administrativeArea><postalCode>50023-2644</postalCode><country>UNITED_STATES</country>            </address>
+<phone>515-229-6290</phone><electronicMailAddress>jro@iastate.edu</electronicMailAddress>            </creator>
+            <creator>
+            <individualName>
+<givenName>Kevin</givenName>                    <surName>Roe</surName>
+            </individualName>
+<organizationName>Iowa State University</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>2310 Pammel Dr. 339 Sci 2</deliveryPoint><city>Ames</city><administrativeArea>IA</administrativeArea><postalCode>50011</postalCode><country>UNITED_STATES</country>            </address>
+<phone>5152948332</phone><electronicMailAddress>kjroe@iastate.edu</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>John</givenName>                    <surName>Olson</surName>
+            </individualName>
+<organizationName>Iowa State University Museum of Natural History</organizationName><positionName>Collection volunteer</positionName>            <address>
+<deliveryPoint>1222 SW 3rd St</deliveryPoint><city>Ankeny</city><administrativeArea>IA</administrativeArea><postalCode>50023-2644</postalCode><country>UNITED_STATES</country>            </address>
+<phone>515-229-6290</phone><electronicMailAddress>jro@iastate.edu</electronicMailAddress>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Kevin</givenName>                    <surName>Roe</surName>
+            </individualName>
+<organizationName>Iowa State University</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>2310 Pammel Dr. 339 Sci 2</deliveryPoint><city>Ames</city><administrativeArea>IA</administrativeArea><postalCode>50011</postalCode><country>UNITED_STATES</country>            </address>
+<phone>5152948332</phone><electronicMailAddress>kjroe@iastate.edu</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>John</givenName>                    <surName>Wieczorek</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <pubDate>
+                2022-07-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Collection of fishes at Iowa State University, Ames, IA; ~5,000 lots, primarily from Iowa but including small numbers of lots other areas; e.g., CA, DE, FL, MI, MO, NH &amp;amp; MX.  Collection was started in the late 1930s by Reeve M. Bailey during his time at Iowa State from 1939-1944.  Most lots are from the 1930s and 1940s, but significant numbers are from the 1980s and 2010s.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>http://vertnet.org/resources/norms.html</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Fishes of Iowa; also including &gt;= 20 lots from the following: CA (22), DE (26), FL (35), MI (45), MO (24), NH (87), VA (20). Limited numbers of lots from 23 additional U.S. states, three states in Mexico, Argentina, Trinidad and Tobago, and one province in Japan.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-124.805</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-66.094</eastBoundingCoordinate>
+                                <northBoundingCoordinate>49.838</northBoundingCoordinate>
+                                <southBoundingCoordinate>24.046</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Hyperoartia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Petromyzontida</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>John</givenName>                    <surName>Olson</surName>
+            </individualName>
+<organizationName>Iowa State University Museum of Natural History</organizationName><positionName>Collection volunteer</positionName>            <address>
+<deliveryPoint>1222 SW 3rd St</deliveryPoint><city>Ankeny</city><administrativeArea>IA</administrativeArea><postalCode>50023-2644</postalCode><country>UNITED_STATES</country>            </address>
+<phone>515-229-6290</phone><electronicMailAddress>jro@iastate.edu</electronicMailAddress>            </contact>
+            <contact>
+            <individualName>
+<givenName>Kevin</givenName>                    <surName>Roe</surName>
+            </individualName>
+<organizationName>Iowa State University</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>339 Sci 2</deliveryPoint><city>Ames</city><administrativeArea>IA</administrativeArea><postalCode>50011-3221</postalCode><country>UNITED_STATES</country>            </address>
+<phone>5152948332</phone><electronicMailAddress>kjroe@iastate.edu</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:38Z</dateStamp>
+                <citation>Olson J, Roe K (2022). Iowa State University Fishes Collection. Version 1.5. Iowa State University Museum of Natural History. Occurrence dataset https://doi.org/10.15468/535q2j accessed via GBIF.org on 2023-01-20.</citation>
+                    <livingTimePeriod>1930 - Present</livingTimePeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7282b774-f547-4f96-9c43-3ad3d16f152e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/zt71cj</alternateIdentifier>
+                <alternateIdentifier>7282b774-f547-4f96-9c43-3ad3d16f152e</alternateIdentifier>
+                <alternateIdentifier>http://168.96.62.13:8080/ipt/resource?r=macnict</alternateIdentifier>
+        <title>Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Ichthyology National Collection (MACNIct)</title>
+            <creator>
+            <individualName>
+<givenName>Gustavo</givenName>                    <surName>Chiaramonte</surName>
+            </individualName>
+<organizationName>Museo Argentino de Ciencias Naturales &apos;Bernardino Rivadavia&apos;</organizationName><positionName>Curador</positionName>            <address>
+<deliveryPoint>Av. Angel Gallardo 470</deliveryPoint><city>Ciudad Autónoma de Buenos Aires</city><administrativeArea>C.A.B.A.</administrativeArea><postalCode>C1405DJR</postalCode><country>ARGENTINA</country>            </address>
+<phone>(5411) 4982-0306 / 1154 / 5243 / 4494</phone><electronicMailAddress>gchiaram@macn.gov.ar</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Daniel</givenName>                    <surName>Rodríguez</surName>
+            </individualName>
+<electronicMailAddress>drodriguez@macn.gov.ar</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Daniel</givenName>                    <surName>Rodríguez</surName>
+            </individualName>
+<electronicMailAddress>drodriguez@macn.gov.ar</electronicMailAddress>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2021-12-31
+            </pubDate>
+        <language>SPANISH</language>
+            <abstract>
+                    <para>Database of the collection of Ichthyology, contains around 6000 records and 99,000 specimens of the freshwater and marine fishes of Argentina, representing most families of the Argentine ichthyofauna.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Gustavo</givenName>                    <surName>Chiaramonte</surName>
+            </individualName>
+<organizationName>Museo Argentino de Ciencias Naturales &apos;Bernardino Rivadavia&apos;</organizationName><positionName>Curador</positionName>            <address>
+<deliveryPoint>Av. Angel Gallardo 470</deliveryPoint><city>Ciudad Autónoma de Buenos Aires</city><administrativeArea>C.A.B.A.</administrativeArea><postalCode>C1405DJR</postalCode><country>ARGENTINA</country>            </address>
+<phone>(5411) 4982-0306 / 1154 / 5243 / 4494</phone><electronicMailAddress>gchiaram@macn.gov.ar</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:40Z</dateStamp>
+                <citation>Chiaramonte G, Rodríguez D (2021). Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Ichthyology National Collection (MACNIct). Version 1.71. Museo Argentino de Ciencias Naturales. Occurrence dataset https://doi.org/10.15468/zt71cj accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>http://168.96.62.13:8080/ipt/logo.do?r=macnict</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

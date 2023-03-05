@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="80ebe7f9-00ee-4fe3-80f6-303729cf5bac"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/wrvy1y</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=uam_inv</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=uam_inv</alternateIdentifier>
+                <alternateIdentifier>80ebe7f9-00ee-4fe3-80f6-303729cf5bac</alternateIdentifier>
+                <alternateIdentifier>14807</alternateIdentifier>
+        <title>UAM Invertebrate Collection (Arctos)</title>
+            <creator>
+            <individualName>
+<givenName>Andres</givenName>                    <surName>Lopez</surName>
+            </individualName>
+<organizationName>University of Alaska Museum</organizationName><positionName>Curator of Fishes</positionName>            <address>
+<deliveryPoint>907 Yukon Drive</deliveryPoint><city>Fairbanks</city><administrativeArea>AK</administrativeArea><postalCode>99775-6960</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>jalopez2@alaska.edu</electronicMailAddress><onlineUrl>http://www.uaf.edu/museum/collections/aqua/</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Andres</givenName>                    <surName>Lopez</surName>
+            </individualName>
+<organizationName>University of Alaska Museum</organizationName><positionName>Curator of Fishes</positionName>            <address>
+<deliveryPoint>907 Yukon Drive</deliveryPoint><city>Fairbanks</city><administrativeArea>AK</administrativeArea><postalCode>99775-6960</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>jalopez2@alaska.edu</electronicMailAddress><onlineUrl>http://www.uaf.edu/museum/collections/aqua/</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Laura</givenName>                    <surName>Russell</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@vertnet.org</electronicMailAddress>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>John</givenName>                    <surName>Wieczorek</surName>
+            </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Dusty</givenName>                    <surName>McDonald</surName>
+            </individualName>
+<organizationName>University of Alaska Museum</organizationName><positionName>Arctos Database Programmer</positionName><electronicMailAddress>dlmcdonald@alaska.edu</electronicMailAddress><onlineUrl>http://arctos.database.museum</onlineUrl>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <pubDate>
+                2022-12-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Marine and freshwater invertebrates (excluding aquatic insects) of Alaska and nearby regions. Holdings primarily consist of collections from oceanographic surveys in the Bering, Chukchi and Beaufort seas.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>North America, North Pacific Ocean, Arctic Ocean, Europe, South Pacific Ocean, Asia, Africa, Central America, South America, North Atlantic Ocean.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Gastropoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Bivalvia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Gymnolaemata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Malacostraca</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Scaphopoda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Polyplacophora</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Pycnogonida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Asteroidea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Cephalopoda</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Andres</givenName>                    <surName>Lopez</surName>
+            </individualName>
+<organizationName>University of Alaska Museum</organizationName><positionName>Curator of Fishes</positionName>            <address>
+<deliveryPoint>907 Yukon Drive</deliveryPoint><city>Fairbanks</city><administrativeArea>AK</administrativeArea><postalCode>99775-6960</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>jalopez2@alaska.edu</electronicMailAddress><onlineUrl>http://www.uaf.edu/museum/collections/aqua/</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:55:35Z</dateStamp>
+                <citation>Lopez A (2022). UAM Invertebrate Collection (Arctos). Version 31.69. University of Alaska Museum of the North. Occurrence dataset https://doi.org/10.15468/wrvy1y accessed via GBIF.org on 2023-01-20.</citation>
+                    <livingTimePeriod>1948 to present</livingTimePeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

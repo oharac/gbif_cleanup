@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8008770e-f762-11e1-a439-00145eb45e9a"  system="http://gbif.org" scope="system"
+xml:lang="es">
+
+    <dataset>
+            <alternateIdentifier>10.15468/xay8hy</alternateIdentifier>
+                <alternateIdentifier>https://www.snib.mx/iptconabio/resource?r=SNIB-S022-Peces97</alternateIdentifier>
+                <alternateIdentifier>http://ipttest.conabio.gob.mx/iptconabiotest/resource?r=SNIB-S022</alternateIdentifier>
+                <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-S022-Peces97</alternateIdentifier>
+                <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-S022-Peces97-S022106F</alternateIdentifier>
+                <alternateIdentifier>8008770e-f762-11e1-a439-00145eb45e9a</alternateIdentifier>
+                <alternateIdentifier>13235</alternateIdentifier>
+        <title>Diversidad y distribución de las comunidades de fitoplancton y peces de ríos y lagunas del volcán San Martín de la reserva de la biósfera Los Tuxtlas (Peces)</title>
+            <creator>
+            <individualName>
+<givenName>Gabriela</givenName>                    <surName>Vázquez Hurtado</surName>
+            </individualName>
+<organizationName>Instituto de Ecología AC</organizationName><positionName>Responsable</positionName>            <address>
+<country>MEXICO</country>            </address>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>CONABIO</givenName>                    <surName>Comisión nacional para el conocimiento y uso de la biodiversidad</surName>
+            </individualName>
+<organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName><positionName>Dirección General de Sistemas</positionName>            <address>
+<deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint><city>MÉXICO</city><administrativeArea>Tlalpan</administrativeArea><postalCode>14010</postalCode><country>MEXICO</country>            </address>
+<phone>50045000</phone><electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress><onlineUrl>https://www.gob.mx/conabio</onlineUrl>            </metadataProvider>
+            <pubDate>
+                2021-07-16
+            </pubDate>
+        <language>SPANISH</language>
+            <abstract>
+                    <para>Orográficamente Los Tuxtlas se caracterizan por la existencia de los volcanes Santa Marta, San Martín y San Martín Pajapan. Su abrupta topografía influye en el clima de la zona, así como en la estructura de la red de drenaje, además de que favorece la presencia de cuerpos de agua estables. En los alrededores del volcán San Martín, desde Catemaco hasta su límite occidental, se encuentra cerca del 80% de las lagunas de agua dulce de la región. La mayoría de estos sistemas son de origen volcánico.
+En particular, la fauna ictiológica presenta una gran diversidad, pero ha sido poco estudiada. Las principales familias reportadas en estos sistemas son la F. Poeciliidae, F. Atherinidae, F. Ciclhidae, F. Mugilidae, entre otras. En el lago de Catemaco se han reportado especies endémicas como Poecilia catemaconis y Poeciliopis catemaco. Algunas otras especies reportadas como endémicas de los Tuxtlas son Bramocarax caballeroi, Priapella olmecae y Xiphophosurus milleri. En relación al fitoplancton, se han realizado muestreos preliminares de algunas lagunas de los Tuxtlas, encontrándose especies pertenecientes a diferentes grupos, principalmente de los órdenes Chroococcales, Nostocales, Oscillatoriales, Volvocales y Chlorococcales. La proporción de cada grupo taxonómico varió en los diferentes sistemas según su estado de conservación.
+Tomando en consideración como zona de reserva, el objetivo principal de este proyecto es obtener listas taxonómicas de las comunidades de fitoplancton y peces de las lagunas de origen volcánico y de algunos ríos de la zona de influencia del volcán San Martín en la Reserva de la Biosfera Los Tuxtlas. Debido a que se estudiarán ríos y lagunas con diferente estado de conservación, la información que se obtenga en este proyecto, permitirá evaluar el impacto que la deforestación ha tenido sobre la diversidad de las comunidades de fitoplancton y peces.</para>
+                    <para>Reino: 1
+Filo: 1
+Clase: 1
+Orden: 12
+Familia: 13
+Género: 22
+Especie: 29</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Peces</keyword>
+                        <keywordThesaurus>N/A</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://www.snib.mx/proyectos/cgi-bin/datos2.cgi?Letras=S&amp;Numero=22</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                2000-01-16
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2000-11-03
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Reino: Animalia
+Filo: Chordata
+Clase: Osteichthyes
+Orden: Cyprinodontiformes, Gobiiformes, Cichliformes, Mugiliformes, Acanthuriformes, Syngnathiformes, Synbranchiformes, Characiformes, Anguilliformes, Siluriformes, Clupeiformes, Perciformes
+Familia: Poeciliidae, Eleotridae, Cichlidae, Mugilidae, Sciaenidae, Syngnathidae, Synbranchidae, Gobiidae, Characidae, Anguillidae, Heptapteridae, Clupeidae, Haemulidae</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Animalia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Chordata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Osteichthyes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Cyprinodontiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Gobiiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Cichliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Mugiliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Acanthuriformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Syngnathiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Synbranchiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Characiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Anguilliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Siluriformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Clupeiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Perciformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Poeciliidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Eleotridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cichlidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Mugilidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Sciaenidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Syngnathidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Synbranchidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Gobiidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Characidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Anguillidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Heptapteridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Clupeidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Haemulidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Heterandria</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Gobiomorus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Cichlasoma</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Xiphophorus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Agonostomus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Aplodinotus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Microphis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Ophisternon</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Sicydium</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Awaous</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Astyanax</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Poecilia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Eleotris</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Anguilla</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Rhamdia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Poeciliopsis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Dorosoma</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Bramocharax</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Pomadasys</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Mugil</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Oreochromis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Priapella</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Heterandria bimaculata</taxonRankValue>
+                                        <commonName>guapote manchado, guatopote manchado</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Gobiomorus dormitor</taxonRankValue>
+                                        <commonName>dormilón bocón, guavina bocón</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cichlasoma friedrichsthalii</taxonRankValue>
+                                        <commonName>mojarra de San Juan, mojarra del San Juan</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Xiphophorus hellerii</taxonRankValue>
+                                        <commonName>cola de espada</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cichlasoma callolepis</taxonRankValue>
+                                        <commonName>mojarra de San Domingo, mojarra de Santo Domingo</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Agonostomus monticola</taxonRankValue>
+                                        <commonName>trucha de tierra caliente</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Aplodinotus grunniens</taxonRankValue>
+                                        <commonName>roncador de agua dulce, roncador de agua dulce malachigan</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Microphis brachyurus</taxonRankValue>
+                                        <commonName>culebra, pez pipa culebra</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Ophisternon aenigmaticum</taxonRankValue>
+                                        <commonName>anguila, anguila falsa</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Sicydium gymnogaster</taxonRankValue>
+                                        <commonName>dormilón de Veracruz</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Awaous tajasica</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Astyanax aeneus</taxonRankValue>
+                                        <commonName>pepesca de Catemaco, pepesca, sardinita de Pénjamo</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cichlasoma fenestratum</taxonRankValue>
+                                        <commonName>mojarra de La Lana</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Poecilia mexicana</taxonRankValue>
+                                        <commonName>topote, topote del Atlántico</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Eleotris pisonis</taxonRankValue>
+                                        <commonName>dormilón</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Anguilla rostrata</taxonRankValue>
+                                        <commonName>anguila americana</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cichlasoma salvini</taxonRankValue>
+                                        <commonName>guapote tricolor</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Rhamdia guatemalensis</taxonRankValue>
+                                        <commonName>juil descolorido</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Poeciliopsis gracilis</taxonRankValue>
+                                        <commonName>guapote jarocho, guatopote jarocho</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Dorosoma petenense</taxonRankValue>
+                                        <commonName>sardina maya</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Bramocharax caballeroi</taxonRankValue>
+                                        <commonName>pepesca de Catemaco</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Xiphophorus milleri</taxonRankValue>
+                                        <commonName>espada de Catemaco</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Xiphophorus clemenciae</taxonRankValue>
+                                        <commonName>espada de Clemencia</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Pomadasys crocro</taxonRankValue>
+                                        <commonName>corocoro crocro</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Mugil curema</taxonRankValue>
+                                        <commonName>lisa blanca</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Poecilia catemaconis</taxonRankValue>
+                                        <commonName>topote de Catemaco</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Oreochromis mossambicus</taxonRankValue>
+                                        <commonName>tilapia, tilapia mosambica</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Poeciliopsis catemaco</taxonRankValue>
+                                        <commonName>guatopote blanco</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Priapella olmecae</taxonRankValue>
+                                        <commonName>guayacón olmeca</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Patricia</givenName>                    <surName>Ramos Rivera</surName>
+            </individualName>
+<organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName><positionName>Dirección General de Sistemas</positionName>            <address>
+<deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint><city>México</city><administrativeArea>Tlalpan</administrativeArea><postalCode>14010</postalCode><country>MEXICO</country>            </address>
+<phone>50045000</phone><electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress><onlineUrl>https://www.gob.mx/conabio</onlineUrl>            </contact>
+
+            <project id="SNIB-S022-Peces97-S022106F">
+                <title>Diversidad y distribución de las comunidades de fitoplancton y peces de ríos y lagunas del volcán San Martín de la reserva de la biósfera Los Tuxtlas (Peces)</title>
+                    <personnel>
+            <individualName>
+<givenName>Gabriela</givenName>                    <surName>Vázquez Hurtado</surName>
+            </individualName>
+            <role>CONTENT_PROVIDER</role>
+                    </personnel>
+                <abstract>
+                    <para>Orográficamente Los Tuxtlas se caracterizan por la existencia de los volcanes Santa Marta, San Martín y San Martín Pajapan. Su abrupta topografía influye en el clima de la zona, así como en la estructura de la red de drenaje, además de que favorece la presencia de cuerpos de agua estables. En los alrededores del volcán San Martín, desde Catemaco hasta su límite occidental, se encuentra cerca del 80% de las lagunas de agua dulce de la región. La mayoría de estos sistemas son de origen volcánico.
+En particular, la fauna ictiológica presenta una gran diversidad, pero ha sido poco estudiada. Las principales familias reportadas en estos sistemas son la F. Poeciliidae, F. Atherinidae, F. Ciclhidae, F. Mugilidae, entre otras. En el lago de Catemaco se han reportado especies endémicas como Poecilia catemaconis y Poeciliopis catemaco. Algunas otras especies reportadas como endémicas de los Tuxtlas son Bramocarax caballeroi, Priapella olmecae y Xiphophosurus milleri. En relación al fitoplancton, se han realizado muestreos preliminares de algunas lagunas de los Tuxtlas, encontrándose especies pertenecientes a diferentes grupos, principalmente de los órdenes Chroococcales, Nostocales, Oscillatoriales, Volvocales y Chlorococcales. La proporción de cada grupo taxonómico varió en los diferentes sistemas según su estado de conservación.
+Tomando en consideración como zona de reserva, el objetivo principal de este proyecto es obtener listas taxonómicas de las comunidades de fitoplancton y peces de las lagunas de origen volcánico y de algunos ríos de la zona de influencia del volcán San Martín en la Reserva de la Biosfera Los Tuxtlas. Debido a que se estudiarán ríos y lagunas con diferente estado de conservación, la información que se obtenga en este proyecto, permitirá evaluar el impacto que la deforestación ha tenido sobre la diversidad de las comunidades de fitoplancton y peces.</para>
+                </abstract>
+                <funding>
+                    <para>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>Peces
+óseos como anchoas, anguilas, arenques, atunes, bacalaos, bagres, caballitos de mar, carpas, lenguados, merluzas, meros, mojarras, morenas, percas, peces globo, pejelagartos, pirañas, plecos, rémoras, sardinas, salmones, truchas</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:34Z</dateStamp>
+                <citation>Vázquez Hurtado G, Comisión nacional para el conocimiento y uso de la biodiversidad C (2021). Diversidad y distribución de las comunidades de fitoplancton y peces de ríos y lagunas del volcán San Martín de la reserva de la biósfera Los Tuxtlas (Peces). Comisión nacional para el conocimiento y uso de la biodiversidad. Occurrence dataset https://doi.org/10.15468/xay8hy accessed via GBIF.org on 2023-01-20.</citation>
+                    <bibliography>
+                <citation>Contreras-Balderas S.  &amp;  Rivera R. 1985. Bramocharax (Catemaco) caballeroi subgén. et sp. nv., del lago de Catemaco, Veracruz, México (Pisces: Characidae). Inst. Inv. Cient., U.A.N.L. (2):7-29. México.</citation>
+                <citation>Espinosa Pérez H., Gaspar Dillanes M.T. &amp;  Fuentes Mata P. 9999. Listados faunísticos de México III. Los peces dulceacuícolas mexicanos. 100. Tésis de No Aplica. Instituto de Biología, UNAM. México.</citation>
+                <citation>ND. 9999. Trans. San Diego Soc. Nat. Hist. 235-250. Tésis de No Aplica.</citation>
+                <citation>Miller R.R. 1974. Mexican species of the genus Heterandria, subgenus pseudoxiphophorus. Trans. San Diego Soc. Nat. Hist. (17):235-.250</citation>
+                <citation>ND. 9999. Bull. Florida State Mus., Biol. Sci. 1-242. Tésis de No Aplica.</citation>
+                <citation>Rosen, D.E. 1960. Middle America poeciliid fishes of the genus Xiphophorus. Bull. Florida State Mus., Biol. Sci. (5):1-242</citation>
+                <citation>Torres-Orozco, B.R. 9999. Los peces de México. 70. Tésis de No Aplica. AGT. México, D.F.</citation>
+                <citation>Alvarez, J. 9999. Peces Mexicanos. 166. Tésis de No Aplica. Inst. Nal. Inv. Biol. Pesq. México, D.F.</citation>
+                <citation>Castro-Aguirre J.L., Espinosa Pérez H. &amp;  Schmitter-Soto J.J. 9999. Ictiofauna estuarino-lagunar y vicaria de México. 712. Tésis de No Aplica. NORIEGA-LIMUSA. México, D.F.</citation>
+                <citation>ND. 9999. Zoología Informa. 1-13. Tésis de No Aplica. ENCB-IPN. México, D.F.</citation>
+                <citation>Contreras-Balderas S.  &amp;  Lozano-Vilano M.L. 1998. Problemas nomenclaturales de las formas mexicanas del género Astyanax (Pisces: Characidae). Zoología Informa. (38):1-13. ENCB-IPN. México, D.F.</citation>
+                <citation>Paulo-Maya J. 9999. Análisis morfométrico del género Astyanax (Pisces: Characidae) en México. 60. Tésis de Maestria. Departamento de Zoología, Escuela Nacional de Ciencias Biológicas, I.P.N. México, D.F.</citation>
+                <citation>Castro-Aguirre J.L. 9999. Catálogo sistemático de los peces marinos que penetran a las aguas marinas continentales de México, con aspectos zoogeográficos y ecológicos. 298. Tésis de No Aplica. Dir. Gral. del Inst. Nal. de Pesca. México, D.F.</citation>
+                <citation>ND. 9999. Copeia. 225-237. Tésis de No Aplica. USA.</citation>
+                <citation>Menzel, B.W. &amp;  Darnell R.M. 1973. Systematics of Poecilia mexicana (Pisces: Poeciliidae) in northern Mexico. Copeia. (2):225-237. USA.</citation>
+                <citation>Rojas G.J. &amp;  Ramírez F.M.F. 9999. Los góbidos de la laguna de La Mancha del estado de Veracruz (sistemática, biología y ecología). 70. Tésis de No Aplica. Universidad Veracruzana. Veracruz, México.</citation>
+                <citation>Schmitter-Soto J.J. 9999. Catálogo de los peces continentales de Quintana Roo. 239. Tésis de No Aplica. ECOSUR. México.</citation>
+                <citation>Miller R.R. &amp;  B.C. Nelson. 1961. Variation, life colors and ecology of Cichlasoma callolepis a cichlid fish fron southern Mexico, with a discussion of the Thoricthys. Occ. Pap. Mus. Zool. Univ. Mich. (622):1-14. USA.</citation>
+                <citation>Arredondo Figueroa J.L. &amp;  Guzmán Arroyo M. 1985. Actual situación taxonómica de las especies de la tribu Tilapiini (Pisces: Cichlidae) introducidas en México. Anales Inst. Biol. Univ. Nac. Autón. México. 56(2):1-242. México.</citation>
+                <citation>Meyer M. K.  &amp;  Espinosa Pérez H. 1990. Priapella olmecae sp. n., a New Species from Veracruz (Mexico) (Teleostei: Poeciliidae). Zool. Abh. Mus. Tierka. Dresden. 45(12):121-126</citation>
+                <citation>Miller R.R. &amp;  B.C. Nelson. 1975. Five new species of Mexican Poeciliid Fishes of the Genera Poecilia, Gambusia, and Poeciliopsis. Occ. Pap. Mus. Zool. Univ. Mich. (672):1-43. USA.</citation>
+                <citation>Espinosa Pérez H., Gaspar Dillanes M.T. &amp;  Fuentes Mata P. 9999. Listados faunísticos de México III. Los peces dulceacuícolas mexicanos. 1-242. Tésis de No Aplica. Instituto de Biología, UNAM. México.</citation>
+                <citation>Miller R.R. 1974. Mexican species of the genus Heterandria, subgenus pseudoxiphophorus. Trans. San Diego Soc. Nat. Hist. (17):235-250</citation>
+                <citation>ND. 9999. Zoología Informa. 1-14. Tésis de No Aplica. ENCB-IPN. México, D.F.</citation>
+                <citation>Contreras-Balderas S.  &amp;  Lozano-Vilano M.L. 1998. Problemas nomenclaturales de las formas mexicanas del género Astyanax (Pisces: Characidae). Zoología Informa. (38):1-14. ENCB-IPN. México, D.F.</citation>
+                <citation>Paulo-Maya J. 9999. Análisis morfométrico del género Astyanax (Pisces: Characidae) en México. 61. Tésis de Maestria. Departamento de Zoología, Escuela Nacional de Ciencias Biológicas, I.P.N. México, D.F.</citation>
+                <citation>Paulo-Maya J. 9999. Análisis morfométrico del género Astyanax (Pisces: Characidae) en México. 69. Tésis de Maestria. Departamento de Zoología, Escuela Nacional de Ciencias Biológicas, I.P.N. México, D.F.</citation>
+                <citation>Castro-Aguirre J.L. 9999. Catálogo sistemático de los peces marinos que penetran a las aguas marinas continentales de México, con aspectos zoogeográficos y ecológicos. 712. Tésis de No Aplica. Dir. Gral. del Inst. Nal. de Pesca. México, D.F.</citation>
+                <citation>Miller R.R. &amp;  B.C. Nelson. 1961. Variation, life colors and ecology of Cichlasoma callolepis a cichlid fish fron southern Mexico, with a discussion of the Thoricthys. Occ. Pap. Mus. Zool. Univ. Mich. (622):1-9. USA.</citation>
+                    </bibliography>
+                    <physical>
+                        <objectName>SNIB-S022-Peces-CSV.zip</objectName>
+                        <characterEncoding>UTF-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>CSV</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">http://www.snib.mx/proyectos/S022/Peces/SNIB-S022-Peces-CSV.zip</url>
+                            </online>
+                        </distribution>
+                    </physical>
+                    <physical>
+                        <objectName>SNIB-S022-Peces-BD.zip</objectName>
+                        <characterEncoding>UTF-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>MDB</formatName>
+                                    <formatVersion>MicrosoftAccess2007</formatVersion>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">http://www.snib.mx/proyectos/S022/Peces/SNIB-S022-Peces-BD.zip</url>
+                            </online>
+                        </distribution>
+                    </physical>
+                        <collection>
+                            <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                            <collectionIdentifier>SNIB-S022-Peces97-S022106F</collectionIdentifier>
+                            <collectionName>Colección Ictiológica;MNCN;Museo Nacional de Ciencias Naturales;MNCN</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                            <collectionIdentifier>SNIB-S022-Peces97-S022106F</collectionIdentifier>
+                            <collectionName>Colección Nacional de Peces Dulceacuícolas Mexicanos;ENCB-IPN-P;Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional;ENCB-IPN</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+                            <jgtiCuratorialUnit>
+                                <jgtiUnitType>Ejemplar</jgtiUnitType>
+                                <jgtiUnitRange>
+                                    <beginRange>1</beginRange>
+                                    <endRange>285</endRange>
+                                </jgtiUnitRange>
+                            </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

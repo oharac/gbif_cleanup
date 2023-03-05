@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e9ce0cbd-2e8e-4d78-804a-239abd591fcb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/unitpr</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vtatlasoflife.org/resource?r=lewis_fish_sph</alternateIdentifier>
+                <alternateIdentifier>e9ce0cbd-2e8e-4d78-804a-239abd591fcb</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vtecostudies.org/ipt-2.3.5/resource?r=lewis_fish_sph</alternateIdentifier>
+        <title>Lewis Creek fish surveys 2016</title>
+            <creator>
+            <individualName>
+<givenName>Spencer</givenName>                    <surName>Hardy</surName>
+            </individualName>
+<organizationName>Middlebury College</organizationName><positionName>Student</positionName>            <address>
+<administrativeArea>VT</administrativeArea><postalCode>05055</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>shardy@vtecostudies.org</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0003-3004-2271</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Spencer</givenName>                    <surName>Hardy</surName>
+            </individualName>
+<organizationName>Middlebury College</organizationName><positionName>Student</positionName>            <address>
+<administrativeArea>VT</administrativeArea><postalCode>05055</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>shardy@vtecostudies.org</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0003-3004-2271</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Spencer</givenName>                    <surName>Hardy</surName>
+            </individualName>
+<electronicMailAddress>shardy@vtecostudies.org</electronicMailAddress>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2021-12-22
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Surveys of fish in Lewis Creek done as part of Spencer Hardy&amp;#39;s Middlebury College undergraduate Biology thesis. All sampling done by wading with backpack electroshocker. Difficult identifications confirmed by Rich Langdon via photos. No specimens collected. Full report: https://www.researchgate.net/publication/338882041</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Samplingevent</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Samplingevent</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.researchgate.net/publication/338882041_An_Investigation_into_the_Ichthyofauna_of_Lewis_Creek_and_their_Relationship_to_the_Broader_Environment</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Lewis Creek, Vermont</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-73.294</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-72.978</eastBoundingCoordinate>
+                                <northBoundingCoordinate>44.326</northBoundingCoordinate>
+                                <southBoundingCoordinate>44.155</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                0004-10-18
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                0012-02-18
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>All fish, including Eels and Lamprey</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Superclass</taxonRankName>
+                                    <taxonRankValue>Agnatha</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Spencer</givenName>                    <surName>Hardy</surName>
+            </individualName>
+<organizationName>Middlebury College</organizationName><positionName>Student</positionName>            <address>
+<administrativeArea>VT</administrativeArea><postalCode>05055</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>shardy@vtecostudies.org</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0003-3004-2271</userId>
+            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Sampling was done in an upstream direction, attempting to cover the width of the channel and a representative selection of micro habitats. Sampling effort was recorded by the timer on the electorshocker (seconds of use). Individual fish caught, identified, recorded, and then released downstream. Unfamiliar species were kept in a bucket and identified at the end of the survey, photographed if necessary then released.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Lewis Creek Watershed, sampled periodically in spring and fall 2016</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Backpack electroshocking with dip nets and waders.</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>Difficult IDs checked by state fisheries biologist, Rich Langdon</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project >
+                <title>Middlebury College Biology Thesis - Spencer Hardy</title>
+                    <personnel>
+            <individualName>
+<givenName>Spencer</givenName>                    <surName>Hardy</surName>
+            </individualName>
+            <userId directory="http://orcid.org/">0000-0003-3004-2271</userId>
+            <role>AUTHOR</role>
+                    </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:53:06Z</dateStamp>
+                <citation>Hardy S (2021). Lewis Creek fish surveys 2016. Version 1.6. Vermont Center for Ecostudies. Sampling event dataset https://doi.org/10.15468/unitpr accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

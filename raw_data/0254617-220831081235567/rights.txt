@@ -1,0 +1,30 @@
+Dataset: International Barcode of Life project (iBOL) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Western Australian Museum provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: South Australian Museum Adelaide provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: AM: Freshwater Invertebrates (1900-2005) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INSDC Sequences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Material Samples (USNM) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Queensland Museum provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Crustacean specimens of Bihoro Museum 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Tasmanian Museum and Art Gallery provider for OZCAM-Arthropoda 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museums Victoria provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Crustacea 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Australian Museum provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Tasmanian Museum and Art Gallery provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode

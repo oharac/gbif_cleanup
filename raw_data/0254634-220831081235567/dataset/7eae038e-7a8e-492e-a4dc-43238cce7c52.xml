@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7eae038e-7a8e-492e-a4dc-43238cce7c52"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/fpdfbl</alternateIdentifier>
+                <alternateIdentifier>https://ipt.idigbio.org/resource?r=aum-mollusks</alternateIdentifier>
+                <alternateIdentifier>7eae038e-7a8e-492e-a4dc-43238cce7c52</alternateIdentifier>
+                <alternateIdentifier>http://ipt.idigbio.org/resource?r=aum-mollusks</alternateIdentifier>
+        <title>Auburn University Museum of Natural History Mollusks</title>
+            <creator>
+            <individualName>
+<givenName>Brianne</givenName>                    <surName>Varnerin</surName>
+            </individualName>
+<organizationName>Auburn University Museum of Natural History</organizationName><positionName>Collection Manager</positionName>            </creator>
+            <creator>
+            <individualName>
+<givenName>Nusrat</givenName>                    <surName>Noor</surName>
+            </individualName>
+<organizationName>Auburn University Museum of Natural History</organizationName><positionName>Collection Manager</positionName><electronicMailAddress>njn0012@auburn.edu</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Brianne</givenName>                    <surName>Varnerin</surName>
+            </individualName>
+<organizationName>Auburn University Museum of Natural History</organizationName><positionName>Collection Manager</positionName>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Nusrat</givenName>                    <surName>Noor</surName>
+            </individualName>
+<organizationName>Auburn University Museum of Natural History</organizationName><positionName>Collection Manager</positionName><electronicMailAddress>njn0012@auburn.edu</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Brianne</givenName>                    <surName>Varnerin</surName>
+            </individualName>
+<electronicMailAddress>bvv0002@auburn.edu</electronicMailAddress>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2022-05-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Auburn University Museum of Natural History Mollusk Collection consists of a wide range of taxa from all over the world. Our geographic foci lie in the Southeast U.S., with the great biodiversity of freshwater mussels in Alabama, and in Antarctica. We also have a strong representation of Oceania from two private shell collections donated over the years. The majority of our accessions have been through University research and affiliated persons. The Mollusk Collection contains representatives of most molluskan groups, with a heavy concentration in unionids.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Nusrat</givenName>                    <surName>Noor</surName>
+            </individualName>
+<organizationName>Auburn University Museum of Natural History</organizationName><positionName>Collection Manager</positionName><electronicMailAddress>njn0012@auburn.edu</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:55:37Z</dateStamp>
+                <citation>Varnerin B, Noor N (2022). Auburn University Museum of Natural History Mollusks. Version 1.4. Auburn University Museum. Occurrence dataset https://doi.org/10.15468/fpdfbl accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

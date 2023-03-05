@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="240f38f1-ada4-4eac-a9b5-28dd8308d01d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/jcy6y4</alternateIdentifier>
+                <alternateIdentifier>240f38f1-ada4-4eac-a9b5-28dd8308d01d</alternateIdentifier>
+                <alternateIdentifier>http://ipt.iobis.org/obiscanada/resource?r=maritimes_spring_rv_surveys</alternateIdentifier>
+        <title>Maritimes Spring Research Vessel Surveys</title>
+            <creator>
+            <individualName>
+<givenName>Catriona</givenName>                    <surName>Regnier-McKellar</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>Survey Biologist</positionName><electronicMailAddress>Catriona.Regnier-McKellar@dfo-mpo.gc.ca</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Catriona</givenName>                    <surName>Regnier-McKellar</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>Survey Biologist</positionName><electronicMailAddress>Catriona.Regnier-McKellar@dfo-mpo.gc.ca</electronicMailAddress>            </metadataProvider>
+            <pubDate>
+                2022-03-23
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Fisheries and Oceans Canada (DFO) ecosystem surveys consist of research vessel survey data collected to monitor the distribution and abundance of fish and invertebrates throughout the Scotian Shelf, Bay of Fundy and Georges Bank. The surveys follow a stratified random sampling design, and include sampling of fish and invertebrates using a bottom otter trawl. These survey data are the primary data source for monitoring trends in species distribution, abundance, and biological condition within the region, and also provide data to the Atlantic Zonal Monitoring Program (AZMP) for monitoring hydrographic variability. Collected data includes total catch in numbers and weights by species. Length frequency data is available for most species, as are the age, sex, maturity and weight information for a subset of the individual animals. Other data such as ageing material, genetic material, and stomach contents are often also collected, but are stored elsewhere.
+
+“Spring” cruises occur in January, February, March and April, and focus on Georges Bank (i.e. 5Z).</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Samplingevent</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Biological Classification</keyword>
+                        <keyword>Oceans</keyword>
+                        <keyword>Scotian Shelf</keyword>
+                        <keyword>Agricultural</keyword>
+                        <keyword>Fisheries</keyword>
+                        <keyword>Gulf of Maine and Bay of Fundy</keyword>
+                        <keyword>North Atlantic Ocean</keyword>
+                        <keyword>Earth Science</keyword>
+                        <keyword>Ecological Dynamics</keyword>
+                        <keyword>Animals/Vertebrates</keyword>
+                        <keyword>Species/Population Interactions</keyword>
+                        <keyword>Biosphere</keyword>
+                        <keyword>Fish</keyword>
+                        <keyword>Agriculture</keyword>
+                        <keyword>North Atlantic</keyword>
+                        <keyword>Aquatic Sciences</keyword>
+                        <keywordThesaurus>https://www.bac-lac.gc.ca/eng/services/government-information-resources/controlled-vocabularies/Pages/controlled-vocabularies.aspx</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://open.canada.ca/data/en/dataset/fecf045a-95a2-4b69-8a40-818649a62716</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Spring cruises focus on Georges Bank (i.e. 5Z).</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-70.011</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-55.939</eastBoundingCoordinate>
+                                <northBoundingCoordinate>47.57</northBoundingCoordinate>
+                                <southBoundingCoordinate>40.015</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1979-03-05
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2020-03-19
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                                        <commonName>Ray-finned fishes</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Anthozoa</taxonRankValue>
+                                        <commonName>Sea anemones/Stony Corals/Soft corals</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Ascidiacea</taxonRankValue>
+                                        <commonName>Ascidians/Tunicates/Sea Squirts</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Asteroidea</taxonRankValue>
+                                        <commonName>Sea Stars</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Bivalvia</taxonRankValue>
+                                        <commonName>Bivalve molluscs</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Cephalopoda</taxonRankValue>
+                                        <commonName>Cephalopods</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Demospongiae</taxonRankValue>
+                                        <commonName>Sponges</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Echinoidea</taxonRankValue>
+                                        <commonName>Sea urchins</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Elasmobranchii</taxonRankValue>
+                                        <commonName>Sharks/Rays/Skates/etc.</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Gastropoda</taxonRankValue>
+                                        <commonName>snails</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Gephyrea</taxonRankValue>
+                                        <commonName>non-annulated worms</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Gymnolaemata</taxonRankValue>
+                                        <commonName>Bryozoans</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Hexactinellida</taxonRankValue>
+                                        <commonName>Hexactinellid sponges</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Hexanauplia</taxonRankValue>
+                                        <commonName>Copepods/Barnacles/etc.</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Holocephali</taxonRankValue>
+                                        <commonName>Chimaeras</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Holothuroidea</taxonRankValue>
+                                        <commonName>Sea cucumbers</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Hydrozoa</taxonRankValue>
+                                        <commonName>Hydrozoans</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Malacostraca</taxonRankValue>
+                                        <commonName>Crabs/Lobsters/Shrimp/Amphipods/Isopods/etc.</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Mammalia</taxonRankValue>
+                                        <commonName>Mammals</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Myxini</taxonRankValue>
+                                        <commonName>Hagfish</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Ophiuroidea</taxonRankValue>
+                                        <commonName>Brittlestars/Basketstars/etc.</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Petromyzonti</taxonRankValue>
+                                        <commonName>Lamprey</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Phaeophyceae</taxonRankValue>
+                                        <commonName>Brown Algae</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Polychaeta</taxonRankValue>
+                                        <commonName>Bristleworms/Polychaetes</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Polyplacophora</taxonRankValue>
+                                        <commonName>Chitons</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Pycnogonida</taxonRankValue>
+                                        <commonName>Sea Spiders</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Rhynchonellata</taxonRankValue>
+                                        <commonName>Brachiopods</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Scyphozoa</taxonRankValue>
+                                        <commonName>True jellies</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Sipunculidea</taxonRankValue>
+                                        <commonName>Stalked jellyfish</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Thaliacea</taxonRankValue>
+                                        <commonName>Tunicate</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Ulvophyceae</taxonRankValue>
+                                        <commonName>Green Algae</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Annelida</taxonRankValue>
+                                        <commonName>Segmented worms</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Arthropoda</taxonRankValue>
+                                        <commonName>Crustaceans</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Brachiopoda</taxonRankValue>
+                                        <commonName>Lampshells</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Bryozoa</taxonRankValue>
+                                        <commonName>Bryozoans</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Chordata</taxonRankValue>
+                                        <commonName>Chordates</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Ctenophora</taxonRankValue>
+                                        <commonName>Comb Jellies</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Mollusca</taxonRankValue>
+                                        <commonName>Molluscs</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Nematoda</taxonRankValue>
+                                        <commonName>Nematodes (round worms)</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Nemertea</taxonRankValue>
+                                        <commonName>Ribbon worms</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Porifera</taxonRankValue>
+                                        <commonName>Sponges</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Animalia</taxonRankValue>
+                                        <commonName>Animals</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Plantae</taxonRankValue>
+                                        <commonName>Plants</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Catriona</givenName>                    <surName>Regnier-McKellar</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>Survey Biologist</positionName><electronicMailAddress>Catriona.Regnier-McKellar@dfo-mpo.gc.ca</electronicMailAddress>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>To prepare this dataset for OBIS Canada publication, data was structured into an OBIS-compatible format using R and laid out in four tables: an Event Core, Occurrence Core and three Extended Measurement of Fact extensions. Defined vocabularies listed on the Natural Environment Research Council (NERC) Vocabulary Server (NVS) were used whenever possible. Taxon matches were obtained from WoRMS.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>“Spring” cruises occur in January, February, March and April, and focus on Georges Bank (i.e. 5Z).</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Collected data includes total catch in numbers and weights by species. Length frequency data is available for most species, as are the age, sex, maturity and weight information for a subset of the individual animals.
+
+When a trawl is hauled, all of the individuals are sorted baskets by species,  and the baskets are weighed to get total biomass for a species.  
+
+If we have a large catch, some baskets will be kept for detailed sampling and others will be discarded. Only a subset of these are individually weighed, thus there are some occurrences which have a length but no weight. When a trawl is hauled, all of the individuals for a given species are weighed and counted.  These values become  total biomass and individual count.  For huge catches, the individual count is sometimes calculated from the weight.
+
+Prior to 1995, they used a spring scale for measuring total weight for a species.  It recorded to the nearest kg.  Small catches were entered as zero.  For many species, you can see Zero as the biomass estimate throughout these years.  
+
+Prior to 2005, there are some invertebrate records, but the focus was primarily on commercial species (e.g. scallop, lobster).  
+
+The “Strong Effect” shows up in the mid-90’s when Mike Strong insisted they start sorting the sculpins and pouts more carefully and our species count went up.
+
+The standard ID guide used is Scott and Scott, Atlantic fishes of Canada, and it appeared in the late 1980’s.  The guide available prior to that did not distinguish between Red Hake and White Hake.  We can see this in our data.  There are inconsistencies in using a separate code for Red Hake before about 1978.   It does not have much impact on White Hake, which has a much higher biomass, but it does for Red Hake.  
+
+Below 40cm, winter and little skate ID is questionable.</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>Data are input while at sea using the in-house developed application Groundfish Entry System. Rigorous error checks and warnings are applied and edits take place during sampling in most cases. Further quality assurance checks are applied before loading to the production database. Scientific names associated with resource occurrence records have been mapped to recognized standards - marine taxa have been mapped to the World Register of Marine Species (WoRMS). The WoRMS codes, the AphiaIDs have been included as LSIDs in the occurrence record DwC field scientificNameID.</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:34Z</dateStamp>
+                <citation>Regnier-McKellar C (2022). Maritimes Spring Research Vessel Surveys. Version 1.2. Fisheries and Oceans Canada. Sampling event dataset https://doi.org/10.15468/jcy6y4 accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>http://ipt.iobis.org/obiscanada/logo.do?r=maritimes_spring_rv_surveys</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c5126b60-6dc3-428b-b479-15a921199da1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/eyb0mq</alternateIdentifier>
+                <alternateIdentifier>c5126b60-6dc3-428b-b479-15a921199da1</alternateIdentifier>
+                <alternateIdentifier>https://bison.usgs.gov/ipt/resource?r=fwc-floridafreshwaterfishes</alternateIdentifier>
+        <title>Florida Fish and Wildlife Conservation Commission - Freshwater Fishes of Florida - 1956-2000</title>
+            <creator>
+            <individualName>
+<givenName>Theodore</givenName>                    <surName>Hoehn</surName>
+            </individualName>
+<organizationName>Florida Fish and Wildlife Conservation Commission</organizationName><positionName>Biologist</positionName>            <address>
+<deliveryPoint>620 S. Meridian Street, MS 5B5</deliveryPoint><city>Tallahassee</city><administrativeArea>Florida</administrativeArea><postalCode>32399-1600</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(850) 488-8792</phone><electronicMailAddress>ted.hoehn@myfwc.com</electronicMailAddress><onlineUrl>http://myfwc.com/</onlineUrl>            </creator>
+            <creator>
+            <individualName>
+<givenName>Eric</givenName>                    <surName>Nagid</surName>
+            </individualName>
+<organizationName>FWC - Fisheries Field Office</organizationName><positionName>Subsection Leader</positionName>            <address>
+<deliveryPoint>7922 NW 71st Street</deliveryPoint><city>Gainesville</city><administrativeArea>Florida</administrativeArea><postalCode>32653</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(352) 273-3651</phone><electronicMailAddress>eric.nagid@myFWC.com</electronicMailAddress><onlineUrl>http://myfwc.com/</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Elizabeth</givenName>                    <surName>Martin</surName>
+            </individualName>
+<organizationName>United States Geological Survey</organizationName><positionName>Biologist</positionName>            <address>
+<deliveryPoint>7920 NW 71st Street</deliveryPoint><city>Gainesville</city><administrativeArea>Florida</administrativeArea><postalCode>32653</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(352) 264-3485</phone><electronicMailAddress>elizabeth_martin@usgs.gov</electronicMailAddress><onlineUrl>https://www.usgs.gov/</onlineUrl>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Theodore</givenName>                    <surName>Hoehn</surName>
+            </individualName>
+<organizationName>Florida Fish and Wildlife Conservation Commission</organizationName><positionName>Biologist</positionName>            <address>
+<deliveryPoint>620 S. Meridian Street, MS 5B5</deliveryPoint><city>Tallahassee</city><administrativeArea>Florida</administrativeArea><postalCode>32399-1600</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(850) 488-8792</phone><electronicMailAddress>ted.hoehn@myfwc.com</electronicMailAddress><onlineUrl>http://myfwc.com/</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Theodore</givenName>                    <surName>Hoehn</surName>
+            </individualName>
+<organizationName>Florida Fish and Wildlife Conservation Commission</organizationName><positionName>Biologist</positionName>            <address>
+<deliveryPoint>620 S. Meridian Street, MS 5B5</deliveryPoint><city>Tallahassee</city><administrativeArea>Florida</administrativeArea><postalCode>32399-1600</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(850) 488-8792</phone><electronicMailAddress>ted.hoehn@myfwc.com</electronicMailAddress><onlineUrl>http://myfwc.com/</onlineUrl>            <role>CONTENT_PROVIDER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Eric</givenName>                    <surName>Nagid</surName>
+            </individualName>
+<organizationName>FWC - Fisheries Field Office</organizationName><positionName>Subsection Leader</positionName>            <address>
+<deliveryPoint>7922 NW 71st Street</deliveryPoint><city>Gainesville</city><administrativeArea>Florida</administrativeArea><postalCode>32653</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(352) 273-3651</phone><electronicMailAddress>eric.nagid@myFWC.com</electronicMailAddress><onlineUrl>http://myfwc.com/</onlineUrl>            <role>PROCESSOR</role>
+            </associatedParty>
+            <pubDate>
+                2018-06-12
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset consists of fisheries collection information from the Florida Fish and Wildlife Conservation Commission&amp;#39;s Division of Fisheries regional and field offices. The dataset was developed to identify and map freshwater species occurrences throughout Florida. These data are the results of data collection/processing by the Florida Fish and Wildlife Conservation Commission for many federally funded fisheries projects. These data were compiled into a comprehensive and standardized fisheries database for the Florida Fish and Wildlife Conservation Commission from various data programs and paper files. Collection location coordinates were based upon limited global positioning system (GPS) information, written information, the use of digital orthophoto quadrangles, digital raster graphic maps, and ArcView programs to obtain an estimated latitude and longitude for each fish collection site.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Freshwater fishes</keyword>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>n/a</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Genus</keyword>
+                        <keyword>Family</keyword>
+                        <keyword>Species</keyword>
+                        <keyword>Subspecies</keyword>
+                        <keywordThesaurus>Integrated Taxonomic Information System (2000-12-30): http://www.itis.gov/</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Metadata</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Observation</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Statewide geographic extent for the State of Florida</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-87.659</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-80.006</eastBoundingCoordinate>
+                                <northBoundingCoordinate>31.001</northBoundingCoordinate>
+                                <southBoundingCoordinate>24.514</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1956
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2000
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Fishes captured in sample collections were identified to family and species.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Animalia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Teleostei</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Holostei</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Chondrostei</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Chondrichthyes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Cephalaspidomorphi</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Theodore</givenName>                    <surName>Hoehn</surName>
+            </individualName>
+<organizationName>Florida Fish and Wildlife Conservation Commission</organizationName><positionName>Biologist</positionName>            <address>
+<deliveryPoint>620 S. Meridian Street, MS 5B5</deliveryPoint><city>Tallahassee</city><administrativeArea>Florida</administrativeArea><postalCode>32399-1600</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(850) 488-8792</phone><electronicMailAddress>ted.hoehn@myfwc.com</electronicMailAddress><onlineUrl>http://myfwc.com/</onlineUrl>            </contact>
+            <contact>
+            <individualName>
+<givenName>Eric</givenName>                    <surName>Nagid</surName>
+            </individualName>
+<organizationName>FWC - Fisheries Field Office</organizationName><positionName>Subsection Leader</positionName>            <address>
+<deliveryPoint>7922 NW 71st Street</deliveryPoint><city>Gainesville</city><administrativeArea>Florida</administrativeArea><postalCode>32653</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(352) 273-3651</phone><electronicMailAddress>eric.nagid@myFWC.com</electronicMailAddress><onlineUrl>http://myfwc.com/</onlineUrl>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Original compilation of the FLA_FISHES database by Florida Fish and Wildlife Conservation Commission staff:
+
+Data that contained all species samples were obtained from the Florida Fish and Wildlife Conservation Commission (FWC) field offices. The priority were data from 1990 to 2000, however, all data prior to this period were also obtained if possible. Data collected in the 1990-2000 period were generally electronically available, whereas, data prior to 1990 were generally available through hard copies. Electrofishing and block net gears were the only data obtained for lakes and reservoirs, although other gears were obtained for river and stream data. Data from the field offices were copied onto 3.5&quot; diskettes and labeled. The data were then copied to the main computer containing the fisheries database. The data were manipulated with the following headers in the fisheries database to relate to the database input format (the following are field names in original FLA_FISHES.mdb database): FCODE; FISHCODE; NO; TL_CM; TL_MM; SL_MM; WT_GR; CALC_WT; MARKED; REMOVED. Each waterbody was given a unique numbered FCODE, and individual fish species were given a unique four-lettered FISHCODE. Data manipulations included ensuring total lengths were in cm units, and individual weights were given in grams. When data were properly organized, sample information was written down which included information such as month, year, date, pedal time or net area, vegetative info, and comments for example. The file was then given a new file name and saved as a .dbf file format. The program used for the data entry was opened. Upon choosing the correct waterbody for data entry, sample information was entered and then the program asked for the file name from where the data were to be retrieved and the data were automatically entered into the database. The database consisted of several files that were linked by a common field. The .dbf files were EF_SAMPL, EF_DATA, BN_SAMPL, BN_DATA, FISHLIST, AND WATERBDY. Each waterbody that had sample information was identified. Field notes and maps were used to determine sampling locations. If GPS coordinates were obtained, the latitude and longitude in decimal degrees were entered into the corresponding fields in the WATERBDY table. If no GPS coordinates were provided, coordinates were obtained using ArcView software and USGS 1:100,000 drg maps and 1:24,000 DOQQs. Once the sampling location was determined, the USGS 8-digit HUC, NHD reach identifier, and the unique watershed number contained in the Florida Department of Environmental Protection&apos;s drainage basin 1995 GIS coverage was also entered into the appropriate fields.
+
+Spatial Reference Information in original metadata of Access database:
+Horizontal_Coordinate_System_Definition
+Geographic: 
+- Latitude_Resolution: .0588 
+- Longitude_Resolution: .0681 
+- Geographic_Coordinate_Units: Decimal degrees 
+Geodetic_Model: 
+- Horizontal_Datum_Name: North American Datum of 1983 
+- Ellipsoid_Name: Geodetic Reference System 80 
+- Semi-major_Axis: 6378137 
+- Denominator_of_Flattening_Ratio: 298.257</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Processing of FLA_FISHES database by U.S. Geological Survey staff for submission to Biodiversity Information Serving Our Nation (BISON) and the Global Biodiversity Information Facility (GBIF):
+
+Step 1 - File conversion of original MS Access database
+The original Access database (FLA_FISHES.mdb) was converted from an older format (MS Access 2000) into a newer MS Access 2010 database format (FLA_FISHES.accdb) that could be opened by a current version of the Microsoft Access software.
+
+Step 2 - Data processing in MS Access
+The FLA_FISHES.accdb database contained a set of files/tables linked together by common fields for each of the sampling methods of block net and electrofishing. Processing of the data in Access was done separately for each sampling method. Processing included correcting a couple of identified items in the original database per communications with FWC staff. In the EF_DATA table those corrections included: correcting the SCODE for record FWCEF24284 from &apos;542400002481&apos; to the correct SCODE of &apos;542400002591&apos;, and correcting a FISHCODE from &apos;EF_S&apos; to correct FISHCODE of &apos;SUBA&apos;. In the BN_SAMPL table corrections included correcting an AVG_DEPM of &apos;6800&apos; to &apos;0&apos; to be consistent with other samples in the same area, and in the COLLECTOR field replacing all instances of the &apos;GFC&apos; acronym with &apos;Game and Fish Commission&apos; since potential users of these data may not know what the acronym stands for (former name of the Florida Fish and Wildlife Conservation Commission). In the EF_SAMPL table, the &apos;GFC&apos; acronym was replaced with &apos;Game and Fish Commission&apos; in the COLLECTOR field. To create a flat table for the combined block net data, sequential queries of BN_Data with BN_SAMPL, FISHLIST and WATERBDY where conducted in that order in Access to create a flat table that contained the relevant data from each of the original database files (tables). Similarly, sequential queries of EF_Data, EF_SAMPL, FISHLIST and WATERBDY were conducted to generate a flat table of the combined electrofishing data. From both of the resulting flat tables, records that had a FISHCODE of TOTL (Grand Total), UNSP (unidentified species), OFF (Other freshwater species) and OSF (Other saltwater species) were removed from the tables since those records were not identified to the genus or species scientific name level. The resulting flat tables for each method were exported as EF_Full_Flat.csv and BN_Full_Flat.csv files for further processing with RStudio.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Processing of FLA_FISHES database by U.S. Geological Survey staff for submission to Biodiversity Information Serving Our Nation (BISON) and the Global Biodiversity Information Facility (GBIF):
+
+Step 3 - Data processing in RStudio of individual block net and electrofishing tables
+A comma delimited text file for each sampling method (Block net - BN_Full_Flat.csv; Electrofishing - EF_Full_Flat.csv) was uploaded into RStudio for further processing. Because the two sampling methods were different, some of the fields in each table were different between the two files. In addition, the tables had several fields that were outside the standard fields that could be mapped with a one-to-one correspondence in BISON. For these reasons, several of these different or non-standard fields were concatenated in each table into new fields developed during data processing for BISON that could be mapped to fields in the DarwinCore data exchange schema standard when submitting the data to the Global Biodiversity Information Facility (GBIF) or at least to the general_comments field which is available in BISON.
+The following derived fields were created in the flat tables during data processing for BISON. These derived fields were based (except when noted) on original fields in the tables for the block net and electrofishing methods.
+
+For the block net method, the derived field &apos;samplingProtocol&apos; is a concatenation of the following fields:
+- Method - Field added to the dataset during BISON processing to denote the sampling method. A value of &apos;Block Net&apos; was added to all records that originated from the BN_data block net table of the original database.
+- SCODE - Unique code used to link the block net data (Bn_data table) to the Bn_sample table in the original MS Access database. During creation of the original database by FWC, the data entry program calculated the SCODE based upon the Watrbody code and number of sampling events.
+- PROJECT_NO - FWC project number indicating the FWC biologist collecting the data. This was determined by the FWC based upon grants or other project funding.
+- SAMPLE_NO - Name or number of the block net sample.
+- NO_NETS - Number of block nets included in the sample.
+- NETSIZE_HA - Total net size in hectares. This is a calculated value.
+- GEAR - Method used to kill the fish. BB = Blocknet Blasting, BR = Blocknet Rotenone, CB = Cove blasting, CR = Cove Rotenone.
+- PER_EM - Percent of the blocknet that is covered by emergent vegetation.
+- PER_SUB - Percent of the blocknet that is covered by submerged vegetation.
+- LIT_LIM - Whether the net is set in the littoral or limnetic area of the waterbody. Lit = Littoral areas, Lim = Limnetic area.
+- AVG_DEPM - Average depth of the net in meters.
+
+For the electrofishing method, the derived field &apos;samplingProtocol&apos; is a concatenation of the following fields:
+- Method - A value of &apos;electrofishing&apos; was added to all records that originated from the EF_data electrofishing table of the original database.
+- SCODE - Unique code used to link the electrofishing data (EF_data table) to the EF_sample table in the original MS Access database. During creation of the original database by FWC, the data entry program calculated the SCODE based upon the Watrbody code and number of sampling events.
+- PROJECT_NO - FWC project number indicating the FWC biologist collecting the data. This is determined by the FWC based upon grants or other project funding.
+- SAMPLE_NO - Name of the particular sample.
+- NO_TRANS - Number of electrofishing transects included in the sample.
+- PT_SEC - Pedal time in seconds.
+- GEAR - Method of Electrofishing used in the sample. Electrofishing gear - backpack, shocker boat.
+- TIME_DAY - Time of sampling event. Day, Night.
+- NO_DIPS - Number of people dipping used to collect the fish. 
+- SEASON - Season of year. The season of the year: SP = Spring, SU = Summer, FL = Fall, WR = Winter.
+
+For the block net method, the derived field &apos;occurrenceRemarks&apos; is a concatenation of the following fields:
+- MIN_CM - minimum total length (cm) for the particular species collected during the sample.
+- MAX_CM - Maximum total length (cm) for the particular species collected during the sample.
+- NUMBER - Total number of the particular species collected during the sample.
+- WT_GRAMS - Total weight (g) of the particular species collected during the sample.
+- PERCENT_NO - Percent of the total number that this species makes up for the sample.
+- PERCENT_WT - Percent of the total by weight that the species makes up for the sample.
+- HARNO_HA - Harvestable number of the particular species collected per hectare.
+- HARWTKG_HA - Harvestable weight (kilograms) of the particular species per hectare.
+- NUM_HARV - Number of the particular species that are of harvestable size.
+- WT_HARV - Weight (g) of the particular species that are of harvestable size.
+- PER_HARVNO - Percent of the harvestable number that the species makes up for the sample.
+- PER_HARVWT - Percent of the harvestable weight that this species makes up for the sample.
+- DATA_TYPE - Whether the data collected in the sample was in English (E) or Metric (M) units.
+- TOTNO_HA - Total number of fish collected per hectare.
+- TOTWTKG_HA - Total weight in kilograms of fish collected per hectare.
+
+For the electrofishing method, the derived field &apos;occurrenceRemarks&apos; is a concatenation of the following fields:
+- MIN_CM - Minimum total length (cm) for the particular species collected during the sample.
+- MAX_CM - Maximum total length (cm) for the particular species collected during the sample.
+- NUMBER - Total number of the particular species collected during the sampling event.
+- WT_GRAMS - Total weight (g) of the particular fish species collected during the sampling event.
+- PERCENT_NO - Percent of the total by number that this species makes up for the sample.
+- PERCENT_WT - Percent of the total by weight that the species makes up for the sample.
+- HARNO_MN - Harvestable number of the particular species collected per minute of pedal time.
+- HARWTG_MN - Harvestable weight (g) of the particular species per minute of pedal time.
+- NUM_HARV - Number of the particular species that are of harvestable size.
+- WT_HARV - Weight of the particular species that are of harvestable size.
+- PER_HARVNO - Percent of the harvestable number that this species makes up for the sample.
+- PER_HARVWT - Percent of the harvestable weight that this species makes up for the sample.
+- DATA_TYPE - Whether the data collected in the sample was in English (E) or Metric (M) units.
+- TOTNO_MN - Total number of the particular species collected per minute of electrofishing pedal time.
+- TOTWTG_MN - Total weight (g) of the particular species collected per minute of electrofishing pedal time.
+
+For the block net method, the derived field &apos;habitat&apos; is a concatenation of the following fields:
+- Watrbody_TYPE - Type of waterbody: lake, stream, canal.
+- FLOWS_INTO - Waterbody that the stream flows into; or downstream connecting stream/river.
+- TROPHIC - Trophic state of the waterbody.
+- VEG1_COMMON - Primary habitat in block net. Based on Pcode field from pltname data table of original database.
+- VEG1_SPECIES -Scientific name of species in primary habitat. Source: Aquatic Plant database - FDEP-Bureau of Aquatic Plants.
+- VEG1_HAB - General type of aquatic plant in primary habitat. E = Emergent plant, F = Floating plant, S = Submersed.
+- VEG1_ORIG - Whether the plant in primary habitat is native or exotic. N = Native plant, E = Exotic species. Source: FDEP-Bureau of Aquatic Plants.
+- VEG2_COMMON - Secondary habitat in block net. Based on Pcode field from pltname data table of original database.
+- VEG2_SPECIES - Scientific name of species in secondary habitat. Source: Aquatic Plant database - FDEP-Bureau of Aquatic Plants.
+- VEG2_HAB - General type of aquatic plant in secondary habitat. E = Emergent plant, F = Floating plant, S = Submersed.
+- VEG2_ORIG - Whether the plant in secondary habitat is native or exotic. N = Native plant, E = Exotic species. Source: FDEP-Bureau of Aquatic Plants.
+- VEG3_COMMON - Tertiary habitat in the block net. Based on Pcode field from pltname data table of original database.
+- VEG3_SPECIES - Scientific name of species in tertiary habitat. Source: Aquatic Plant database - FDEP-Bureau of Aquatic Plants.
+- VEG3_HAB - General type of aquatic plant in tertiary habitat. E = Emergent plant, F = Floating plant, S = Submersed.
+- VEG3_ORIG - Whether the plant in tertiary habitat is native or exotic. N = Native plant, E = Exotic species. Source: FDEP-Bureau of Aquatic Plants.
+
+For the electrofishing method, the derived field &apos;habitat&apos; is a concatenation of the following three fields:
+- Watrbody_TYPE - Type of waterbody: lake, stream, canal.
+- FLOWS_INTO - Waterbody that the stream flows into; or downstream connecting stream/river.
+- TROPHIC - Trophic state of the waterbody.
+
+The derived field &apos;taxonRemarks&apos; is a concatenation of the following fields for both the block net and the electrofishing methods:
+- FISHCODE - Unique FWC code for fish species used to link the fishlist table to the Ef_data and BN_data tables of the original Access database.
+- provided_scientific_name - label/name of this field was changed to &apos;provided_scientific_name&apos; during BISON processing, but this field is based on the field &apos;SCIENTIFIC&apos; in the original Access database. The original field &apos;SCIENTIFIC&apos; in the Access database provides the scientific name of the fish species.
+- Fishlist_TYPE - Type of fish. Freshwater = Freshwater species of fish, Saltwater = Saltwater species of fish, Exotic = Non-native to Florida.
+- CATEGORY - Whether the species is a sportfish or other fish species. 
+- HARV1_MM - Harvestable size, total length in mm for sportfish.
+
+The derived &apos;verbatimLocality&apos; field is a concatenation of the following fields for both the block net and electrofishing methods:
+- LOCATION - a written description of the physical location of the sample, where the sample was taken.
+- WATER_BODY - Name of lake, river, stream, canal, or reservoir. This is the recognized name given to the waterbody.
+- Sta_description - The name-location of the sampling station. This is the name or station number that identifies the sampling location.
+- Watrbody_STA - Station identification code.
+- REGION - FWC region where waterbody or sample is located. These are the FWC regions: Northwest, Northeast, Central, South, Everglades. 
+- HUC - USGS Hydrologic Unit 8-digit Code.
+- pk_basin - Unique drainage basin code that links to the Florida Department of Environmental Protection &quot;drainage basin 1995&quot; GIS coverage.
+- Rch_code - Unique reach code used to link data to the National Hydrologic Dataset (NHD). Source: USGS-EPA.
+
+The derived &apos;general_comments&apos; field is a concatenation of the derived fields &apos;samplingProtocol&apos;, &apos;occurrenceRemarks&apos;, &apos;habitat&apos;, and &apos;taxonRemarks&apos;, concatenated with the original &apos;COMMENTS&apos; field from the dataset. These various fields are separated by a pipe (|) symbol in the &apos;general_comments&apos; field of the processed dataset. This ‘general_comments’ field was only added to the dataset that was incorporated into Biodiversity Information Serving Our Nation (BISON) and not to the dataset that was submitted to the Global Biodiversity Information Facility (GBIF) since the derived variables that were concatenated could be mapped individually to the schema of GBIF but not the schema of BISON.
+
+The derived field &apos;associatedTaxa&apos; was added only to the block net flat table for the combined dataset submitted to the Global Biodiversity Information Facility (GBIF) in order to list the scientific name of plant species associated with a fish collection sample. This derived field only has data for the block net method as the original fields for vegetation only appeared in the BN_sample table of the original Access database. There is no actual data in this derived field for the electrofishing method (EF_sample table). This field is a concatenation (when there is more than 1 associated species) of species scientific names obtained from the original fields of VEG1_SPECIES, VEG2_SPECIES, and VEG3_SPECIES, which were used in the original database to describe habitats in the block net. This field was added to the dataset submitted to GBIF because the DarwinCore data exchange schema standard has an associatedTaxa field to which this derived field can be mapped. This field was not added to the dataset submitted to BISON because the original vegetation data is already included in the general_comments field in BISON and an associatedTaxa field could not be mapped to the BISON schema.
+
+After all the derived fields were generated, new tables (BN_Table, EF_Table) were created for the block net and electrofishing methods, which included the original fields that could be mapped to the BISON schema and the derived fields generated in RStudio during the processing described above. These new tables were used in subsequent processing in R described in the next step.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Processing of FLA_FISHES database by U.S. Geological Survey staff for submission to Biodiversity Information Serving Our Nation (BISON) and the Global Biodiversity Information Facility (GBIF):
+
+Step 4 - Processing in RStudio of combined BN and EF tables
+The BN_Table and EF_Table were merged in RStudio to generate a single flat table of the dataset that contained the processed data for additional joint processing with R.
+
+The following fields were added to the new combined dataset:
+- clean_provided_scientific_name - new field based on provided_scientific_name field, but with removal of taxonomic rank indicators / qualifiers, abbreviations and other special characters. The provided scientific name of the hybrids &apos;Morone chrysops x M. saxatilis&apos; and &apos;Morone saxatilis x M. chrysops&apos; was resolved in the clean_provided_scientific_name field to &apos;Morone saxatilis Morone chrysops&apos; which is the name accepted in the Integrated Taxonomic Information System (ITIS). The provided scientific names &apos;Moxostoma n. sp. cf poecilurum&apos; and &apos;Macrhybopsis n. sp. cf aestivalis&apos; were resolved to the genus level of &apos;Moxostoma&apos; and &apos;Macrhybopsis&apos; respectively. And the provided name of &apos;Tilapia hybrid&apos; was resolved to the genus &apos;Tilapia&apos; in the clean_provided_scientific_name field. There were 10 species for which the provided scientific name did not match valid scientific names for the species in ITIS, but rather differed by one letter or just to the species level in cases were a subspecies epithet was provided. Therefore the following invalid provided names were resolved to the valid names for clean_provided_scientific_name: Belonesox belizianus to Belonesox belizanus, Ctenogobius bolesoma to Ctenogobius boleosoma, Cyprinodon variegatus hubbsi to Cyprinodon hubbsi, Etheostoma olmstedi maculaticeps to Etheostoma olmstedi, Fundulus olivaceous to Fundulus olivaceus, Gobiosoma bosci to Gobiosoma bosc, Hemichromis letourneauxi to Hemichromis letourneuxi, Microphis brachyurus lineatus to Microphis brachyurus, Nocomis leptocephalus bellicus to Nocomis leptocephalus, Opsopoedus emiliae to Opsopoeodus emiliae.
+- basis_of_record - new field added with a value of &apos;observation&apos; for all records. Mapped to Human Observation for submission into GBIF.
+- occurrence_date - new field based on the original DATE field of the database but reformatted to an ISO standard. Reformatting of this field included removal of the timestamp from the DATE field and conversion to the YYYY-MM-DD format. Also, 7 records had a typo originally in the provided date of the occurrence. The typo in the year for &apos;1098-03-24&apos; was corrected to &apos;1998-03-24&apos; based on the correct year that was given in the provided year field.
+- provider - new field added with a value of &apos;BISON&apos;.
+- provider_url - new field added with a value of &apos;https://bison.usgs.gov&apos;
+- resource - new field added with a value of &apos;FWC - Freshwater Fishes of Florida - 1956-2000&apos;
+- resource_url - new field added with a value of &apos;https://bison.usgs.gov/ipt/resource?r=fwc-floridafreshwaterfishes&apos;.
+- provided_tsn - field based on original TSN field of the database. The TSN field includes the Taxonomic Serial Number from ITIS associated with scientific names. Two of these codes do not represent actual ITIS TSNs but where modified by FWC (added an extra digit) for maintaining the database linkages between the data tables and fishlist table of the original Access database. The codes that are not actual TSNs in the provided_tsn field are: 1000006 for &apos;Moxostoma n. sp. cf poecilurum&apos;, 1676801 for &apos;Morone saxatilis x M. chrysops&apos;.
+- latitude - new field based on the LATDD original field but with replacement of values that had an original value of &apos;0&apos; with a missing/blank value instead. The field LATDD was the latitude in decimal degrees for the sampling site or midpoint of the lake.
+- longitude - new field based on the LONDD original field but with replacement of values that had an original value of &apos;0&apos; with a missing/blank value instead. The field LONDD was the longitude in decimal degrees of the sampling site or midpoint of the lake. 
+- provided_county_name - new field based on the field COUNTY in original database but standardizing all county names to first letter uppercase and rest of letters in a word to lowercase. The original field COUNTY was the name of the county where a waterbody or sample is located.
+- provided_state_name - new field added with a value of &apos;Florida&apos; since the original database is all for the state of Florida.
+- provider_id - new field added with a value of &apos;440&apos; to represent BISON.
+- resource_id - new field added with a value of &apos;100076&apos; to represent the id for this dataset in BISON.
+- provided_common_name - field based on the COMMON field of the original database. The original field COMMON listed the common name of the fish species.
+- kingdom - new field added with a value of &apos;Animalia&apos;.
+- geodetic_datum - new field added with a value of &apos;NAD83&apos;. The original metadata for the MS Access database provided the datum as &apos;North American Datum of 1983&apos;.
+- iso_country_code - new field added with a value of &apos;US&apos;.
+- license - new field added with a value of &apos;http://creativecommons.org/publicdomain/zero/1.0/legalcode&apos;
+
+The following two corrections were made to the taxonomic family names in the FAMILY original field of the database as that field is mapped to the DarwinCore schema for submission to GBIF. The original provided family name of &apos;Morinidae&apos; was corrected to &apos;Moronidae&apos;, and the original provided family name of &apos;Trigidae&apos; was corrected to &apos;Triglidae&apos; to correspond to the family names provided in ITIS.
+
+A new table of all relevant fields, including those added to the combined table, was generated into a csv file (rev_FWC_FL_Fishes.csv).  Relevant columns were extracted into csv files for mapping and submission of the dataset into BISON (rev_BISON_FWC_FL_Fishes.csv) and GBIF (IPT_FWC_FL_Fishes.csv).</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Geographic extent: State of Florida.
+Temporal extent: beginning date - 1956, ending date - 2000. The original data entry into the database started in 2000 incorporating first records from the 1990-2000 period and then going back in time.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Sampling method - Electrofishing:
+Backpack electrofishing was conducted in wadable streams. Boat mounted electrofishing was conducted in the rivers and lakes. Backpack electrofishing was conducted in three consecutive 100 meter reaches of the streams for a total of 300 meter sampling reach. At the end of the three hundred meter reaches, fish were identified and released or preserved. Boat mounted electrofishing was conducted in three ten minute transects for a total of 30 minutes of pedal time. Fish were identified, weighed, measured, and some preserved for separate otolith analysis at the end of each transect.
+
+Sampling method - Block Net:
+Nets covering usually 0.25 acres, or in some cases up to one acre, were set at sites along the lakeshore or within the river/stream. For rotenone sampling, rotenone was introduced into the sampling area and fish are collected every day for a period of three days. Fish were identified and weighed, with the second and third day fish weights extrapolated due to decomposition. Often marked fish were introduced into the sampling area for purposes of measuring sampling efficiency.</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+            <project >
+                <title>Freshwater Fishes of Florida Database - 1956-2000</title>
+                    <personnel>
+            <individualName>
+<givenName>William</givenName>                    <surName>Sheaffer</surName>
+            </individualName>
+            <role>PROCESSOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Ted</givenName>                    <surName>Hoehn</surName>
+            </individualName>
+            <role>METADATA_AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Eric</givenName>                    <surName>Nagid</surName>
+            </individualName>
+            <role>PROCESSOR</role>
+                    </personnel>
+                <abstract>
+                    <para>These data are the results of data collection/processing by the Florida Fish and Wildlife Conservation Commission (FWC) for many federally funded fisheries projects. All available data, contained in the original field data information, were entered into an Access database. The database was developed using Microsoft Access 2000. Vernacular names were cross-referenced to the Integrated Taxonomic Information System (ITIS) standard scientific nomenclature. Lake location information was processed using GPS when available or ArcView software in combination with USGS drg 1:100,000 scale maps or 1:24,000 DOQQs. Spatial point and river reach information is an estimate based upon written descriptions. Accuracy has not been statistically determined. Electronic data were compared against hard copies of the original data.</para>
+                </abstract>
+                <funding>
+                    <para>USGS State Partnership grant 99HQAG0049</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:30Z</dateStamp>
+                <citation>Hoehn T, Nagid E, Martin E (2018). Florida Fish and Wildlife Conservation Commission - Freshwater Fishes of Florida - 1956-2000. Version 1.5. United States Geological Survey. Occurrence dataset https://doi.org/10.15468/eyb0mq accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>https://bison.usgs.gov/ipt/logo.do?r=fwc-floridafreshwaterfishes</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5c7ff628-c336-4635-9746-38d24a4607e7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/jkpt3c</alternateIdentifier>
+                <alternateIdentifier>5c7ff628-c336-4635-9746-38d24a4607e7</alternateIdentifier>
+                <alternateIdentifier>https://bison.usgs.gov/ipt/resource?r=fwc-floridaimperiledfishspecies</alternateIdentifier>
+        <title>Florida Fish and Wildlife Conservation Commission - Florida Imperiled Fish Species Investigation - 2001-2004</title>
+            <creator>
+            <individualName>
+<givenName>Theodore</givenName>                    <surName>Hoehn</surName>
+            </individualName>
+<organizationName>Florida Fish and Wildlife Conservation Commission</organizationName><positionName>Biologist (Retired)</positionName>            <address>
+<city>Tallahassee</city><administrativeArea>Florida</administrativeArea><country>UNITED_STATES</country>            </address>
+<onlineUrl>http://myfwc.com</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Elizabeth</givenName>                    <surName>Martin</surName>
+            </individualName>
+<organizationName>U.S. Geological Survey</organizationName><positionName>Biologist</positionName>            <address>
+<deliveryPoint>7920 NW 71st Street</deliveryPoint><city>Gainesville</city><administrativeArea>Florida</administrativeArea><postalCode>32653</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>elizabeth_martin@usgs.gov</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0002-5808-6156</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Theodore</givenName>                    <surName>Hoehn</surName>
+            </individualName>
+<organizationName>Florida Fish and Wildlife Conservation Commission</organizationName><positionName>Biologist (retired)</positionName>            <address>
+<city>Tallahassee</city><administrativeArea>Florida</administrativeArea><country>UNITED_STATES</country>            </address>
+<onlineUrl>http://myfwc.com</onlineUrl>            <role>CONTENT_PROVIDER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Donald</givenName>                    <surName>Schoolmaster</surName>
+            </individualName>
+<organizationName>United States Geological Survey / Wetland and Aquatic Research Center</organizationName><positionName>Ecologist</positionName>            <address>
+<deliveryPoint>700 Cajundome Blvd</deliveryPoint><city>Lafayette</city><administrativeArea>Louisiana</administrativeArea><postalCode>70506</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>schoolmasterd@usgs.gov</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0003-0910-4458</userId>
+            <role>PROCESSOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Elizabeth</givenName>                    <surName>Martin</surName>
+            </individualName>
+<organizationName>United States Geological Survey</organizationName><positionName>Biologist</positionName>            <address>
+<deliveryPoint>7920 NW 71st Street</deliveryPoint><city>Gainesville</city><administrativeArea>FL</administrativeArea><postalCode>32653</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>elizabeth_martin@usgs.gov</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0002-5808-6156</userId>
+            <role>PROCESSOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Florida Imperiled Fish Species Investigation dataset resulted from a project conducted during the period of 2001 to 2004 by staff of the Florida Fish and Wildlife Conservation Commission to survey Florida for presence, distribution, and relative abundance of imperiled fishes in order to establish sites suitable for a long-term monitoring program for those fishes. Imperiled species are those that are known or thought to be negatively affected by human activity. Such vulnerable species are typically, but not always non-game fishes. The program was designed to update knowledge of Florida’s rare fishes and to establish a framework for continued monitoring of them. Results of the surveys were used to determine whether some species needed to be upgraded to officially protected status, deleted, or downgraded from such protection.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Fishes
+Rare species</keyword>
+                        <keywordThesaurus>Biocomplexity Thesaurus: https://www1.usgs.gov/csas/biocomplexity_thesaurus</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Metadata</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Species</keyword>
+                        <keyword>Subspecies</keyword>
+                        <keywordThesaurus>Integrated Taxonomic Information System: http://www.itis.gov</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Metadata</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Project phases: Phase 1 (2001 - 2002) - Survey of Perdido Bay, Pensacola Bay and Choctawhatchee Bay drainages of northwestern Florida; Phase 2 (2002 -2003) - Survey of the Apalachicola Bay to Suwannee River drainages of northern Florida; and Phase 3 (2003 - 2004) - Survey of the St. Johns River system and other drainages of peninsular Florida.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-87.566</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-80.932</eastBoundingCoordinate>
+                                <northBoundingCoordinate>31</northBoundingCoordinate>
+                                <southBoundingCoordinate>24.67</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                2001
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2004
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Target species that were the focus of this project included those officially classified as protected by the state of Florida, and also those known or suspected to be rare or imperiled by knowledgeable biologists. Target species are listed below. Fishes that were already subject to intensive studies, or were monitored by other agencies, were not sought by this project (e.g. Atlantic sturgeon, Okaloosa darter). Species that required special efforts to capture (e.g. alligator gar, rivulus, etc.) were not targeted, but were recorded if observed or taken incidentally.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cyprinella callitaenia</taxonRankValue>
+                                        <commonName>Bluestripe shiner</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Hybognathus hayi</taxonRankValue>
+                                        <commonName>Cypress minnow</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Subspecies</taxonRankName>
+                                    <taxonRankValue>Luxilus chrysocephalus isolepis</taxonRankValue>
+                                        <commonName>Southern striped shiner</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Luxilus zonistius</taxonRankValue>
+                                        <commonName>Bandfin shiner</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lythrurus atrapiculus</taxonRankValue>
+                                        <commonName>Blacktip shiner</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Macryhybopsis n. sp. cf aestivalis</taxonRankValue>
+                                        <commonName>Florida chub</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Subspecies</taxonRankName>
+                                    <taxonRankValue>Nocomis leptocephalus bellicus</taxonRankValue>
+                                        <commonName>Southern bluehead chub</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Notropis baileyi</taxonRankValue>
+                                        <commonName>Rough shiner</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Notropis melanostomus</taxonRankValue>
+                                        <commonName>Blackmouth shiner</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Pteronotropis welaka</taxonRankValue>
+                                        <commonName>Bluenose shiner</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Moxostoma carinatum</taxonRankValue>
+                                        <commonName>River redhorse</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Moxostoma sp.</taxonRankValue>
+                                        <commonName>Grayfin redhorse</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Ameiurus brunneus</taxonRankValue>
+                                        <commonName>Snail bullhead</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Ameiurus serracanthus</taxonRankValue>
+                                        <commonName>Spotted bullhead</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Umbra pygmaea</taxonRankValue>
+                                        <commonName>Eastern mudminnow</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Menidia conchorum</taxonRankValue>
+                                        <commonName>Key silverside</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Fundulus blairae</taxonRankValue>
+                                        <commonName>Southern starhead topminnow</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Fundulus jenkinsi</taxonRankValue>
+                                        <commonName>Saltmarsh topminnow</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Subspecies</taxonRankName>
+                                    <taxonRankValue>Cyprinodon variegatus hubbsi</taxonRankValue>
+                                        <commonName>Lake Eustis pupfish</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Enneacanthus chaetodon</taxonRankValue>
+                                        <commonName>Blackbanded sunfish</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Micropterus notius</taxonRankValue>
+                                        <commonName>Suwannee bass</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Micropterus cataractae</taxonRankValue>
+                                        <commonName>Shoal bass</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Crystallaria asprella</taxonRankValue>
+                                        <commonName>Crystal darter</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Etheostoma histrio</taxonRankValue>
+                                        <commonName>Harlequin darter</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Subspecies</taxonRankName>
+                                    <taxonRankValue>Etheostoma olmstedi maculaticeps</taxonRankValue>
+                                        <commonName>Southern tessellated darter</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Etheostoma parvipinne</taxonRankValue>
+                                        <commonName>Goldstripe darter</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Etheostoma proeliare</taxonRankValue>
+                                        <commonName>Cypress darter</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Etheostoma stigmaeum</taxonRankValue>
+                                        <commonName>Speckled darter</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Percina austroperca</taxonRankValue>
+                                        <commonName>Southern logperch</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Percina vigil</taxonRankValue>
+                                        <commonName>Saddleback darter</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Mark</givenName>                    <surName>Barrett</surName>
+            </individualName>
+<organizationName>Florida Fish and Wildlife Conservation Commission - Fish and Wildlife Research Institute</organizationName>            <address>
+<deliveryPoint>620 South Meridian Street</deliveryPoint><city>Tallahassee</city><administrativeArea>Florida</administrativeArea><postalCode>32399</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(850) 404-6077</phone><electronicMailAddress>mark.barrett@MyFWC.com</electronicMailAddress><onlineUrl>http://myfwc.com</onlineUrl>            </contact>
+            <contact>
+            <individualName>
+<givenName>Eric</givenName>                    <surName>Nagid</surName>
+            </individualName>
+<organizationName>Florida Fish and Wildlife Conservation Commission</organizationName><positionName>Subsection Leader – Fisheries Field Office		Organization: Florida Fish and Wildlife Conservation Commission</positionName>            <address>
+<deliveryPoint>7386 NW 71st Street Gainesville</deliveryPoint><city>Gainesville</city><administrativeArea>Florida</administrativeArea><postalCode>32653</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(352) 273-3651</phone><electronicMailAddress>eric.nagid@myfwc.com</electronicMailAddress><onlineUrl>http://myfwc.com</onlineUrl>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Field work methods by Florida Fish and Wildlife Conservation Commission staff for fish surveys:
+A two-person crew sampled areas known, or suspected to harbor desired species, and related fish collected to specific habitats and ambient water quality. Photographs were taken of sampling sites, and locations were obtained with Garmin handheld GPS units (ETrex Legend or GPSMAP 76S) and recorded using the default WGS 84 datum. Where possible, fish were collected with standardized techniques (timed electrofishing, electrofishing-distance transects, standard haul seines, etc.) to allow repeat collections, or for future collectors to monitor species abundances. Collection methods used included: Backpack Electrofisher (CM001), Boat Electrofisher (CM002), Concussion (CM003), Rotenone (CM004), Dip net (CM005), Seine (CM006), Gill net (CM007), Hook &amp; Line (CM008), Cast net (CM009), Going dredge (CM010), Crayfish trap (CM011). Where feasible, collectors determined relative abundance of imperiled fishes within resident fish assemblages.
+Some of the fish that may have been collected during sampling for the fish survey were provided to the Florida Museum of Natural History.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Florida Fish and Wildlife Conservation Commission database with project results:
+A CD entitled Florida Imperiled Fish Database was included with the study report. The disc contained detailed information regarding each collection. This information is also is available from the Florida Fish and Wildlife Conservation Commission database. Comprehensive information in the database includes latitude-longitude of locations, site descriptions, basic physical and chemical water quality, and other species collected. The disc contains a copy of the Florida Imperiled Fishes Species Investigations database and associated site images, a copy of the final report, and a GIS shapefile that the database can be linked to. The database was created in Microsoft Access 2000 and has hyperlinks to the images contained in the “FWC Site Pictures” folder. A data field description is contained within the database as a report button. The site coordinates were obtained by Garmin handheld GPS units (ETrex Legend or GPSMAP 76S) and recorded using the default WGS 84 datum.
+The data can be linked to the following GIS datasets: National Hydrologic Dataset 1:100,000 scale (NHD) via the reachcode, Hydrologic Unit Code Basins (8 digit USGS Codes), and DEP_Basin_97 shapefile (developed by the Florida Department of Environmental Protection and linked via the pk_basin).</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Flattening of the database and processing of resulting dataset by U.S. Geological Survey staff for submission to BISON and GBIF:
+FWC staff provided a copy of the CD with the Florida Imperiled Fish Database to U.S. Geological Survey (USGS) staff for sharing of the dataset with Biodiversity Information Serving Our Nation (BISON) and the Global Biodiversity Information Facility (GBIF). USGS staff processed the provided Access database with R by extracting relevant fields and corresponding values into a flat text file and formatting the flattened dataset according to BISON/GBIF data formats. During this process, USGS staff removed from the resulting dataset dead specimens, unknown or unidentified species, and entries with missing geographic coordinates or year fields. USGS staff also added some fields to the dataset (indicated below) and reformatted some values to help standardize the data.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Fields included in dataset resulting from data processing by USGS staff:
+• occurrenceID - Field added and populated by USGS staff. Value was developed based on concatenation of FWCCollectionNumber, SampleNumber and Sequence in the original FWC database, plus a consecutive number added by USGS staff to represent different species/taxa that had the same FWCCollectionNumber-SampleNumber-Sequence. All records extracted from the original FWC Access database had a SampleNumber of 1, and only a few records for certain species/taxa had a Sequence greater than 1, with Sequence in this dataset concatenated as a 2-digit number starting with 0 if the Sequence was less than 10.
+• basisOfRecord - Field added and populated by USGS staff with controlled term suggested in DarwinCore.
+• eventDate - Based on &apos;verbatimEventDate&apos; (CollectionDate in original FWC database) but reformatted with an ISO date format.
+• year - Extracted by USGS staff from the CollectionDate in original FWC database.
+• verbatimEventDate - Based on CollectionDate in original FWC database.
+• eventID - Based on FWCCollectionNumber in original FWC database.
+• samplingProtocol - Based on CollectionMethodID in original FWC database.
+• samplingEffort - Based on concatenation of SampleEffort and EffortUnits in original FWC database. Records that were blank in the original FWC database for either SampleEffort or EffortUnits or both, are shown in this dataset with an ‘NA’ where the corresponding value would have been if it would have been provided in the original database.
+• habitat - Based on concatenation of SystemTypeID and RiparianZoneTypeID in the original FWC database. For records where RiparianZoneTypeID was blank in the original FWC database, an ‘NA’ is shown after the SystemTypeID in this dataset.
+• eventRemarks - Based on concatenation of various fields associated with a collection event in the original FWC database. To concatenate these fields, USGS staff added the field label and a colon followed by the value from the original FWC database. The fields were separated with a pipe symbol in this dataset to convey that each field came from a different column of the original FWC database. An ‘NA’ is included as a value for those records that were blank for the respective field. The following fields (with a description) were concatenated to generate the eventRemarks field of this dataset. FWCCollectionNumber - ID of the collection sampling event. CollectionDayNight - when collection was conducted. CanopyCover - Open; Lightly shaded (11-45%), Moderately shaded (46-80%), or Heavily shaded (&gt;80%). CurrentVelocity - Current velocity at site in m/s; a current velocity listed as 0.9999 or 0.999 indicates no data on current velocity were recorded.  AverageStreamWidth - Average stream width at collection site in meters. AverageStreamDepth - Average stream depth at collection site in meters. SubstrateType - type of substrate at site. DO - Dissolved oxygen at the site, specified in parts per million. PH - pH at the site. Conductivity - Conductivity at the site. Salinity - Salinity at the site in ppt. WaterTemperature - temperatue of water at site in degrees Celsius.
+• scientificName - the scientificName listed in this dataset is the standardized valid scientific name followed by the Integrated Taxonomic Information System (ITIS) [https://www.itis.gov/]. USGS staff used the provided Taxonomic Serial Number (TSN) that was included in the original FWC database to look up the valid ITIS scientific names that are included in this dataset field. The scientific names provided in the original FWC database are included in this dataset in the taxonRemarks field. Species name changes as a result of providing the ITIS valid scientific name rather than the providedScientificName in this field of the dataset resulted in the following name replacements: Macrhybopsis replaces Macrhybopsis n. sp. cf aestivalis, Moxostoma replaces Moxostoma n.sp.cf poecilurum, Fundulus olivaceus replaces Fundulus olivaceous, Etheostoma replaces Etheostoma bifascia, Petroscirtes anolius replaces Petroscrites anolius, Gobionellus boleosoma replaces Gobionellus bolesoma, and Fundulus rubrifrons replaces Fundulus rubifrons.
+• kingdom - Field added and populated by USGS staff.
+• taxonRank - Field added by USGS staff but based on fields included in the original FWC database.
+• scientificNameAuthorship - Field added and populated by USGS staff based on valid scientific names provided by the Integrated Taxonomic Information System (ITIS).
+• vernacularName - based on providedCommonName from the original FWC database.
+• taxonRemarks - Based on concatenation of providedScientificName, providedCommonName, and Category from the original FWC database.  To concatenate these fields, USGS staff added a label for each concatenated field and a colon followed by the value from the original FWC database. The fields were separated with a pipe symbol in this dataset to convey that each field came from a different column of the original FWC database.  Description of the field Category:
+Category represents predominant occurrence - M (marine including estuarine and euryhaline species), F (freshwater), E (exotic), A (anadromous), C (catadromous) as provided by FWC.
+• taxonID - Field added and populated by USGS staff. It is the URL for the ITIS valid scientific name.
+• scientificNameID - Field added and populated by USGS staff. It is the LSID for the ITIS valid scientific name.
+• acceptedNameUsageID - Field added and populated by USGS staff with the Taxonomic Serial Number (TSN) of ITIS scientific names.
+• verbatimLatitude - Based on Latitude in original FWC database.
+• verbatimLongitude - Based on Longitude in original FWC database.
+• verbatimCoordinateSystem - Field added by USGS staff based on type of values provided in the Latitude and Longitude fields of the original FWC database.
+• decimalLatitude - Based on Latitude in original FWC database.
+• decimalLongitude - Based on Longitude in original FWC database.
+• geodeticDatum - Based on GeoposDatumID in original FWC database.
+• georeferenceProtocol - Based on GeoposMethod field in original FWC database. A value of ‘GO’ corresponds to ‘GeoposMethodName = GPS – Other’ and to ‘GeoposMethodDescription = Location derived through the use of an unspecified GPS device’. A value of ‘I1’ corresponds to ‘GeoposMethodName = Interpolation – Map’ and to ‘GeoposMethodDescription = Location derived from a paper or other non-digital map’.
+• higherGeographyID - Based on concatenation of three fields in original FWC database. To concatenate these fields, USGS staff added the field label and a colon followed by the value from the original FWC database. The fields were separated with a pipe symbol in this dataset to convey that each field came from a different column of the original FWC database. An ‘NA’ is included as a value for those records that were blank for the respective field. The following fields (with a description) were concatenated to generate the higherGeographyID field of this dataset.  HUC - USGS Hydrologic Unit 8-digit Code. Rch_code - Unique reach code used to link data to the National Hydrologic Dataset (NHD). PkBasin - Unique drainage basin code that links to the Florida Department of Environmental Protection &quot;drainage basin 1997&quot; (DEP_Basin_97) GIS coverage.
+• continent - Field added and populated by USGS staff with controlled term suggested in DarwinCore.
+• country - Field added and populated by USGS staff based on data contents of the FWC database.
+• countryCode - Field added and populated by USGS staff based on ISO country code.
+• stateProvince - Field added and populated by USGS staff based on data contents of the FWC database.
+• county - Based on CollectionCounty in original FWC database. For standardization of the values in this field, USGS staff replaced in this dataset the values that were provided originally for 4 samples to conform to fully spelled county names provided for the rest of samples in the database. Therefore, for FWCCollectionNumber FWC0280 and FWC0281, a value of “sa” was replaced with “Santa Rosa”, for FWCCollectionNumber FWC0297 a value of “colul” was replaced with “Columbia”, and for FWCCollectionNumber FWC0298 a value of “collu” was replaced with “Columbia”.
+• verbatimLocality - Based on CollectionLocation in original FWC database.
+• verbatimDepth - Based on AverageStreamDepth in original FWC database, which represents the average stream depth at collection site in meters.
+• type - Field added and populated by USGS staff with controlled term suggested in DarwinCore.
+• language - Field added and populated by USGS staff with controlled term suggested in DarwinCore.
+• license - Field added and populated by USGS staff based on access provided by FWC.
+• associatedReferences - Field added and populated by USGS staff based on documents included with original FWC database provided to USGS.
+• institutionID - Field added and populated by USGS staff with URL of FWC’s website.
+• datasetID - Field added and populated by USGS staff with URL to the metadata for this dataset.
+• institutionCode - Field added and populated by USGS staff with the acronym of the data provider’s organization.
+• recordedBy - Based on Collector in original FWC database.
+• individualCount - Based on Number in original FWC database, which represents the number of individuals of a species/taxon collected as listed in a Sequence of a given FWCCollectionNumber event. A value of 0 for individualCount as provided in the original FWC database indicates the species/taxon was observed and identified during the sampling event but was not collected.
+• occurrenceStatus - Field added by USGS staff as a global value with controlled term suggested in DarwinCore. This field was added to avoid it being inferred from individualCount by the Global Biodiversity Information Facility.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Geographic extent: Perdido Bay, Pensacola Bay and Choctawhatchee Bay drainages of northwestern Florida; Apalachicola Bay to Suwannee River drainages of northern Florida; St. Johns River system and other drainages of peninsular Florida
+Temporal extent: 2001 - 2004</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Sampling techniques appropriate to the target species and their habitats were selected, and included boat electrofishing, backpack electrofishing, seining, gill netting, dip netting, and visual observations. Specific sampling sites were developed from existing literature and expertise from Florida Fish and Wildlife Conservation Commission staff and other knowledgeable biologists (e.g. Gilbert 1992, Hoehn 1998, Lee et al. 1980). Sample results and location descriptions were incorporated into the Florida Fish and Wildlife Conservation Commission biological database.
+Target species were divided into two categories: Primary species were those officially classified as protected by the state of Florida. Secondary species were those known or suspected to be rare or imperiled by knowledgeable biologists (e.g. Gilbert 1992). Target species were the focus of this project. Fishes that were already subject to intensive studies, or currently monitored by other agencies, were not sought by this project (e.g. Atlantic sturgeon, Okaloosa darter). Species that require special efforts to capture (e.g. alligator gar, rivulus, etc.) were not targeted, but were recorded if observed or taken incidentally.
+
+References:
+
+Gilbert, C. R. 1992. Rare and Endangered Biota of Florida. Volume II. Fishes. University Press of Florida, Gainesville, Florida. 247 pp.
+
+Hoehn, T. 1998. Rare and Imperiled Fish Species of Florida: A Watershed Perspective. Florida Fish and Wildlife Conservation Commission, Tallahassee, Florida. 60 pp.
+
+Lee, D. S., C. R. Gilbert, C. H. Hocutt, R. E. Jenkins, D. E. McAllister, J. R. Stauffer, Jr. 1980. Atlas of North American Freshwater Fishes. North Carolina State Museum of Natural History, Raleigh, North Carolina. 854 pp.</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+            <project >
+                <title>Florida Imperiled Fish Species Investigation</title>
+                    <personnel>
+            <individualName>
+<givenName>Gray</givenName>                    <surName>Bass</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Theodore</givenName>                    <surName>Hoehn</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>John</givenName>                    <surName>Couch</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Kevin</givenName>                    <surName>Mcdonald</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                <abstract>
+                    <para>Imperiled fishes were collected throughout the state from 783 sites.
+Specimens were obtained of most of Florida’s vulnerable freshwater fishes, with the
+notable exception of the river redhorse (Moxostoma carinatum) and blackbanded
+sunfish (Enneacanthus chaetodon). The marine Key silverside (Menidia conchorum)
+also was not collected. Future monitoring of imperiled fishes may be pursued at
+sites visited by this project. Several species were found to be less threatened than
+expected and are suggested for delisting or listing at lesser levels of protection (e.g.
+Lake Eustis pupfish and saltmarsh topminnow). Conversely, several fishes were
+found to be rare, lacking entirely, or more vulnerable than anticipated (e.g. crystal
+darter [Crystallaria asprella], river redhorse, blackbanded sunfish). These species
+should be officially elevated to higher conservation status. Several species may
+require additional investigation to fully determine their conservation status or
+ecological aspects (e.g. alligator gar [Atractosteus spatula], blackmouth shiner
+[Notropis melanostomus], eastern mudminnow [Umbra pygmaea]). Also
+recommended is a statewide survey of potentially threatened marine and estuarine
+fishes.</para>
+                </abstract>
+                <funding>
+                    <para>U. S. Fish &amp; Wildlife Service Federal Grant R-3</para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>Vulnerable species that are potential candidates for long-term monitoring fall into three categories. First are those officially recognized by the state as Endangered, Threatened, or Species of Special Concern (SSC). Secondly, there is a larger group that contains rare, endangered, threatened, or SSC fishes recognized by knowledgeable ichthyologists, but without official protection. Finally, there are
+some fishes that should now receive attention, because of recent knowledge of their vulnerability or rarity.
+Work on this project was divided into three phases, each phase activated over a three year period: Job 1 (2001 - 2002) - Survey of Perdido Bay, Pensacola Bay and Choctawhatchee Bay drainages of northwestern Florida; Job 2 (2002 - 2003) - Survey of the Apalachicola Bay to Suwannee River drainages of northern Florida; and Job 3 (2003 - 2004) - Survey of the St. Johns River system and other drainages of peninsular Florida. Results of this investigation have updated the knowledge of Florida’s vulnerable fish species.</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+                    <designDescription>
+                        <description>
+                            <para>The population of Florida continues to expand rapidly, with attendant development and alteration of aquatic ecosystems throughout the state. Assumptions made about the rarity and need for protection of fish species, which were formulated many years ago, may not be valid in the face of rapid environmental changes. Much of the presence and distribution information regarding rare, endangered, threatened, and species of special concern fishes was collected many years ago, was not conducted systematically, and did not reflect Floridan ecosystem states at the time of this project. The intent of the Florida Imperiled Fish Species Investigation was to survey Florida for presence, distribution, and relative abundance of imperiled fishes and to establish sites suitable for a long-term monitoring program for these fishes.
+Native fishes should be monitored for two reasons: (1) to keep track of the number, biomass, and species composition of assemblages which support sport and commercial fisheries, and (2) to determine the presence, relative abundance, distribution, and population trends of imperiled species. Imperiled species are those that are known or thought to be negatively affected by human activity. Such vulnerable species are typically, but not always non-game fishes. The first category is actively managed through well-established sport or commercial fisheries programs, while the second group normally does not receive intensive management. Non-game species, including imperiled fishes, often serve as indicators of the ecological integrity of aquatic systems and should be monitored as such. Imperiled species should also be preserved as functional elements of native aquatic communities. This project describes the development of monitoring sites for imperiled fish species in Florida. The program was designed to update knowledge of Florida’s rarer fishes and to establish a framework for continued monitoring of them.</para>
+                        </description>
+                    </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:32Z</dateStamp>
+                <citation>Hoehn T, Martin E (2023). Florida Fish and Wildlife Conservation Commission - Florida Imperiled Fish Species Investigation - 2001-2004. United States Geological Survey. Occurrence dataset https://doi.org/10.15468/jkpt3c accessed via GBIF.org on 2023-01-20.</citation>
+                    <bibliography>
+                <citation>Bass, G., T. Hoehn, J. Couch and K. McDonald. 2004. Florida Imperiled Fish Species Investigation. Final Report to the U. S. Fish and Wildlife Service. Federal Grant R-3. Florida Fish and Wildlife Conservation Commission, Holt, Florida. 59 pp.</citation>
+                <citation>Florida Fish and Wildlife Conservation Commission. 2018. Florida&apos;s endangered and threatened species. https://myfwc.com/media/1945/threatend-endangered-species.pdf</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

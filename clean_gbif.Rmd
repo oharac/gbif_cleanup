@@ -1,0 +1,75 @@
+---
+title: "Extract and clean GBIF data"
+author: "Casey O'Hara"
+date: "2023-01-20"
+output: html_document
+---
+
+```{r setup, echo = TRUE, warning = FALSE, message = FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+library(tidyverse)
+```
+
+### Load raw data and explore variables
+
+```{r}
+fs <- list.files('raw_data', 
+                 recursive = TRUE, pattern = 'occurrence.txt', 
+                 full.names = TRUE)
+
+raw_data <- read_tsv(fs[1]) %>%
+  janitor::clean_names()
+
+data_sum <- raw_data %>%
+  summarize(across(everything(), .fns = ~ sum(!is.na(.x)))) %>%
+  pivot_longer(everything(), names_to = 'var', values_to = 'valid') %>%
+  filter(valid > n()/2)
+
+valid_data <- raw_data %>%
+  select(all_of(data_sum$var))
+
+clean_data <- raw_data %>%
+  select(species, occurrence_status, event_date, 
+         continent, country_code, state_province,
+         decimal_latitude, decimal_longitude, coordinate_uncertainty_in_meters,
+         has_coordinate, has_geospatial_issues, issue)
+```
+
+```{r}
+
+all_data_df <- lapply(fs, FUN = function(f) {
+  read_tsv(f) %>%
+    janitor::clean_names() %>%
+    select(species, occurrence_status, event_date, 
+           continent, country_code, state_province,
+           decimal_latitude, decimal_longitude, coordinate_uncertainty_in_meters,
+           has_coordinate, has_geospatial_issues, issue)
+}) %>%
+  bind_rows()
+
+table(all_data_df %>% select(has_coordinate, has_geospatial_issues))
+
+issues_df <- all_data_df %>%
+  filter(has_geospatial_issues)
+
+spatial_data_df <- all_data_df %>%
+  distinct() %>%
+  filter(has_coordinate & !has_geospatial_issues) %>%
+  filter(occurrence_status == 'PRESENT') %>%
+  select(species, event_date, 
+         lat = decimal_latitude, lon = decimal_longitude,
+         coordinate_uncertainty_in_meters)
+
+write_csv(spatial_data_df, 'spp_spatial_occurrence_data.csv')
+
+pres_abs_data_df <- all_data_df %>%
+  distinct() %>%
+  filter(has_coordinate & !has_geospatial_issues) %>%
+  select(species, event_date, occurrence_status,
+         lat = decimal_latitude, lon = decimal_longitude,
+         coordinate_uncertainty_in_meters)
+
+write_csv(pres_abs_data_df, 'spp_spatial_pres_abs_data.csv')
+```
+

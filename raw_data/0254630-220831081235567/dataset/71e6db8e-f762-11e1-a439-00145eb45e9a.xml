@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="71e6db8e-f762-11e1-a439-00145eb45e9a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/r5rwxx</alternateIdentifier>
+                <alternateIdentifier>http://65.52.215.125/ipt/resource?r=fish</alternateIdentifier>
+                <alternateIdentifier>http://iptsnomnh.cloudapp.net:8080/ipt/resource.do?r=fish</alternateIdentifier>
+                <alternateIdentifier>71e6db8e-f762-11e1-a439-00145eb45e9a</alternateIdentifier>
+                <alternateIdentifier>9162</alternateIdentifier>
+        <title>Fish Specimens</title>
+            <creator>
+            <individualName>
+<givenName>Dahiana</givenName>                    <surName>Arcila</surName>
+            </individualName>
+<organizationName>Sam Noble Oklahoma Museum of Natural History</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>2401 Chautauqua Ave.</deliveryPoint><city>Norman</city><administrativeArea>Oklahoma</administrativeArea><postalCode>73072</postalCode><country>UNITED_STATES</country>            </address>
+<phone>202-417-1669</phone><electronicMailAddress>dahiana.arcila@ou.edu</electronicMailAddress><onlineUrl>http://samnoblemuseum.ou.edu</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Paul</givenName>                    <surName>King</surName>
+            </individualName>
+<organizationName>Sam Noble Oklahoma Museum of Natural History</organizationName><positionName>Head of IT</positionName>            <address>
+<deliveryPoint>2401 Chautauqua Ave.</deliveryPoint><city>Norman</city><administrativeArea>Oklahoma</administrativeArea><postalCode>73072</postalCode><country>UNITED_STATES</country>            </address>
+<phone>405-325-1018</phone><electronicMailAddress>pking@ou.edu</electronicMailAddress><onlineUrl>http://samnoblemuseum.ou.edu</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Kyle</givenName>                    <surName>Wilson</surName>
+            </individualName>
+<organizationName>Sam Noble Oklahoma Museum of Natural History</organizationName><positionName>Information Systems Lead</positionName>            <address>
+<deliveryPoint>2401 Chautauqua Ave.</deliveryPoint><city>Norman</city><administrativeArea>Oklahoma</administrativeArea><postalCode>73072</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>kyle.a.wilson-1@ou.edu</electronicMailAddress><onlineUrl>http://samnoblemuseum.ou.edu</onlineUrl>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Tracy</givenName>                    <surName>Bidwell</surName>
+            </individualName>
+<organizationName>Sam Noble Oklahoma Museum of Natural History</organizationName><positionName>Museum Registrar</positionName>            <address>
+<deliveryPoint>2401 Chautauqua Ave.</deliveryPoint><city>Norman</city><administrativeArea>Oklahoma</administrativeArea><postalCode>73072</postalCode><country>UNITED_STATES</country>            </address>
+<phone>405-325-1035</phone><electronicMailAddress>tbidwell@ou.edu</electronicMailAddress><onlineUrl>http://samnoblemuseum.ou.edu</onlineUrl>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Sara</givenName>                    <surName>Cartwright</surName>
+            </individualName>
+<organizationName>Sam Noble Oklahoma Museum of Natural History</organizationName><positionName>Collection Manager</positionName>            <address>
+<deliveryPoint>2401 Chautauqua Ave.</deliveryPoint><city>Norman</city><administrativeArea>Oklahoma</administrativeArea><postalCode>73072</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>cartwright@ou.edu</electronicMailAddress><onlineUrl>http://samnoblemuseum.ou.edu</onlineUrl>            <role>CONTENT_PROVIDER</role>
+            </associatedParty>
+            <pubDate>
+                2022-02-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The collection of fishes includes over 30,000 catalogued lots representing 34 families, primarily of North American freshwater fishes. Groups best represented are North American minnows (Cyprinidae), catfishes (Ictaluridae), darters (Percidae), sunfishes (Centrarchidae), and suckers (Catostomidae).The collection dates to the 1920’s, with specimens collected by early expeditions of the Museum of Zoology and Department of Zoology under the direction of A. I. Ortenburger. The particular strength of the collection is in its holdings of extensive samples of fishes throughout the lower Great Plains, with emphasis on Oklahoma streams and reservoirs. Periods with strong collecting efforts include the 1920s, 1950s-1960s, and 1980s to the present. The collection grew substantially in recent years with the addition of long-term samples of fish from sites statewide by the late Mr. Jimmie Pigg. We continue to add actively to the holdings of the range by virtue of ongoing research by the curators and their graduate students and by continued archiving of community samples by the Department of Environmental Quality, whose employees continue the work begun by Mr. Pigg.
+
+The Division of Ichthyology houses the largest and most comprehensive collection of archived specimens of fishes for Oklahoma. These collections comprise an invaluable resource for documenting historical ranges, present distributions, and ecology of Oklahoma fishes. These collections allow analysis of range contraction, human-induced changes, and conservation status of the fish fauna of Oklahoma. The availability of long-term series provides an important opportunity to assess natural variation in fish communities.
+
+The majority of the collection is in fluid storage in archival museum jars, with limited holdings of larger specimens in steel tanks. In addition, there is a teaching collection that includes cleared and stained material, prepared skeletons, and representatives of the fish fauna world-wide both freshwater and marine.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>The SNOMNH desires to provide only accurate data. Although databases are refreshed and updated regularly, the databases are provided ‘as is’ without express or implied warranty, including the implied warranty of merchantability and fitness for a particular purpose. The SNOMNH does not accept responsibility for the accuracy of data taken by the user. The user accepts the responsibility of verifying the data, in consultation with the curatorial staff and/or by inspection of the specimens or objects and the collection catalogue. The SNOMNH shall not be liable for any damages, injury, or loss suffered by the users of the database or the software, programming, and other documentation found on these web pages or in these databases.</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://samnoblemuseum.ou.edu/collections-and-research/ichthyology/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>North America</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-176.64</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-31.48</eastBoundingCoordinate>
+                                <northBoundingCoordinate>71.25</northBoundingCoordinate>
+                                <southBoundingCoordinate>1.2</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                    <taxonRankValue></taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Sara</givenName>                    <surName>Cartwright</surName>
+            </individualName>
+<organizationName>Sam Noble Oklahoma Museum of Natural History</organizationName><positionName>Collections Manager</positionName>            <address>
+<deliveryPoint>2401 Chautauqua Ave.</deliveryPoint><city>Norman</city><administrativeArea>Oklahoma</administrativeArea><postalCode>73072</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>cartwright@ou.edu</electronicMailAddress><onlineUrl>http://samnoblemuseum.ou.edu</onlineUrl>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para></para>
+                        </description>
+                    </methodStep>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:39Z</dateStamp>
+                <citation>Arcila D, King P (2022). Fish Specimens. Sam Noble Oklahoma Museum of Natural History. Occurrence dataset https://doi.org/10.15468/r5rwxx accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>http://65.52.215.125/ipt/logo.do?r=fish</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

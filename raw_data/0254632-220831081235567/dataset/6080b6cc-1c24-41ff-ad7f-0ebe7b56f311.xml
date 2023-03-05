@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6080b6cc-1c24-41ff-ad7f-0ebe7b56f311"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/h8gxdr</alternateIdentifier>
+                <alternateIdentifier>http://ipt.tacc.utexas.edu/resource?r=tnhc_i</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=tnhc_fish</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=tnhc_fish</alternateIdentifier>
+                <alternateIdentifier>6080b6cc-1c24-41ff-ad7f-0ebe7b56f311</alternateIdentifier>
+                <alternateIdentifier>12704</alternateIdentifier>
+        <title>University of Texas, Biodiversity Center, Ichthyology Collection (TNHCi)</title>
+            <creator>
+            <individualName>
+<givenName>Dean A.</givenName>                    <surName>Hendrickson</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Curator</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-9774</phone><electronicMailAddress>deanhend@austin.utexas.edu</electronicMailAddress><onlineUrl>https://sites.cns.utexas.edu/hendricksonlab</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-7835-0295</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Adam E.</givenName>                    <surName>Cohen</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Collections Manager</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-8845</phone><electronicMailAddress>TNHC_Fish_CM@austin.utexas.edu</electronicMailAddress><onlineUrl>https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-4881-3636</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Melissa J.</givenName>                    <surName>Casarez</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Collections Assistant Manager</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-475-8171</phone><electronicMailAddress>mjcasarez@austin.utexas.edu</electronicMailAddress><onlineUrl>https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</onlineUrl>            <userId directory="http://orcid.org/">0000-0002-8373-459X</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Melissa J.</givenName>                    <surName>Casarez</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Assistant Collections Manager</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-475-8171</phone><electronicMailAddress>mjcasarez@austin.utexas.edu</electronicMailAddress><onlineUrl>https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</onlineUrl>            <userId directory="http://orcid.org/">0000-0002-8373-459X</userId>
+            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Adam E.</givenName>                    <surName>Cohen</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Collections Manager</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-8845</phone><electronicMailAddress>TNHC_Fish_CM@austin.utexas.edu</electronicMailAddress><onlineUrl>https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-4881-3636</userId>
+            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Dean A.</givenName>                    <surName>Hendrickson</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Curator</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-9774</phone><electronicMailAddress>deanhend@austin.utexas.edu</electronicMailAddress><onlineUrl>https://sites.cns.utexas.edu/hendricksonlab</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-7835-0295</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>John</givenName>                    <surName>Wieczorek</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Texas Natural History Collections (TNHC) are administratively part of the Biodiversity Center, in the Department of Integrative Biology of the University of Texas (UT Austin). The Ichthyology Collection (TNHCi, formerly TNHC) includes over 70,000 lots that contain over 1,500,000 specimens. Most of those are “wet” collections, with specimens initially fixed in 10% formalin and permanently stored in 70% ethanol. The oldest specimens were collected in 1912 but a very strong peak in collection activity in Texas from 1950–1980 reflects the work of Dr. Clark Hubbs and his lab. More recently, collections by Dean Hendrickson’s lab and a diversity of collectors from UT Austin and other Texas academic institutions, as well as state and federal agencies (Texas Parks and Wildlife Department (TPWD), Texas Commission on Environmental Quality (TCEQ), United States Geological Survey (USGS)) continue to contribute to growth, as does the Hendrickson Lab’s Fishes of Texas Project (www.fishesoftexas.org), primarily funded by TPWD. We have a small collection of larval fishes (in 10% formalin) from Puerto Rico and the Virgin Islands, and an osteological collection with 800 cleared and stained specimens (including all Texas species) and 500 dry skeletons. Many of the skeletal specimens originate from W. W. Dalquest (Midwestern University) and his students. Our &amp;gt;2,000 tissue samples in vials with 100% ethanol are stored in liquid nitrogen in the Biodiversity Center’s Genetic Resources Collection. Most are linked to whole preserved specimens. Our type specimens include 3 holotypes, 116 paratypes, and 1 allotype. Collections acquired from other institutions include that of the University of Texas at Austin’s Marine Science Institute (&amp;gt;3,000 lots, acquired in 1990), Midwestern University (2000, &amp;gt;1,400 lots), Texas Tech University (&amp;gt;1,300 lots, 2000), Texas A&amp;amp;M University Kingsville (&amp;gt;5,200 lots), University of Texas at Brownsville (&amp;gt;1,100 lots) and Lamar University (~1,200 lots), Northeastern Louisiana University Monroe (2,084 lots). Large accessions remaining to be cataloged include (but are not limited to) collections provided by Dr. Robert Edwards (state-wide with focus on Rio Grande and coast), Dr. Tim Bonner (State-wide, with focus on Brazos), Matthew Acre (~1,800 larval specimens from the Trinity River), TPWD (state-wide), Seiji Miyazono (Pecos), Bill Birkhead (Mexico), and TCEQ (state-wide).</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>http://vertnet.org/resources/norms.html</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Our Texas and Gulf of Mexico holdings account for 83% of the collection, but we also have significant holdings from other parts of the United States - AK, AL, AR (475 lots), AZ, CA, CO, FL (650 lots), IL, KA, KT, LA, MI, MO, MS, NC, NJ, NM, NV, NY, OK, OR, Puerto Rico, SC, Virgin Is., WA, and WI. Twenty-six other countries are also represented, including Mexico (2,594 lots), Costa Rica (1,372 lots), Venezuela (1,969 lots) and Zambia (1,030 lots). We have georeferenced 87% of our records, with most of those not georeferenced being from outside of Texas, or we have not able to confidently apply coordinates.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1913-10-12
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2018-11-01
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>The Ichthyology Collection contains 1,820 species from 806 genera in 251 families in 52 orders (following Nelson, 2006).</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Elasmobranchii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Sarcopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Cephalaspidomorphi</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <purpose>
+                <para>Each record in this dataset refers to a specimen (or specimens)and these records are thus verifiable via specimen examination and examination of original museum documentation such as field notes and original labels. These data are provided for the purpose of scientific study, so that researchers may either use the data directly or to determine which specimens might be needed to address specific research questions.</para>
+            </purpose>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Adam E.</givenName>                    <surName>Cohen</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Collections Manager</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-8845</phone><electronicMailAddress>TNHC_Fish_CM@austin.utexas.edu</electronicMailAddress><onlineUrl>https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-4881-3636</userId>
+            </contact>
+            <contact>
+            <individualName>
+<givenName>Dean A.</givenName>                    <surName>Hendrickson</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Curator</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-9774</phone><electronicMailAddress>deanhend@austin.utexas.edu</electronicMailAddress><onlineUrl>https://sites.cns.utexas.edu/hendricksonlab</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-7835-0295</userId>
+            </contact>
+            <contact>
+            <individualName>
+<givenName>Melissa J.</givenName>                    <surName>Casarez</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Collections Assistant Manager</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-475-8171</phone><electronicMailAddress>mjcasarez@austin.utexas.edu</electronicMailAddress><onlineUrl>https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</onlineUrl>            <userId directory="http://orcid.org/">0000-0002-8373-459X</userId>
+            </contact>
+            <contact>
+            <individualName>
+<givenName>Tomislav</givenName>                    <surName>Urban</surName>
+            </individualName>
+<organizationName>Texas Advanced Computing Center</organizationName><positionName>Senior Software Developer</positionName>            <address>
+<city>Austin</city><administrativeArea>Texas</administrativeArea><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>turban@tacc.utexas.edu</electronicMailAddress><onlineUrl>https://www.tacc.utexas.edu/</onlineUrl>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Incoming specimens are accessioned, transferred to 70% ethanol (if needed), sorted/identified to lowest possible taxonomic level (usually species), cataloged into a Specify database which assigns each lot a unique catalog number, database-generated labels are verified against original handwritten labels, and inserted into specimen jars.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>We have no restrictions related to collection locality and accept specimens collected globally, but are primarily interested in specimens from Texas and neighboring Mexican and U.S. states. Specimens must be legally collected. No restrictions on date of collection.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Specimens are collected by various and often undocumented means. In many cases that information, when available, is recorded in our database.</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>Each record in this dataset refers to a specimen (or specimens) and these records are thus verifiable via specimen examination and examination of original museum documentation such as field notes and original labels. Historically the collection had a single data validation step, in which the database was checked against the verbatim specimen labels. Errors have also been corrected after being pointed out by researchers using the data and specimens. Since the inception of the Fishes of Texas Project (www.fishesoftexas.org) in 2006, we have had a more systematic focus on detection of species determination and data entry errors that has led to corrections of many records.</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project id="TNHC">
+                <title>University of Texas, Biodiversity Center, Ichthyology Collection</title>
+                    <personnel>
+            <individualName>
+<givenName>Adam E.</givenName>                    <surName>Cohen</surName>
+            </individualName>
+            <userId directory="http://orcid.org/">0000-0003-4881-3636</userId>
+            <role>POINT_OF_CONTACT</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Dean A.</givenName>                    <surName>Hendrickson</surName>
+            </individualName>
+            <userId directory="http://orcid.org/">0000-0001-7835-0295</userId>
+            <role>CURATOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Melissa J.</givenName>                    <surName>Casarez</surName>
+            </individualName>
+            <userId directory="http://orcid.org/">0000-0002-8373-459X</userId>
+            <role>POINT_OF_CONTACT</role>
+                    </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Base funding is provided through the University of Texas, however between 2006 and 2018 the Fishes of Texas Project (www.fishesoftexas.org), which is based at our collection, has generated over $2,000,000, in part to verify specimen identifications, find/correct data errors, georeference, and digitize specimens and related documentation in the collection. This funding comes from Texas Parks and Wildlife Department, U.S. Fish and Wildlife Service, Texas Commission on Environmental Quality, U.S. Bureau of Reclamation, U.S. National Science Foundation, and the Texas Army National Guard.</para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>We have no restrictions related to collection locality and accept specimens collected globally, but are primarily interested in specimens from Texas and neighboring Mexican and U.S. states. Specimens must be legally collected. No restrictions on date of collection.</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+                    <designDescription>
+                        <description>
+                            <para>Specimens are collected by various and often undocumented means. Information about sampling gear, methods and habitats is recorded in our database when available.</para>
+                        </description>
+                    </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:52:54Z</dateStamp>
+                <citation>Hendrickson D A, Cohen A E, Casarez M J (2023). University of Texas, Biodiversity Center, Ichthyology Collection (TNHCi). Version 5.231. University of Texas at Austin, Biodiversity Collections. Occurrence dataset https://doi.org/10.15468/h8gxdr accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>http://ipt.vertnet.org:8080/ipt/logo.do?r=tnhc_fish</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier>University of Texas</parentCollectionIdentifier>
+                            <collectionIdentifier>https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</collectionIdentifier>
+                            <collectionName>Texas Natural History Collections, Ichthyology Collection</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

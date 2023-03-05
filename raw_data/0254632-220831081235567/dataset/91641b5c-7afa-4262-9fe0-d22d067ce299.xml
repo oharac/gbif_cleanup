@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="91641b5c-7afa-4262-9fe0-d22d067ce299"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/82wzir</alternateIdentifier>
+                <alternateIdentifier>91641b5c-7afa-4262-9fe0-d22d067ce299</alternateIdentifier>
+                <alternateIdentifier>https://www1.usgs.gov/obis-usa/ipt/resource?r=usgs_glsc_rvcat_trawl</alternateIdentifier>
+        <title>USGS Great Lakes Science Center Research Vessel Catch Information System Trawl</title>
+            <creator>
+            <individualName>
+<givenName>Scott</givenName>                    <surName>Nelson</surName>
+            </individualName>
+<organizationName>U.S. Geological Survey</organizationName><positionName>Information Technology Specialist</positionName><electronicMailAddress>snelson@usgs.gov</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Scott</givenName>                    <surName>Nelson</surName>
+            </individualName>
+<organizationName>U.S. Geological Survey</organizationName><positionName>Information Technology Specialist</positionName><electronicMailAddress>snelson@usgs.gov</electronicMailAddress>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Abigail</givenName>                    <surName>Benson</surName>
+            </individualName>
+<organizationName>U.S. Geological Survey</organizationName><positionName>Biologist</positionName><electronicMailAddress>albenson@usgs.gov</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Abigail</givenName>                    <surName>Benson</surName>
+            </individualName>
+<electronicMailAddress>albenson@usgs.gov</electronicMailAddress>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2018-03-06
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Data collected on various vessel operations on the Great Lakes and select connecting waterways.  This vessel operations data set is part of and connected to a larger database of Great Lakes research that includes trawl and gillnet catch data, sample information, as well as effort, operation conditions, and location details.  Multiple operations were conducted on all Great Lakes each year (1958-2016) beginning in early spring and ending in late fall. Each vessel operation was completed for a specific purpose, or target mission, which are enumerated in this data set. RVCAT stores data from the research vessels associated with the United States Geological Survey, Great Lakes Science Center and it&amp;#39;s partners. The Trawl Tables contain data collected from the research vessel deploying various trawl gear.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Samplingevent</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>marine, harvest by iOBIS</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>U.S. Great Lakes and select connecting waterways.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-92.675</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-75.483</eastBoundingCoordinate>
+                                <northBoundingCoordinate>49.216</northBoundingCoordinate>
+                                <southBoundingCoordinate>40.833</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Scott</givenName>                    <surName>Nelson</surName>
+            </individualName>
+<organizationName>U.S. Geological Survey</organizationName><positionName>Information Technology Specialist</positionName><electronicMailAddress>snelson@usgs.gov</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:53:02Z</dateStamp>
+                <citation>Nelson S, Benson A (2018). USGS Great Lakes Science Center Research Vessel Catch Information System Trawl. Version 1.2. United States Geological Survey. Sampling event dataset https://doi.org/10.15468/82wzir accessed via GBIF.org on 2020-06-16. accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

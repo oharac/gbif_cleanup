@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a267b6a7-91f9-457c-889a-481e7aa920b6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/4w9oc7</alternateIdentifier>
+                <alternateIdentifier>a267b6a7-91f9-457c-889a-481e7aa920b6</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=sio_benthicinverts</alternateIdentifier>
+        <title>SIO Benthic Invertebrate Collection</title>
+            <creator>
+            <individualName>
+<givenName>Charlotte</givenName>                    <surName>Seid</surName>
+            </individualName>
+<organizationName>Scripps Institution of Oceanography</organizationName><positionName>Collection Manager</positionName>            <address>
+<deliveryPoint>University of California San Diego, 9500 Gilman Drive #0244</deliveryPoint><city>La Jolla</city><administrativeArea>California</administrativeArea><postalCode>92093-0244</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(858)822-2818</phone><electronicMailAddress>cseid@ucsd.edu</electronicMailAddress><onlineUrl>https://scripps.ucsd.edu/collections/bi</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Charlotte</givenName>                    <surName>Seid</surName>
+            </individualName>
+<organizationName>Scripps Institution of Oceanography</organizationName><positionName>Collection Manager</positionName>            <address>
+<deliveryPoint>University of California San Diego, 9500 Gilman Drive #0244</deliveryPoint><city>La Jolla</city><administrativeArea>California</administrativeArea><postalCode>92093-0244</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(858)822-2818</phone><electronicMailAddress>cseid@ucsd.edu</electronicMailAddress><onlineUrl>https://scripps.ucsd.edu/collections/bi</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>Project Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://vertnet.org/</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>John</givenName>                    <surName>Wieczorek</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress><onlineUrl>http://vertnet.org/</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Charlotte</givenName>                    <surName>Seid</surName>
+            </individualName>
+<organizationName>Scripps Institution of Oceanography</organizationName><positionName>Collection Manager</positionName>            <address>
+<deliveryPoint>University of California San Diego, 9500 Gilman Drive #0244</deliveryPoint><city>La Jolla</city><administrativeArea>California</administrativeArea><postalCode>92093-0244</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(858)822-2818</phone><electronicMailAddress>cseid@ucsd.edu</electronicMailAddress><onlineUrl>https://scripps.ucsd.edu/collections/bi</onlineUrl>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Greg</givenName>                    <surName>Rouse</surName>
+            </individualName>
+<organizationName>Scripps Institution of Oceanography</organizationName><positionName>Curator</positionName>            <address>
+<deliveryPoint>University of California San Diego, 9500 Gilman Drive #0202</deliveryPoint><city>La Jolla</city><administrativeArea>California</administrativeArea><postalCode>92093-0202</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(858)534-7973</phone><electronicMailAddress>grouse@ucsd.edu</electronicMailAddress><onlineUrl>http://scrippsscholars.ucsd.edu/grouse</onlineUrl>            <role>PRINCIPAL_INVESTIGATOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-09-23
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Scripps Institution of Oceanography Benthic Invertebrate Collection (SIO-BIC) is a research repository housing more than 50,000 lots, representing more than 800,000 specimens and more than 7,600 species from marine environments worldwide.</para>
+                    <para>The Collection includes extensive holdings from deep-sea environments (&amp;gt;1,000 m), chemosynthetic ecosystems (hydrothermal vents, hydrocarbon seeps, whale falls), Antarctica, and the eastern Pacific. Materials have been collected through a range of techniques, from intertidal hand collecting and SCUBA to trawls and deep-sea submersibles.</para>
+                    <para>SIO-BIC contains more than 700 type lots and considerable material properly preserved for genomic studies (95% ethanol and ultracold storage). Multiple preparation types are often available for each lot (e.g., fluid voucher, ethanol subsample, dry material). The searchable electronic database, including a map search feature and specimen images, is updated weekly and publicly accessible online at http://tinyurl.com/siobic.</para>
+                    <para>SIO-BIC supports scientific research by providing specimens for study of the taxonomy, biogeography, and evolution of benthic invertebrates, including the description of many new species. Specimens are available for examination at Scripps and for loan to researchers at recognized institutions worldwide, consistent with our loan policies. Collection staff and materials also support education and public outreach via undergraduate and graduate classes, school programs, guest lectures, artist collaborations, and exhibits and events at the Birch Aquarium.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>https://creativecommons.org/publicdomain/zero/1.0/ and http://vertnet.org/resources/norms.html</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://scripps.ucsd.edu/collections/bi</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Marine habitats worldwide, with emphasis on the eastern Pacific, Antarctic, and deep sea (&gt;1,000 m).</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Marine invertebrates, primarily benthic but including some pelagic representatives.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Annelida</taxonRankValue>
+                                        <commonName>segmented worms</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Arthropoda</taxonRankValue>
+                                        <commonName>arthropods</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Subphylum</taxonRankName>
+                                    <taxonRankValue>Crustacea</taxonRankValue>
+                                        <commonName>crustaceans</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Subphylum</taxonRankName>
+                                    <taxonRankValue>Chelicerata</taxonRankValue>
+                                        <commonName>sea spiders, horseshoe crabs, etc.</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Brachiopoda</taxonRankValue>
+                                        <commonName>lamp shells</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Bryozoa</taxonRankValue>
+                                        <commonName>moss animals</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Subphylum</taxonRankName>
+                                    <taxonRankValue>Tunicata</taxonRankValue>
+                                        <commonName>tunicates</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Cnidaria</taxonRankValue>
+                                        <commonName>cnidarians</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Ctenophora</taxonRankValue>
+                                        <commonName>comb jellies</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Echinodermata</taxonRankValue>
+                                        <commonName>echinoderms</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Crinoidea</taxonRankValue>
+                                        <commonName>crinoids</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Asteroidea</taxonRankValue>
+                                        <commonName>sea stars</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Ophiuroidea</taxonRankValue>
+                                        <commonName>brittle stars, basket stars</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Holothuroidea</taxonRankValue>
+                                        <commonName>sea cucumbers</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Echinoidea</taxonRankValue>
+                                        <commonName>sea urchins</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Mollusca</taxonRankValue>
+                                        <commonName>mollusks</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Bivalvia</taxonRankValue>
+                                        <commonName>bivalves</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Gastropoda</taxonRankValue>
+                                        <commonName>gastropods</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Polyplacophora</taxonRankValue>
+                                        <commonName>chitons</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Cephalopoda</taxonRankValue>
+                                        <commonName>cephalopods</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Monoplacophora</taxonRankValue>
+                                        <commonName>monoplacophorans</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Aplacophora</taxonRankValue>
+                                        <commonName>aplacophorans</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Nemertea</taxonRankValue>
+                                        <commonName>ribbon worms</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Nematoda</taxonRankValue>
+                                        <commonName>round worms</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Platyhelminthes</taxonRankValue>
+                                        <commonName>flat worms</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Porifera</taxonRankValue>
+                                        <commonName>sponges</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Calcarea</taxonRankValue>
+                                        <commonName>calcareous sponges</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Demospongiae</taxonRankValue>
+                                        <commonName>demosponges</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Hexactinellida</taxonRankValue>
+                                        <commonName>glass sponges</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Homoscleromorpha</taxonRankValue>
+                                        <commonName>sponges</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Xenacoelomorpha</taxonRankValue>
+                                        <commonName>xenacoelomorphs</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Charlotte</givenName>                    <surName>Seid</surName>
+            </individualName>
+<organizationName>Scripps Institution of Oceanography</organizationName><positionName>Collection Manager</positionName>            <address>
+<deliveryPoint>University of California San Diego, 9500 Gilman Drive #0244</deliveryPoint><city>La Jolla</city><administrativeArea>California</administrativeArea><postalCode>92093-0244</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(858)822-2818</phone><electronicMailAddress>cseid@ucsd.edu</electronicMailAddress><onlineUrl>https://scripps.ucsd.edu/collections/bi</onlineUrl>            </contact>
+            <contact>
+            <individualName>
+<givenName>Greg</givenName>                    <surName>Rouse</surName>
+            </individualName>
+<organizationName>http://scrippsscholars.ucsd.edu/grouse</organizationName><positionName>PI</positionName>            <address>
+<deliveryPoint>University of California San Diego, 9500 Gilman Drive #0202</deliveryPoint><city>La Jolla</city><administrativeArea>California</administrativeArea><postalCode>92093-0202</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(858)534-7973</phone><electronicMailAddress>grouse@ucsd.edu</electronicMailAddress><onlineUrl>http://scrippsscholars.ucsd.edu/grouse</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:55:36Z</dateStamp>
+                <citation>Seid C (2019). SIO Benthic Invertebrate Collection. Version 1.4. Scripps Institution of Oceanography. Occurrence dataset https://doi.org/10.15468/4w9oc7 accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>https://scripps.ucsd.edu/sites/scripps.ucsd.edu/files/u4372/siologo.jpg</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>SIO Benthic Invertebrate Collection</collectionName>
+                        </collection>
+                    <formationPeriod>1902-current</formationPeriod>
+                        <specimenPreservationMethod>MICROSCOPIC_PREPARATION</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

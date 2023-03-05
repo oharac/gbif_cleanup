@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="cb9e84f5-2367-46c9-83cf-7a68695626fb"  system="http://gbif.org" scope="system"
+xml:lang="es">
+
+    <dataset>
+            <alternateIdentifier>10.15472/uozvak</alternateIdentifier>
+                <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=puj-004-peces</alternateIdentifier>
+                <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=puj-004-peces</alternateIdentifier>
+                <alternateIdentifier>10.15468/lm3aky</alternateIdentifier>
+                <alternateIdentifier>http://data.biodiversidad.co/sib/resource?r=puj-004-peces</alternateIdentifier>
+                <alternateIdentifier>http://ipt.sibcolombia.net/sib/resource.do?r=puj-004-peces</alternateIdentifier>
+                <alternateIdentifier>cb9e84f5-2367-46c9-83cf-7a68695626fb</alternateIdentifier>
+        <title>Colección de peces del Museo de Historia Natural de la Pontificia Universidad Javeriana</title>
+            <creator>
+            <individualName>
+<givenName>Saúl</givenName>                    <surName>Prada</surName>
+            </individualName>
+<organizationName>Laboratorio de Ictiología, Departamento de Biología, Facultad de Ciencias, Pontificia Universidad Javeriana</organizationName><positionName>Curador - Profesor Asociado</positionName>            <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>(571)3208320</phone><electronicMailAddress>saul.prada@gmail.com</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>            </creator>
+            <creator>
+            <individualName>
+<givenName>Edgar Esteban</givenName>                    <surName>Herrera-Collazos</surName>
+            </individualName>
+<organizationName>Laboratorio de Ictiología, Departamento de Biología, Facultad de Ciencias, Pontificia Universidad Javeriana</organizationName><positionName>Data Scientist</positionName>            <address>
+<deliveryPoint>Carrera 7 N° 43-82</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3193790213</phone><electronicMailAddress>edgarestebanhc@gmail.com</electronicMailAddress>            <userId directory="https://www.linkedin.com/profile/view?id=">edgar-esteban-herrera-collazos-71540638</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tiago</givenName>                    <surName>Pinto Carvalho</surName>
+            </individualName>
+<organizationName>Laboratorio de Ictiología, Departamento de Biología, Facultad de Ciencias, Pontificia Universidad Javeriana</organizationName><positionName>Curador - Profesor Asociado</positionName>            <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<electronicMailAddress>pitiago@javeriana.edu.co</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0001-5901-1634</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Saúl</givenName>                    <surName>Prada</surName>
+            </individualName>
+<organizationName>Laboratorio de Ictiología, Departamento de Biología, Facultad de Ciencias, Pontificia Universidad Javeriana</organizationName><positionName>Curador - Profesor Asociado</positionName>            <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>(571)3208320</phone><electronicMailAddress>saul.prada@gmail.com</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Edgar Esteban</givenName>                    <surName>Herrera-Collazos</surName>
+            </individualName>
+<organizationName>Laboratorio de Ictiología, Departamento de Biología, Facultad de Ciencias, Pontificia Universidad Javeriana</organizationName><positionName>Data Scientist</positionName>            <address>
+<deliveryPoint>Carrera 7 N° 43-82</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3193790213</phone><electronicMailAddress>edgarestebanhc@gmail.com</electronicMailAddress>            <userId directory="https://www.linkedin.com/profile/view?id=">edgar-esteban-herrera-collazos-71540638</userId>
+            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Tiago</givenName>                    <surName>Pinto Carvalho</surName>
+            </individualName>
+<organizationName>Laboratorio de Ictiología, Departamento de Biología, Facultad de Ciencias, Pontificia Universidad Javeriana</organizationName><positionName>Curador - Profesor Asociado</positionName>            <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<electronicMailAddress>pitiago@javeriana.edu.co</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0001-5901-1634</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Saúl</givenName>                    <surName>Prada</surName>
+            </individualName>
+<organizationName>Laboratorio de Ictiología, Departamento de Biología, Facultad de Ciencias, Pontificia Universidad Javeriana</organizationName><positionName>Curador - Profesor</positionName>            <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>(571)3208320</phone><electronicMailAddress>saul.prada@gmail.com</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>            <role>CURATOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Javier A.</givenName>                    <surName>Maldonado-Ocampo</surName>
+            </individualName>
+<organizationName>Laboratorio de Ictiología, Departamento de Biología, Facultad de Ciencias, Pontificia Universidad Javeriana</organizationName><positionName>Curador - Profesor</positionName>            <address>
+<deliveryPoint>Carrera 7 N° 43-82</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>(571)3208320</phone>            <userId directory="http://orcid.org/">0000-0003-3024-237X</userId>
+            <role>CURATOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Edgar Esteban</givenName>                    <surName>Herrera -Collazos</surName>
+            </individualName>
+<organizationName>Laboratorio de Ictiología, Departamento de Biología, Facultad de Ciencias, Pontificia Universidad Javeriana</organizationName><positionName>Data Scientist</positionName>            <address>
+<deliveryPoint>Carrera 7 N° 43-82</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<electronicMailAddress>edgarestebanhc@gmail.com</electronicMailAddress>            <userId directory="https://www.linkedin.com/profile/view?id=">edgar-esteban-herrera-collazos-71540638</userId>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Dimitri</givenName>                    <surName>Forero</surName>
+            </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesor Asociado-Coordinador de Colecciones Biológicas</positionName>            <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>(571)3208320</phone><electronicMailAddress>forero-i@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Tiago</givenName>                    <surName>Pinto Carvalho</surName>
+            </individualName>
+<organizationName>Laboratorio de Ictiología, Departamento de Biología, Facultad de Ciencias, Pontificia Universidad Javeriana</organizationName><positionName>Curador - Profesor Asociado</positionName>            <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<electronicMailAddress>pitiago@javeriana.edu.co</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0001-5901-1634</userId>
+            <role>CURATOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-05
+            </pubDate>
+        <language>SPANISH</language>
+            <abstract>
+                    <para>Peces depositados en la colección del Museo de Historia Natural de la Pontificia Universidad Javeriana colectados principalmente en el territorio nacional colombiano (30 departamentos y el distrito capital) e incluye algunos ejemplares de Argentina, Brasil, Chile, Ecuador, Estados Unidos, Ghana, Italia, República de Fiyi y Rusia. Los ejemplares cubren actualmente 14027 registros. La colecta de ejemplares proviene de diferentes actividades como proyectos de investigación y salidas de campo programadas en las cátedras de la universidad. El conjunto de datos cuenta con 13 registros de Artrópodos depositados en la colección y 14014 registros de peces.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Colombia</keyword>
+                        <keyword>Museo de Historia Natural</keyword>
+                        <keyword>Orinoco</keyword>
+                        <keyword>Neotropical</keyword>
+                        <keyword>Biodiversidad</keyword>
+                        <keyword>Colección</keyword>
+                        <keyword>Peces</keyword>
+                        <keywordThesaurus>na</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Con una cobertura en el territorio nacional colombiano principalmente. Actualmente los ejemplares cubren 30 departamentos del país y el distrito capital (Amazonas, Antioquia, Arauca, Atlántico, Bogotá, D.C., Bolívar, Boyacá, Caldas, Caquetá, Casanare, Cauca, Cesar, Chocó, Cordoba, Cundinamarca, Guainía, Guaviare, Huila, La Guajira, Magdalena, Meta, Nariño, Norte de Santander, Putumayo, Quindío, Risaralda, Santander, Sucre, Tolima, Valle del Cauca, Vichada). Incluye algunos ejemplares de Argentina, Brasil, Chile, Ecuador, Estados Unidos, Ghana, Italia, República de Fiyi y Rusia.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-78.926</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-66.533</eastBoundingCoordinate>
+                                <northBoundingCoordinate>12.64</northBoundingCoordinate>
+                                <southBoundingCoordinate>-4.478</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1937-04-20
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2019-10-10
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Ejemplares de peces representados en 5 clases distribuidos en 43 ordenes y 114 familias. Actualmente se cuenta con 14.027 registros de peces determinados hasta especie que representan 953 especies únicas (dulceacuícolas y marinas). La clasificación taxonómica se basó en: CALACADEMY: Catálogo de peces de la Academia de Ciencias de California (http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp); FISHBASE: Sistema de información global de peces (http://www.fishbase.org/). CoL: Catálogo de la Vida (http://www.catalogueoflife.org/col/search/all) y la Lista de Especies de Peces de Agua Dulce de Colombia (DoNascimiento et al. 2017).</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Characidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Lebiasinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Erythrinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cichlidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Heptapteridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Trichomycteridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Sciaenidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Auchenipteridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Hemiodontidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Curimatidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Loricariidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Hypopomidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Rhamphichthyidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Sternopygidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Bothidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Gasteropelecidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Muraenidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Anostomidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Iguanodectidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Gymnotidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Crenuchidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Serrasalmidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Pimelodidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Acestrorhynchidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Aspredinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Triportheidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Chilodontidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cetopsidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Mochokidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Pseudopimelodidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Callichthyidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Synbranchidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cynolebiidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Doradidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Bryconidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Prochilodontidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Apteronotidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Poeciliidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Acipenseridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Chanidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Petromyzontidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Branchiostomatidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Triakidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Amiidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Rajidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Esocidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Stomiidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Myxinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Myctophidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Engraulidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Polymixiidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Moringuidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Polycentridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Ctenoluciidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cynodontidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Achiridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Potamotrygonidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Pristigasteridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Astroblepidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Carangidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Triglidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Ephippidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Mullidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Gerreidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Anguillidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Serranidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Synodontidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Tetraodontidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Narcinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Batrachoididae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Diodontidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Muraenesocidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Haemulidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Labridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Soleidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Lutjanidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Ogcocephalidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Sphyrnidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Gobiidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Scorpaenidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Salmonidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cyprinodontidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Torpedinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Dasyatidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Fistulariidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Belonidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Blenniidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Pomacentridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Zanclidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Chaetodontidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Pomacanthidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Holocentridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Mugilidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Antennariidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Labrisomidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cirrhitidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Gobiesocidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Acanthuridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Centropomidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Osteoglossidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Dactylopteridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cyprinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Parodontidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Nemichthyidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Chalceidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Eleotridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Fluviphylacidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Clupeidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Ariidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Osphronemidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Squalidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Atherinopsidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Syngnathidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Callychtidae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <purpose>
+                <para>Preservar ejemplares de peces colectados principalmente en el territorio de Colombia con el propósito de aportar al conocimiento sobre la biodiversidad del país.</para>
+            </purpose>
+            <maintenance>
+                <description>
+                    <para>El mantenimiento consiste en revisión de las identificaciones, actualización taxonómica y geográfica, cambio de alcohol y etiquetas.</para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Dimitri</givenName>                    <surName>Forero</surName>
+            </individualName>
+<organizationName>Pontificia Universidad Javeriana</organizationName><positionName>Profesor Asociado-Coordinador de Colecciones Biológicas</positionName>            <address>
+<deliveryPoint>Carrera 7 No. 40 - 62</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>(571)3208320</phone><electronicMailAddress>forero-i@javeriana.edu.co</electronicMailAddress><onlineUrl>http://www.javeriana.edu.co/</onlineUrl>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Los protocolos de muestreo para la colecta de ejemplares incluyen diferentes técnicas como: Careteo, Nasa, Atarraya, Anzuelo, Red de mano, Electropesca, Arrastre, Trasmallo, Jama, Rapiché, Trampas de tela y Trampas de PVC, entre otros.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Con una cobertura en el territorio nacional colombiano principalmente. Actualmente los ejemplares cubren 30 departamentos del país y el distrito capital.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Los ejemplares que ingresan a la colección de peces son colectados, curados e identificados por expertos del grupo.</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>Los datos fueron validados y depurados con las herramientas recomendadas por el SiB Colombia para mejorar la calidad de datos. La clasificación taxonómica se basó en: CALACADEMY: Catálogo de peces de la Academia de Ciencias de (California http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp); FISHBASE: Sistema de información global de peces (http://www.fishbase.org/)
+CoL: Catálogo de la vida (http://www.catalogueoflife.org/col/search/all) y la Lista de Especies de Peces de Agua Dulce de Colombia (DoNascimiento et al. 2017).</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project >
+                <title>Colección de peces del Museo de Historia Natural de la Pontificia Universidad Javeriana</title>
+                    <personnel>
+            <individualName>
+<givenName>Saúl</givenName>                    <surName>Prada-Pedreros</surName>
+            </individualName>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Herrera-Collazos</givenName>                    <surName>Herrera-Collazos</surName>
+            </individualName>
+            <userId directory="https://www.linkedin.com/profile/view?id=">edgar-esteban-herrera-collazos-71540638</userId>
+            <role>CUSTODIAN_STEWARD</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Tiago</givenName>                    <surName>Pinto Carvalho</surName>
+            </individualName>
+            <userId directory="http://orcid.org/">0000-0001-5901-1634</userId>
+            <role>CURATOR</role>
+                    </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Convenio de Cooperación No. 13-13-014-281 CE entre el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y la Pontificia Universidad Javeriana.</para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>Territorio nacional de Colombia principalmente.</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+                    <designDescription>
+                        <description>
+                            <para>Curar y preservar ejemplares de peces colectados de diferentes actividades como salidas de campo.</para>
+                        </description>
+                    </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:38Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/uozvak">Prada S, Herrera-Collazos E E, Pinto Carvalho T (2021). Colección de peces del Museo de Historia Natural de la Pontificia Universidad Javeriana. Version 4.10. Pontificia Universidad Javeriana. Occurrence dataset https://doi.org/10.15472/uozvak accessed via GBIF.org on 2023-01-20.</citation>
+                    <bibliography>
+                <citation identifier="http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp">CALACADEMY: Catalogo de peces de la Academia de Ciencias de (California</citation>
+                <citation identifier="http://www.fishbase.org/">FISHBASE: Sistema de información global de peces</citation>
+                <citation identifier="http://www.catalogueoflife.org/col/search/all">CoL: Catálogo de la Vida</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.708.13897">DoNascimiento, C., Herrera-Collazos, E. E., Herrera-R, G. A., Ortega-Lara, A., Villa-Navarro, F. A., Oviedo, J. S. U., &amp; Maldonado-Ocampo, J. A. (2017). Checklist of the freshwater fishes of Colombia: a Darwin Core alternative to the updating problem. ZooKeys, (708), 25.</citation>
+                    </bibliography>
+                    <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/puj.jpg</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier>MPUJ</parentCollectionIdentifier>
+                            <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 12</collectionIdentifier>
+                            <collectionName>Museo Javeriano de Historia Natural</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>GLYCERIN</specimenPreservationMethod>
+                            <jgtiCuratorialUnit>
+                                <jgtiUnitType>Lote</jgtiUnitType>
+                                <jgtiUnitRange>
+                                    <beginRange>1</beginRange>
+                                    <endRange>10,000</endRange>
+                                </jgtiUnitRange>
+                            </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

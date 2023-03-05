@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="773930b7-a6fc-4f5c-9eff-c59e2c21403a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/xkt634</alternateIdentifier>
+                <alternateIdentifier>773930b7-a6fc-4f5c-9eff-c59e2c21403a</alternateIdentifier>
+                <alternateIdentifier>http://ipt.iobis.org/obiscanada/resource?r=dfo_que_dutil_fishdb</alternateIdentifier>
+        <title>Northern Gulf of St. Lawrence Fishes</title>
+            <creator>
+            <individualName>
+<givenName>Jean-Denis</givenName>                    <surName>Dutil</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>researcher</positionName>            <address>
+<deliveryPoint>Maurice Lamontagne Institute</deliveryPoint><city>Mont-Joli</city><administrativeArea>Quebec</administrativeArea><postalCode>G5H 3Z4</postalCode><country>CANADA</country>            </address>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Claude</givenName>                    <surName>Nozères</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>biologist</positionName>            <address>
+<deliveryPoint>Maurice Lamontagne Institute</deliveryPoint><city>Mont-Joli</city><administrativeArea>Quebec</administrativeArea><postalCode>G5H 3Z4</postalCode><country>CANADA</country>            </address>
+<electronicMailAddress>Claude.Nozeres@dfo-mpo.gc.ca</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0002-9779-9300</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Jean-Denis</givenName>                    <surName>Dutil</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>researcher</positionName>            <address>
+<deliveryPoint>Maurice Lamontagne Institute</deliveryPoint><city>Mont-Joli</city><administrativeArea>Quebec</administrativeArea><postalCode>G5H 3Z4</postalCode><country>CANADA</country>            </address>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Serge</givenName>                    <surName>Proulx</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>geomatician</positionName>            <address>
+<deliveryPoint>Maurice Lamontagne Institute</deliveryPoint><city>Mont-Joli</city><administrativeArea>Quebec</administrativeArea><postalCode>G5H 3Z4</postalCode><country>CANADA</country>            </address>
+            <role>PROCESSOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Pierre-Marc</givenName>                    <surName>Chouinard</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>biologist</positionName>            <address>
+<deliveryPoint>Maurice Lamontagne Institute</deliveryPoint><city>Mont-Joli</city><administrativeArea>Quebec</administrativeArea><postalCode>G5H 3Z4</postalCode><country>CANADA</country>            </address>
+            <role>PROCESSOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Mary</givenName>                    <surName>Kennedy</surName>
+            </individualName>
+<organizationName>OBIS Canada</organizationName><positionName>OBIS Canada node manager</positionName>            <address>
+<deliveryPoint>Bedford Institute of Oceanography</deliveryPoint><city>Dartmouth</city><administrativeArea>Nova Scotia</administrativeArea><postalCode>B2Y 4A2</postalCode><country>CANADA</country>            </address>
+<electronicMailAddress>obiscanada@dfo-mpo.gc.ca</electronicMailAddress><onlineUrl>http://obiscanada.marinebiodiversity.ca/</onlineUrl>            <role>PROCESSOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-03-23
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset provides information on fishes of the northern Gulf of St. Lawrence ecosystem. Diverse sources in Quebec have been consulted from the literature (1933-2012) and from biological surveys (1997-2012) conducted by the Department of Fisheries and Oceans Canada (DFO) Quebec Region and its partners. The habitats covered are principally from offshore surveys, though it includes shore-based surveys, particularly of intertidal eelgrass beds as well as intertidal marshes and mud flats of the middle and lower portion of the St. Lawrence estuary. The data has been compiled into a geodatabase with environmental information on sites and biological information on most specimens. This dataset provides only the abundance and gender of specimens recorded in the database from the total of 664799 individual records with 185 taxa at 5243 sites. The records have been checked for taxonomic and geographic reliability. The dataset provides a comprehensive overview of fish records for the St. Lawrence region as a complement to published survey datasets. / Cet ensemble de données fournit des informations sur les poissons de l&amp;#39;écosystème du nord du golfe du Saint-Laurent. Des sources diverses au Québec ont été consultés à partir de la littérature (1933-2012) et de relevés biologiques (1997-2012) faits par le Ministère de Pêches et Océans Canada (MPO) de la région du Québec et ses partenaires. Les habitats considérés comprennent notamment des milieux de haute mer, mais aussi des sites littoraux, en particulier des herbiers de zostères, des marais à spartine et des vasières intertidales. Les données ont été compilées dans une géodatabase incluant des informations environnementales sur les sites et des informations biologiques sur une grande proportion des spécimens capturés. Cet ensemble de données est une compilation par espèce, par sexe et par stationdes 664799 enregistrements individuels dans la base de données qui compte un total de 185 taxa répartis entre 5243 sites. La validité taxonomique et géographique des enregistrements a été vérifiée. Cet ensemble de données fournit un aperçu global de l’information concernant les poissons du Saint-Laurent, constituant un complément aux données déjà publiées..</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Northwest Atlantic; Estuarine; Marine; Pisces; Distribution; Monitoring; Historical; Biodiversity; Ecological niche modelling; Deep water</keyword>
+                        <keywordThesaurus>n/a</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Biological classification; Oceans;</keyword>
+                        <keywordThesaurus>GCMD</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Observation</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>This dataset adds information on abundance and gender (when determined) for occurrence records of years 2004-2008 that were previously published in the dataset: DFO Quebec Region Multispecies bottom trawl surveys (OBIS Canada). / Cet ensemble de données apporte des informations sur l&apos;abondance et le sexe (déterminé) pour les enregistrements d&apos;occurrence des années 2004-2008, qui ont été précédemment publiés dans le jeu de données : DFO Quebec Region Multispecies bottom trawl surveys (OBIS Canada). Sources: IML-2004-033, IML-2005-045, IML-2005-046, IML-2006-043, IML-2007-040, IML-2008-041.</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://iobis.org/mapper/?resource_id=2671</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>The dataset covers the St. Lawrence estuary and northern Gulf (separated by the 200 m isobath from the Southern Gulf). The eastern limits are south to Cabot Strait and north to the Strait of Belle Isle. The western limits extend into the St. Lawrence estuary upstream to Montmagny, Quebec. The sites extend from the shoreline, including intertidal areas, Spartina grass marshes, and Zostera eelgrass beds, to offshore trawling transects down to 500 m depth. / L&apos;ensemble de données couvre l’estuaire du Saint-Laurent et le nord du golfe du Saint-Laurent (séparés par l&apos;isobathe de 200 m de la partie sud du golfe). La limite Est est constituée au nord, par le détroit de Cabot et au sud, par le détroit de Belle-Isle. La limite ouest s’étend quant à elle dans l’estuaire du Saint-Laurent en aval de la ville de Québec. Les sites s&apos;étendent de la côte, incluant les zones intertidales, les marais à spartine, et les zostères, jusqu’aux zones de transect de chalut à 500 m de profondeur.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-70.883</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-55.405</eastBoundingCoordinate>
+                                <northBoundingCoordinate>52.115</northBoundingCoordinate>
+                                <southBoundingCoordinate>46.9</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1833-01-01
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2012-12-31
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Fish species are marine, with some catadromous (Anguilla americanus), anadromous (e.g., Salmo salar), and freshwater species (e.g., Noturus flavus). The fishes were identified to lowest taxonomic level wherever possible. Certain groups that were difficult to verify were recorded to the genus or family level. The names in the original database were verified with ITIS (Integrated Taxonomic Information System) and recorded with their TSN (Taxonomic Serial Number). This dataset was validated for marine species using the Taxon Match tool of WoRMS (World Register of Marine Species).  The respective codes (WoRMS AphiaID or ITIS TSN) have been included in this resource in the scientificNameID as LSIDs. / Les espèces de poissons considérées sont généralement marines, mais inclusent cependant quelques espèces catadromes (Anguilla americanus) et anadromes (e.g. Salmo salar), ainsi que quelques espèces d&apos;eau douce (e.g. Noturus flavus). Chaque fois que cela a été possible, les poissons ont été identifiés au niveau taxonomique le plus bas. Certains groupes plus difficiles à identifier l’ont été au niveau du genre ou de la famille. Les noms de la base de données d&apos;origine ont été vérifiés à l’aide du Système d&apos;Information Taxonomique Intégré (SITI) et enregistrés avec leur numéro de série taxonomique (TSN). Cet ensemble de données a été validé pour les espèces marines en utilisant l&apos;outil de correspondance de taxon de Worms (Registre mondial des espèces marines). Les codes respectifs (AphiaID WoRMS ou TSN SITI) ont été inclus dans le champ « scientificNameID » comme Identifiants de ressources biologiques persistants (LSIDs).</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Acipenseriformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Scorpaeniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Clupeiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Rajiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Siluriformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Perciformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Anguilliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Gasterosteiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Gadiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Aulopiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Osmeriformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Stomiiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Lamniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Cypriniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Squaliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Lophiiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Salmoniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Esociformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Cyprinodontiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Pleuronectiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Petromyzontiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Atheriniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Tetraodontiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Myxiniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Notacanthiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Percopsiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Beloniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Syngnathiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lampetra appendix</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Petromyzon marinus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Ichthyomyzon unicuspis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Myxine glutinosa</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Carcharodon carcharias</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cetorhinus maximus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lamna nasus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Somniosus microcephalus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Squalus acanthias</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Centroscyllium fabricii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Rajidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Bathyraja spinicauda</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Acipenser fulvescens</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Anguilla rostrata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Nemichthys scolopaceus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Notacanthus chemnitzii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Alosa sapidissima</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Alosa pseudoharengus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Clupea harengus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Dorosoma cepedianum</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Coregonus clupeaformis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Oncorhynchus mykiss</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Salmo salar</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Salvelinus fontinalis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Mallotus villosus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Osmerus mordax</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Argentinidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Argentina silus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Esox lucius</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Gonostomatidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cyclothone microdon</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Sternoptychidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Argyropelecus gigas</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Chauliodus sloani</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Stomias boa</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Myctophiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Myctophidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Notoscopelus elongatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Benthosema glaciale</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lampadena speculigera</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Neoscopelus macrolepidotus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cyprinus carpio</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Catostomus catostomus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Ictalurus punctatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Noturus flavus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Ameiurus nebulosus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Percopsis omiscomaycus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lophius americanus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Ceratiidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Ceratias holboelli</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Gadidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Arctogadus glacialis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Boreogadus saida</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Gadus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Gadus morhua</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Gadus ogac</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Microgadus tomcod</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lota lota</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Pollachius virens</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Urophycis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Urophycis tenuis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Phycis chesteri</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Melanogrammus aeglefinus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Enchelyopus cimbrius</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Gaidropsarus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Gaidropsarus argentatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Gaidropsarus ensis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Micromesistius poutassou</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Merluccius bilinearis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Zoarcidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Lycenchelys</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lycenchelys paxillus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Lycodes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lycodes polaris</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lycodes lavalaei</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lycodes pallidus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lycodes reticulatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lycodes vahlii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Melanostigma atlanticum</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Macrouridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Nezumia bairdii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Scomberesox saurus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Fundulus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Fundulus diaphanus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Menidia menidia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Gasterosteus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Gasterosteus aculeatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Gasterosteus wheatlandi</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Pungitius pungitius</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Apeltes quadracus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Syngnathus fuscus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Sebastes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Sebastes mentella</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Sebastes fasciatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Sebastes norvegicus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Icelus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Icelus bicornis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Icelus spatula</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cottidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Artediellus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Artediellus uncinatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Artediellus atlanticus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cottus ricei</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Gymnocanthus tricuspis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Hemitripterus americanus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Myoxocephalus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Myoxocephalus scorpius</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Myoxocephalus octodecemspinosus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Myoxocephalus aenaeus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Triglops</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Triglops murrayi</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Triglops nybelini</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cottunculus microps</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Aspidophoroides monopterygius</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Leptagonus decagonus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Careproctus longipinnis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Careproctus reinhardti</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Eumicrotremus spinosus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Liparis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Liparis gibbus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Liparis atlanticus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Liparis tunicatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Paraliparis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Paraliparis calidus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Paraliparis copei</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cyclopterus lumpus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Dactylopterus volitans</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Morone americana</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Morone saxatilis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Etheostoma olmstedi</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Perca flavescens</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Aplodinotus grunniens</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Tautogolabrus adspersus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Anarhichas</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Anarhichas lupus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Anarhichas minor</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Stichaeidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Stichaeus punctatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Eumesogrammus praecisus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Leptoclinus maculatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cryptacanthodes maculatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Ulvaria subbifurcata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Anisarchus medius</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Pholis gunnellus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Genus</taxonRankName>
+                                    <taxonRankValue>Ammodytes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Ammodytes americanus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Ammodytes dubius</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Scomber scombrus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Peprilus triacanthus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Glyptocephalus cynoglossus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Hippoglossoides platessoides</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Pseudopleuronectes americanus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Limanda ferruginea</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Pleuronectes putnami</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Reinhardtius hippoglossoides</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Hippoglossus hippoglossus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Mola mola</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Liparis fabricii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Anarhichas denticulatus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Micropterus dolomieu</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Acipenser oxyrinchus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Catostomus commersonii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Liparidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Rajella fyllae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Dipturus laevis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Leucoraja ocellata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Amblyraja radiata</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Malacoraja senta</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Polyipnus clarus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Cryptopsaras couesii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Coregonus artedi</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Zoarces americanus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lycodes terraenovae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lycodes esmarkii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lumpenus lampretaeformis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Lycenchelys verrillii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Gymnelus viridis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Serrivomer beanii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Synaphobranchus kaupii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Ulcina olrikii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Triglops pingelii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Arctozenus risso</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Caristius groenlandicus</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Sander canadensis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Sander vitreus</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <purpose>
+                <para>This dataset makes available information on fishes of the estuary and northern Gulf of St. Lawrence from a variety of regional sources. The compiled data from Department of Fisheries and Oceans Canada (DFO) and partners include visual observations (DFO, MICS); sampling by the eelgrass monitoring network (DFO, Forillon National Park, Comité ZIP des Îles-de-la-Madeleine, AMIK, CÉGEP de La Pocatière); DFO research surveys for groundfish, snow crab, and shrimp; and historical sources in the literature. / Cet ensemble de données fournit des renseignements sur les poissons de l&apos;estuaire et du nord du golfe du Saint-Laurent à partir d&apos;une variété de sources régionales. Les données compilées par le Ministère de Pêches et Océans Canada (MPO) et ses partenaires comprennent des observations visuelles (MICS, MPO); l&apos;échantillonnage par le réseau de monitorage de la zostère marine (AMIK, CÉGEP de La Pocatière, MPO, Parc Forillon, Comité ZIP des Îles-de-la-Madeleine); des missions de recherche pour le poisson de fond, le crabe des neiges et la crevette; et des sources historiques provenant de la littérature.</para>
+            </purpose>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Claude</givenName>                    <surName>Nozères</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>biologist</positionName>            <address>
+<deliveryPoint>Maurice Lamontagne Institute</deliveryPoint><city>Mont-Joli</city><administrativeArea>Quebec</administrativeArea><postalCode>G5H 3Z4</postalCode><country>CANADA</country>            </address>
+<electronicMailAddress>Claude.Nozeres@dfo-mpo.gc.ca</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0002-9779-9300</userId>
+            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Data compilation procedures
+1. Survey data are imported into the project database by event name. / Les données de relevés sont importés dans la base par mission.
+2. Spatial coordinates are taken from the end position of tows or transects. / Les coordonnées spatiales sont prises des positions de fin des transects.
+3. Coordinates are projected onto a map and corrected if necessary. / Les coordonnées sont projetées sur une carte et corrigées si nécessaire.
+4. Station ID (Fieldname) is attributed using codes for event and site. / Station ID (Fieldname) est attribuée à l&apos;aide des codes pour la mission et la site.
+5. Individual fish records are imported. / Les données individuelles de poissons sont importées.
+6. Records are summarized by station, species, and gender, to compose the catalog number. / Les données sont résumées par station, espèce et sexe, pour composer le numéro du catalog.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>Version 2 of this resource was created in June 2015. An issue pertaining to the month values was corrected.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Sampling frequency varied with the surveys, with some occurring seasonally or on a annual basis. Fisheries and eelgrass surveys repeatedly visited their sampling areas of interest in the estuary and the northern Gulf. / La fréquence d&apos;échantillonnage variait selon les relevés, certains se faisant de façon saisonnière ou sur une base annuelle. Les zones d&apos;intérêt situées dans l&apos;estuaire et le golfe ont été échantillonnées plusieurs fois lors des relevés de pêches et le programme de monitorage des zostères.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Sampling methods used ranged from fish traps and seine nets on the coasts to offshore trawling.  Information is provided in the reports of the sources cited in the bibliography. / Les méthodes d&apos;échantillonnage utilisées allaient des trappes et des sennes sur le littoral jusqu’aux chaluts au large. L&apos;information de trouve dans les rapports citées dans la bibliographie.</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>Sampling sources are documented in the bibliography. Decisions for taxonomic identification were made to group certain species at the genus level although this may be revised at a future date given genetic or other supporting evidence. In particular, this applies to juvenile specimens of Gadus sp. (likely Gadus morhua, or Gadus ogac) and Urophycis sp. (likely Urophycis tenuis). Other taxa includes Ammodytes sp (probably Ammodytes americanus), Fundulus sp. (probably Fundulus diaphanus), Gasterosteus sp. (probably Gasterosteus aculeatus), and Liparis sp. (probably Liparis atlanticus). / Les sources d&apos;échantillonnage sont décrits dans la bibliographie. Décisions pour l&apos;identification taxonomique ont été apportées à certaines espèces du groupe au niveau du genre mais  cela peut être révisé à une date future avec les données génétiques ou d&apos;autres preuves à l&apos;appui. En particulier, cela s&apos;applique aux spécimens juvéniles de Gadus sp. (probablement Gadus morhua, ou Gadus ogac ) et Urophycis sp. Autres taxons inclurent Ammodytes sp (probablement Ammodytes americanus), Fundulus sp. (probablement Fundulus diaphanus),Gasterosteus sp. (probablement Gasterosteus aculeatus), et Liparis sp. (probablement Liparis atlanticus).</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project >
+                <title>Researcher</title>
+                    <personnel>
+            <individualName>
+<givenName>Jean-Denis</givenName>                    <surName>Dutil</surName>
+            </individualName>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+                    </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>The study area covers a wide range of habitats, from estuarine to marine, rock and sand shelves to deep silty channels. There are pronounced hydrological regimes, with inputs from the north, the south, and freshwater runoff from the St. Lawrence River. A hierarchical classification of the benthic habitats is presented in Dutil et al. 2011 (see external links for report and spatial database files). /  La zone d&apos;étude couvre un large éventail d&apos;habitats, du milieu estuarien au milieu marin, des plateaux rocheux ou sablonneux aux chenaux profonds et limoneux. Il existe des régimes hydrologiques prononcés, avec des intrants provenant du nord et du sud de l&apos;aire d&apos;étude, ainsi qu&apos;un apport d&apos;eau douce par le fleuve Saint-Laurent. Une classification hiérarchique des habitats benthiques est présentée dans Dutil et al. 2011 (voir liens externes pour le rapport et les fichiers de bases de données spatiales).</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:31Z</dateStamp>
+                <citation identifier="http://iobis.org/mapper/?resource_id=2671">Dutil J, Nozères C (2022). Northern Gulf of St. Lawrence Fishes. Version 40.5. Fisheries and Oceans Canada. Occurrence dataset https://doi.org/10.15468/xkt634 accessed via GBIF.org on 2023-01-20.</citation>
+                    <bibliography>
+                <citation>AMIK. 2013. Eelgrass monitoring network dataset / données du réseau de suivi de zostères (2009-2012). Agence Mamu Innu Kaikusseht. http://www.l-amik.ca</citation>
+                <citation>Bérubé, S. and J.-D. Lambert, 1997. Suivi ichtyologique dans l&apos;estuaire du Saint-Laurent (1986-1995). Rapp. tech. can. sci. halieut. aquat. 2171 : viii + 57 p.</citation>
+                <citation>Bergeron, J. and V. Legendre 1970. Catalogue des espèces de poissons déposés au Musée de la station de biologie marine de Grande-Rivière 1932-1969. Gouvernement du Québec, Ministère de l&apos;industrie et du commerce. Cahier d&apos;information no 51: 86 p.</citation>
+                <citation>Caron, F., D. Fournier, P. Nellis, P.-Y. Collin. 2001. Biodiversité ichtyologique à la rencontre de l&apos;estuaire fluvial et moyen du Saint-Laurent en 2000. Société de la faune et des parcs du Québec et Ministère des Pêches et des Océans, 61 p.</citation>
+                <citation>CÉGEP de la Pocatière. 2013. Eelgrass monitoring network dataset / données du réseau de suivi de zostères (2011-2012).</citation>
+                <citation>DFO. 1997. Redfish survey / Mission portant sur le sébastes. IML-1997-007, IML-1997-018.</citation>
+                <citation>DFO. 2000.  Underwater dive surveys for softshell clams and green sea urchins / Mission comportant plusieurs plongées sous-marines pour l&apos;échantillonnage de myes communes et d&apos;oursins verts. IML-2000-056.</citation>
+                <citation>DFO. 2004. Shrimp surveys / Missions pour la crevette. IML-2004-006, IML-2004-050.</citation>
+                <citation>DFO. 2007. Snow crab surveys / Missions pour les crabes de neige. IML-2003-068, IML-2004-067, IML-2007-011.</citation>
+                <citation>DFO. 2008.  Surveys for demersal fish communities in the St. Lawrence (Manicouagan, Saguenay, and middle estuary / Missions portant sur la communauté de poissons démersaux du Saint-Laurent (Manicouagan, Saguenay et l&apos;estuaire moyen). IML-2004-047, IML-2004-067, IML-2005-017, IML-2007-010, IML-2008-020.</citation>
+                <citation>DFO. 2009. Annual groundfish and shrimp survey in the lower Estuary and northern Gulf of St Lawrence / Relevé annuel de l&apos;abondance du poisson du fond et de crevette dans l&apos;estuaire maritime et le nord du golfe du St-Laurent.  IML-2004-033, IML-2005-045, IML-2005-046, IML-2006-043, IML-2007-040, IML-2008-041.</citation>
+                <citation>DFO. 2010. Eelgrass monitoring network dataset / données du réseau de suivi de zostères. MPO-2008, MPO-2009, MPO-2010.</citation>
+                <citation>DFO. 2011. MLI museum specimen database. / Base de donnée de la collection IML. CIML-1987, CIML-2006.</citation>
+                <citation>Drainville, G. 1970. Le fjord du Saguenay. II - La faune ichtyologique et les conditions écologiques. Naturaliste canadien 97: 623-666.</citation>
+                <citation>Drainville, G., and Brassard, L. 1960. Le requin Somniosus microcephalus dans la rivière Saguenay. Naturaliste canadien 87: 269-277</citation>
+                <citation>Dunbar, M. J. 1950. Mola mola from the lower St. Lawrence. Canadian Field-Naturalist 64: 124-125.</citation>
+                <citation>Dutil, J.-D. and M. Fortin. 1983. La communauté de poissons d&apos;un marécage intertidal de l&apos;estuaire du Saint-Laurent. Naturaliste canadien 110: 397-410.</citation>
+                <citation>Dutil, J.-D., Proulx, S., Chouinard, P.-M., and Borcard. D. 2011. A hierarchical classification of the seabed based on physiographic and oceanographic features in the St. Lawrence. Can. Tech. Rep. Fish. Aquat. Sci. 2916: vii + 72 p. http://www.dfo-mpo.gc.ca/Library/342703.pdf</citation>
+                <citation>Dutil, J.-D. 2010. Diverse reports / mentions diverses. Pers. commun.</citation>
+                <citation>Fournier, D. 2002. Recueil de données: campagne de chalutage à la rencontre de l&apos;estuaire fluvial et moyen du Saint-Laurent en 2001. Société de la faune et des parcs du Québec et Ministère des Pêches et des Océans, 53 p.</citation>
+                <citation>Gagnon, M., Y. Ménard and J.-M. Coutu, 1992. Structure de la communauté ichtyenne intertidale de l&apos;estuaire moyen du Saint-Laurent: cadre de référence pour le suivi à long terme de l&apos;état de l&apos;écosystème de l&apos;estuaire du Saint-Laurent. Rapp. tech. can. sci. halieut. aquat. 1870 F : vii + 35 p.</citation>
+                <citation>Gosselin, J.-F. 2007. Aerial survey for marine mammals with observation notes on basking sharks and sunfish / Relevé aérien des mammifères marins avec des notes des observations pour les poisson môles et de requins pèlerins. RAMM-2007.</citation>
+                <citation identifier=" ">Lachance, S. and D. Fournier. 2001. Suivi des communautés ichtyologiques au site de mise en dépôt de sédiments de dragage de l&apos;île Madame en 2000. Gouvernement du Québec. Société de la faune et des parcs. Direction de la recherche sur la faune, 45 p.</citation>
+                <citation>Nellis, P., Dorion D., Pereira, S., Ellefsen, H.-F. and Lemay, M. 2012. Monitoring of vegetation and fish in six eelgrass beds in Quebec (2005–2010). Can. Tech. Rep. Fish. Aquat. Sci. 2985: ix+96 p.</citation>
+                <citation>Leim, A. H. and L. R. Day. 1959. Records of uncommon and unusual fishes from eastern canadian waters, 1950-1958. J. Fish. Res. Board Can. 16: 503-514.</citation>
+                <citation>MICS. 2009. Visual observations for marine mammals with notes on basking sharks and sunfish / observations visuelles des mammifères marins avec des notes pour les poisson môles et de requins pèlerins (1983-2006). Mingan Island Cetacean Study.  http://www.rorqual.com</citation>
+                <citation>Nellis, P., Dorion D., Pereira, S., Ellefsen, H.-F. and Lemay, M. 2012. Monitoring of vegetation and fish in six eelgrass beds in Quebec (2005–2010). Can. Tech. Rep. Fish. Aquat. Sci. 2985: ix+96 p.</citation>
+                <citation>Parent, S. and J. Laurin. 1975. Première mention du loup à tête large, Anarhichas denticulatus (Pisces: Blennioidea), pour l&apos;estuaire du Saint-Laurent. Naturaliste canadien 102: 363-365.</citation>
+                <citation>Préfontaine, G. 1933. Additions à la liste des espèces animales de l&apos;estuaire du Saint-Laurent. Trans. Roy. Soc. Can. Section V: 253-258.</citation>
+                <citation>Richards, S. W. 1982. Aspects of the biology of Ammodytes americanus from the St. Lawrence River to Chesapeake Bay, 1972-75, including a comparison of the Long Island Sound postlarvae with Ammodytes dubius. J. Northw. Atl. Fish. Sci. 3: 93-104.</citation>
+                <citation>Steele, D. H. 1958. Fishes taken in the Laurentian Channel, Gulf of St. Lawrence, between Bird Rocks and the Saguenay River, 1953 and 1954. Fisheries Research Board of Canada. Manuscript Report Series 651: 32 p.</citation>
+                <citation>Stokesbury, M., C. Harvey-Clark, J. Gallant, B. Block, R. Myers. 2005. Movement and environmental preferences of Greenland sharks (Somniosus microcephalus) electronically tagged in the St. Lawrence Estuary, Canada. Mar. Biol. 148(1): 159-165.</citation>
+                <citation>Templeman, W. 1963. Distribution of sharks in the Canadian Atlantic : with special reference to Newfoundland waters. Bull. Fish. Res. Board Can. 140 : vii + 77 p.</citation>
+                <citation>Tremblay, C., B. Portelance and J. Fréchette. 1983. Inventaire au chalut de fond des espèces de poissons et crustacés dans l&apos;estuaire maritime du Saint-Laurent. Gouvernement du Québec. Ministère de l&apos;agriculture, des pêcheries et de l&apos;alimentation.Cahier d&apos;information 103: 96 p.</citation>
+                <citation>Vaillancourt, R., J-C. Brêthes and G. Desrosiers. 1985. Croissance de la plie rouge (Pseudopleuronectes americanus) de l&apos;estuaire maritime du Saint-Laurent. Can. J. Zool. 63: 1610-1616.</citation>
+                <citation>Vladykov, V.D. 1950. Movements of Quebec shad (Alosa sapidissima) as demonstrated by tagging. Naturaliste canadien 77: 121-135.</citation>
+                <citation>Vladykov, V. D. and D. E. McAllister. 1961. Preliminary list of marine fishes of Quebec. Le Naturaliste canadien 38: 53-78.</citation>
+                <citation>Worgan, J. P. and G. J. Fitzgerald. 1981. Habitat segregation in a salt marsh among adult sticklebacks (Gasterosteidae). Environmental Biology of Fishes 6: 105-109.</citation>
+                <citation>Dutil, J.-D., Nozères, C., Scallon-Chouinard, P.-M., Van Guelpen, L., Bernier, D., Proulx, S., Miller, R., Savenkoff, C. (2009). Poissons connus et méconnus des fonds marins du Saint-Laurent. Le Naturaliste canadien 133(2): 70-82.</citation>
+                    </bibliography>
+                    <physical>
+                        <objectName>A hierarchical classification of the seabed based on physiographic and oceanographic features in the St. Lawrence - dataset</objectName>
+                        <characterEncoding>ASCII</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>Microsoft Access, ESRI shapefile</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">http://www.dfo-mpo.gc.ca/Library/342703.zip</url>
+                            </online>
+                        </distribution>
+                    </physical>
+                    <resourceLogoUrl>http://ipt.iobis.org/obiscanada/logo.do?r=dfo_que_dutil_fishdb</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

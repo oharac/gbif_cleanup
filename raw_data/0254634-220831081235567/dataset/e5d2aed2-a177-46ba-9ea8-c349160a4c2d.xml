@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e5d2aed2-a177-46ba-9ea8-c349160a4c2d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/nzy2re</alternateIdentifier>
+                <alternateIdentifier>http://tun.fi/HR.647</alternateIdentifier>
+        <title>Mollusca (Luomus)</title>
+            <pubDate>
+                2023-01-13
+            </pubDate>
+        <language>en</language>
+            <abstract>
+                    <para>Mollusca samples and specimens in Luomus zoological collection (MZH)</para>
+            </abstract>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>World</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-174.8</westBoundingCoordinate>
+                                <eastBoundingCoordinate>177.715</eastBoundingCoordinate>
+                                <northBoundingCoordinate>80.829</northBoundingCoordinate>
+                                <southBoundingCoordinate>-53.621</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1800-01-01
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2022-09-11
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Animalia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Plantae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Chromista</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Protozoa</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Fungi</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <contact>
+            <individualName>
+<givenName>Risto</givenName>                    <surName>Väinölä</surName>
+            </individualName>
+<electronicMailAddress>risto.vainola@helsinki.fi</electronicMailAddress>            </contact>
+            <contact>
+            <individualName>
+<givenName>Pedro</givenName>                    <surName>Cardoso</surName>
+            </individualName>
+            </contact>
+            <contact>
+            <individualName>
+                    <surName>FinBIF</surName>
+            </individualName>
+<electronicMailAddress>helpdesk@laji.fi</electronicMailAddress>            </contact>
+            <methods>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para></para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Dry shells and samples stored in alcohol. Finnish (East Fennoscandian) and Exotic samples are organised separately. In cabinets of dry shells, terrestrial, freshwater and marine gastropods, and bivalves, are organised separately and ordered by species name.</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:55:33Z</dateStamp>
+                <citation>Finnish Biodiversity Information Facility (2023). Mollusca (Luomus). Occurrence dataset https://doi.org/10.15468/nzy2re accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

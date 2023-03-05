@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="29d54fb6-ed46-4a75-9697-55b73e63beed"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/0zuqiw</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=uafmc_fish</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=uafmc_fish</alternateIdentifier>
+                <alternateIdentifier>29d54fb6-ed46-4a75-9697-55b73e63beed</alternateIdentifier>
+                <alternateIdentifier>13037</alternateIdentifier>
+        <title>UAFMC Fish</title>
+            <creator>
+            <individualName>
+<givenName>Nancy</givenName>                    <surName>McCartney</surName>
+            </individualName>
+<organizationName>University of Arkansas Collections Facility</organizationName><positionName>Curator of Zoology</positionName>            <address>
+<deliveryPoint>Biomass Research Center Room 125 - 2435 Hatch</deliveryPoint><city>Fayetteville</city><administrativeArea>AR</administrativeArea><postalCode>72701</postalCode><country>UNITED_STATES</country>            </address>
+<phone>4705753456</phone><electronicMailAddress>nmccartn@uark.edu</electronicMailAddress><onlineUrl>http://fulbright.uark.edu/deans-office/facilities/university-collections-facility/index.php</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Nancy</givenName>                    <surName>McCartney</surName>
+            </individualName>
+<organizationName>University of Arkansas Collections Facility</organizationName><positionName>Curator of Zoology</positionName>            <address>
+<deliveryPoint>Biomass Research Center Room 125 - 2435 Hatch</deliveryPoint><city>Fayetteville</city><administrativeArea>AR</administrativeArea><postalCode>72701</postalCode><country>UNITED_STATES</country>            </address>
+<phone>4705753456</phone><electronicMailAddress>nmccartn@uark.edu</electronicMailAddress><onlineUrl>http://fulbright.uark.edu/deans-office/facilities/university-collections-facility/index.php</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Nancy</givenName>                    <surName>McCartney</surName>
+            </individualName>
+<organizationName>University of Arkansas Collections Facility</organizationName><positionName>Curator of Zoology</positionName>            <address>
+<deliveryPoint>Biomass Research Center Room 125 - 2435 Hatch</deliveryPoint><city>Fayetteville</city><administrativeArea>AR</administrativeArea><postalCode>72701</postalCode><country>UNITED_STATES</country>            </address>
+<phone>4705753456</phone><electronicMailAddress>nmccartn@uark.edu</electronicMailAddress><onlineUrl>http://fulbright.uark.edu/deans-office/facilities/university-collections-facility/index.php</onlineUrl>            <role>CUSTODIAN_STEWARD</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>John</givenName>                    <surName>Wieczorek</surName>
+            </individualName>
+<organizationName>Museum of Vertebrate Zoology at Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-22
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The fish collection consists of lots, mostly from Arkansas, but some from Hawaii. Recent cooperation with Dr. James E. Johnson of the US Fish and Wildlife Coop here on campus has resulted in the acquisition of specimens from new locations in the state, including the Buffalo River area.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>http://vertnet.org/resources/norms.html</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://fulbright.uark.edu/deans-office/facilities/university-collections-facility/museum-collections.php</url>
+                </online>
+            </distribution>
+            <coverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Myxini</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Elasmobranchii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Cephalaspidomorphi</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Holocephali</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Demospongiae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Nancy</givenName>                    <surName>McCartney</surName>
+            </individualName>
+<organizationName>University of Arkansas Collections Facility</organizationName><positionName>Curator of Zoology</positionName>            <address>
+<deliveryPoint>Biomass Research Center Room 125 - 2435 Hatch</deliveryPoint><city>Fayetteville</city><administrativeArea>AR</administrativeArea><postalCode>72701</postalCode><country>UNITED_STATES</country>            </address>
+<phone>4705753456</phone><electronicMailAddress>nmccartn@uark.edu</electronicMailAddress><onlineUrl>http://fulbright.uark.edu/deans-office/facilities/university-collections-facility/index.php</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:40Z</dateStamp>
+                <citation>McCartney N (2016). UAFMC Fish. Version 20.1. University of Arkansas Collections Facility, UAFMC. Occurrence dataset https://doi.org/10.15468/0zuqiw accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

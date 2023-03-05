@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ba5b0f3a-73dd-459f-a7f1-9abc327aed00"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/fjhjbb</alternateIdentifier>
+                <alternateIdentifier>ba5b0f3a-73dd-459f-a7f1-9abc327aed00</alternateIdentifier>
+                <alternateIdentifier>http://ipt.tacc.utexas.edu/resource?r=fotx</alternateIdentifier>
+        <title>Fishes of Texas Project (FoTX) Database - Darwin Core</title>
+            <creator>
+            <individualName>
+<givenName>Dean A.</givenName>                    <surName>Hendrickson</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Curator</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-9774</phone><electronicMailAddress>deanhend@austin.utexas.edu</electronicMailAddress><onlineUrl>https://sites.cns.utexas.edu/hendricksonlab</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-7835-0295</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Adam E.</givenName>                    <surName>Cohen</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Collections Manager</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-8845</phone><electronicMailAddress>TNHC_Fish_CM@austin.utexas.edu</electronicMailAddress><onlineUrl>https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-4881-3636</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Adam E.</givenName>                    <surName>Cohen</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Collections Manager</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-8845</phone><electronicMailAddress>TNHC_Fish_CM@austin.utexas.edu</electronicMailAddress><onlineUrl>https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-4881-3636</userId>
+            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Dean A.</givenName>                    <surName>Hendrickson</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Curator</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>Texas</administrativeArea><postalCode>78758</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-9774</phone><electronicMailAddress>deanhend@austin.utexas.edu</electronicMailAddress><onlineUrl>https://sites.cns.utexas.edu/hendricksonlab</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-7835-0295</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Tomislav</givenName>                    <surName>Urban</surName>
+            </individualName>
+<organizationName>Texas Advanced Computing Center</organizationName><positionName>Programmer</positionName><electronicMailAddress>turban@tacc.utexas.edu</electronicMailAddress>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Melissa J.</givenName>                    <surName>Casarez</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Collections Assistant Manager</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-475-8171</phone><electronicMailAddress>mjcasarez@austin.utexas.edu</electronicMailAddress><onlineUrl>https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</onlineUrl>            <userId directory="http://orcid.org/">0000-0002-8373-459X</userId>
+            <role>PROCESSOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Colton</givenName>                    <surName>Avila</surName>
+            </individualName>
+<organizationName>University of Texas, Biodiversity Collections</organizationName><positionName>Research Assistant</positionName>            <address>
+<deliveryPoint>10100 Burnet Road, Bldg LSF176</deliveryPoint><city>Austin</city><administrativeArea>Texas</administrativeArea><postalCode>78758</postalCode><country>UNITED_STATES</country>            </address>
+            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>F. Douglas</givenName>                    <surName>Martin</surName>
+            </individualName>
+<organizationName>University of Texas, Biodiversity Collections</organizationName>            <userId directory="https://orcid.org/">0000-0002-3421-4408</userId>
+            <role>PROCESSOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-09-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Fishes of Texas Project aims to provide reliable occurrences of fishes from the entire extents of all of the drainage basins that intersect Texas. Starting in 2006 with the database of specimens held in the University of Texas&amp;#39; Ichthyology Collection (TNHCi), we added specimen data collected from our study area from all of the museums we could find to create the Fishes of Texas database. At the time, many of those were not online and all had their data in diverse formats and development of biodiversity data standards was in its infancy. We laboriously compiled these disparate sources into a schema derived from that of the Specify Collections Management software, normalizing formats and taxonomy in the process. We retain the verbatim data received from the specimen owners, but then did our own processing and quality control. We independently manually georeferenced all records, then reviewed species maps and, as possible, examined specimens for as many geographic outliers as possible, finding and correcting misidentified records, and photographing specimens and original labels of most specimens examined. The institutions holding all examined specimens have been informed of our re-determinations and other corrections, but we do not control repatriation, so users may find our records for some specimens conflict with the data they might now independently publish. The database continues to grow and evolve, but at the time of this writing it includes data from 44 specimen-holding collections, and will soon diversify to include data from non-specimen sources. Thus, the data have been carefully and thoroughly curated and verified providing a readily accessible, high-quality dataset that still contains many records that are still not openly published, for used by researchers and resource managers interested in the fish fauna of Texas and adjoining parts of its river basins. The same data can also be queried and explored in diverse ways via at (http://www.fishesoftexas.org), where users will also find additional documentation and other data-exploration tools. Please use our contact information there to notify us of any errors or other issues.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Observation</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Our study area includes Texas and shared drainage basins going into neighbor states, Colorado, and the Gulf of Mexico (north of a line drawn from the eastern edge of Louisiana to the southern edge of Tamaulipas). Data were obtained based on database searches or personal requests for data from that area. In many cases provider databases lacked the data fields to allow discovery of those records, in which case we requested data from larger geographic areas (eg. country). All records that were acquired are provided in the database, but only those in our study area have received the full processing efforts (georeferencing, suspect flagging, specimen examination, date corrections etc).</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>All fish taxa</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Agnatha</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Chondrichthyes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Osteichthyes</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <purpose>
+                <para>This project addresses a long-needed effort to bring together in one database the world-wide museum holdings on the fishes of Texas (later non-specimen data as well). Before this project, museum data were only available from many disparate and often hard to find sources located in several countries and managed in various incompatible databases. Some of these museums lacked digital record of their collections and had paper ledgers only. Many are small museums that do not offer their data online. Some have no catalog at all, except what is recorded on jar labels. Extensive efforts were made to find, compile, format, and standardize data from these museums into one database.</para>
+            </purpose>
+            <maintenance>
+                <description>
+                    <para>Data are refreshed monthly, but actual updates to those data are expected less-frequently.</para>
+                </description>
+                <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Adam E.</givenName>                    <surName>Cohen</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Collections Manager</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-8845</phone><electronicMailAddress>TNHC_Fish_CM@austin.utexas.edu</electronicMailAddress><onlineUrl>https://integrativebio.utexas.edu/biodiversity-collections/collections/ichthyology-fish</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-4881-3636</userId>
+            </contact>
+            <contact>
+            <individualName>
+<givenName>Dean A.</givenName>                    <surName>Hendrickson</surName>
+            </individualName>
+<organizationName>University of Texas at Austin, Biodiversity Center</organizationName><positionName>Ichthyology Curator</positionName>            <address>
+<deliveryPoint>10100 Burnet RD, PRC 176/R4000</deliveryPoint><city>Austin</city><administrativeArea>TX</administrativeArea><postalCode>78758-4445</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 512-471-9774</phone><electronicMailAddress>deanhend@austin.utexas.edu</electronicMailAddress><onlineUrl>https://sites.cns.utexas.edu/hendricksonlab</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-7835-0295</userId>
+            </contact>
+            <contact>
+            <individualName>
+<givenName>Tomislav</givenName>                    <surName>Urban</surName>
+            </individualName>
+<organizationName>Texas Advanced Computing Center</organizationName><positionName>Senior Software Developer</positionName>            <address>
+<city>Austin</city><administrativeArea>TX</administrativeArea><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>turban@tacc.utexas.edu</electronicMailAddress><onlineUrl>https://www.tacc.utexas.edu/</onlineUrl>            <userId directory="https://orcid.org/">0000-0002-9427-5827</userId>
+            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>After data were acquired, either directly from source or via online data aggregator, they were (1) re-formatted; (2) georeferenced to coordinates with an error radius estimate (those then determined to be in our study area received the most complete data standardization); (3) standardized (when possible) taxa to AFS Common and Scientific Names of Fishes or the GBIF backbone; (4) standardized collector names when possible; (5) standardized dates to begin and end dates; (6) flagged records that we thought had erroneous data as &quot;suspect&quot; records; (7) examined &quot;suspect&quot; specimens, which usually turn out to be mis-identifications. See our documentation to learn more: http://www.fishesoftexas.org/documentation/</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Our study area includes Texas and shared drainage basins going into neighbor states, Colorado, and the Gulf of Mexico (north of a line drawn from the eastern edge of Louisiana to the southern edge of Tamaulipas). Data were obtained based on database searches or personal requests for data from that area. In many cases provider data lacked the data fields to allow discovery of those records, in which case we requested data from larger geographic areas (eg. country). All records that were acquired are provided in the database, but only those in our study area have received the full processing efforts (georeferencing, suspect flagging, specimen examination, date corrections etc).</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>The Fishes of Texas Project is a data acquisition and improvement project and thus includes data collected by others using various means. More recent funding has allowed the Fishes of Texas Project team to collect specimens from data gaps detected in the database using various collection methods. See our documentation to learn more: http://www.fishesoftexas.org/documentation/</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>Records from many disparate sources have been brought into a common format and standardized (taxa names, dates, and collector names in particular) allowing them to be queried in a single database. Localities have been georeferenced (including error estimate) if possible. These steps allowed us to map the records of each species and detect spatial and temporal outliers, which we flagged as &quot;suspect&quot;. Early versions of the database were strictly specimen based and we&apos;ve made extensive efforts to find specimens that we flagged and examine them to correct determination errors. See our documentation to learn more: http://www.fishesoftexas.org/documentation/</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project id="FoTX">
+                <title>Fishes of Texas (FoTX) Project</title>
+                    <personnel>
+            <individualName>
+<givenName>Dean A.</givenName>                    <surName>Hendrickson</surName>
+            </individualName>
+            <userId directory="http://orcid.org/">0000-0001-7835-0295</userId>
+            <role>CUSTODIAN_STEWARD</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Adam E.</givenName>                    <surName>Cohen</surName>
+            </individualName>
+            <userId directory="http://orcid.org/">0000-0003-4881-3636</userId>
+            <role>CUSTODIAN_STEWARD</role>
+                    </personnel>
+                <abstract>
+                    <para>This is the database of the Fishes of Texas Project (www.fishesoftexas.org). The project aims to bring together in one database all of the specimen data pertaining to fishes of Texas. Initial efforts focused on specimen data, which we believe should be the foundation of our knowledge about Texas fish biogeography, but recognizing the value of other types of data, later efforts include the addition of non-specimen data.</para>
+                </abstract>
+                <funding>
+                    <para>Funding has been provided primarily by Texas Parks and Wildlife Department, University of Texas, Texas Commission on Environmental Quality, and the US Department of the Interior. See http://www.fishesoftexas.org/documentation/sponsors/</para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>Texas and its shared drainages in neighbor states and the Gulf of Mexico north of a line drawn from the eastern edge of Louisiana to the southern edge of Tamaulipas.</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+                    <designDescription>
+                        <description>
+                            <para>Specimens are collected by various and often undocumented means. Information about sampling gear, methods and habitats is recorded in our database when available.</para>
+                        </description>
+                    </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:28Z</dateStamp>
+                <citation>Hendrickson D A, Cohen A E (2020). Fishes of Texas Project (FoTX) Database - Darwin Core. Version 1.6. University of Texas at Austin, Biodiversity Collections. Occurrence dataset https://doi.org/10.15468/fjhjbb accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>http://ipt.tacc.utexas.edu/logo.do?r=fotx</resourceLogoUrl>
+                    <livingTimePeriod>Mid-1800s to recent</livingTimePeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

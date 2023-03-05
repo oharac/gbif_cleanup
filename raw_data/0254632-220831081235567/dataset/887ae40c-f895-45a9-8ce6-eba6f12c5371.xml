@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="887ae40c-f895-45a9-8ce6-eba6f12c5371"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ek3tw7</alternateIdentifier>
+                <alternateIdentifier>https://ipt.vtatlasoflife.org/resource?r=fishesvt</alternateIdentifier>
+        <title>Fishes of Vermont</title>
+            <creator>
+            <individualName>
+<givenName>Richard</givenName>                    <surName>Langdon</surName>
+            </individualName>
+<organizationName>Vermont Department of Environmental Conservation</organizationName><positionName>Aquatic Biologist</positionName>            <address>
+<administrativeArea>Vermont</administrativeArea><country>UNITED_STATES</country>            </address>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mark</givenName>                    <surName>Ferguson</surName>
+            </individualName>
+<organizationName>Vermont Fish and Wildlife Department</organizationName><positionName>Zoologist</positionName>            <address>
+<administrativeArea>Vermont</administrativeArea><country>UNITED_STATES</country>            </address>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ken</givenName>                    <surName>Cox</surName>
+            </individualName>
+<organizationName>Vermont Fish and Wildlife Department</organizationName><positionName>Fisheries Biologist</positionName>            <address>
+<administrativeArea>Vermont</administrativeArea><country>UNITED_STATES</country>            </address>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Kent</givenName>                    <surName>McFarland</surName>
+            </individualName>
+<organizationName>Vermont Center for Ecostudies</organizationName><positionName>conservation biologist</positionName>            <address>
+<city>Norwich</city><administrativeArea>Vermont</administrativeArea><postalCode>05055</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>kmcfarland@vtecostudies.org</electronicMailAddress>            <userId directory="https://orcid.org/"> 0000-0001-7809-5503</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Kent</givenName>                    <surName>McFarland</surName>
+            </individualName>
+<organizationName>Vermont Center for Ecostudies</organizationName><positionName>conservation biologist</positionName>            <address>
+<city>Norwich</city><administrativeArea>Vermont</administrativeArea><postalCode>05055</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>kmcfarland@vtecostudies.org</electronicMailAddress>            <userId directory="https://orcid.org/"> 0000-0001-7809-5503</userId>
+            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2022-03-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Atlas records gathered as part of the Fishes of Vermont (Langdon,R.W., M.T. Ferguson, M. T., K.M. Cox (2006). Fishes of Vermont. United States: Vermont Department of Fish and Wildlife. 320pp).</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://vtfishandwildlife.com/conserve/conservation-planning/animal-inventory/fish</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>State of Vermont, USA</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-73.652</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-71.301</eastBoundingCoordinate>
+                                <northBoundingCoordinate>45.105</northBoundingCoordinate>
+                                <southBoundingCoordinate>42.666</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Fishes</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Superclass</taxonRankName>
+                                    <taxonRankValue>Osteichthyes</taxonRankValue>
+                                        <commonName>Bony Fish</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Kent</givenName>                    <surName>McFarland</surName>
+            </individualName>
+<organizationName>Vermont Center for Ecostudies</organizationName><positionName>conservation biologist</positionName>            <address>
+<city>Norwich</city><administrativeArea>Vermont</administrativeArea><postalCode>05055</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>kmcfarland@vtecostudies.org</electronicMailAddress>            <userId directory="https://orcid.org/"> 0000-0001-7809-5503</userId>
+            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>unknown</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>State of Vermont, USA</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>unknown</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>unknown</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:52:59Z</dateStamp>
+                <citation>Langdon R, Ferguson M, Cox K, McFarland K (2022). Fishes of Vermont. Vermont Center for Ecostudies. Occurrence dataset https://doi.org/10.15468/ek3tw7 accessed via GBIF.org on 2023-01-20.</citation>
+                    <bibliography>
+                <citation>Langdon,R.W., M.T. Ferguson, M. T., K.M. Cox (2006). Fishes of Vermont. United States: Vermont Department of Fish and Wildlife. 320pp</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

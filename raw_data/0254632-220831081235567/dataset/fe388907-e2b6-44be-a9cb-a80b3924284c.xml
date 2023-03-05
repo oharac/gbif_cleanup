@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="fe388907-e2b6-44be-a9cb-a80b3924284c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/8c5pvg</alternateIdentifier>
+                <alternateIdentifier>fe388907-e2b6-44be-a9cb-a80b3924284c</alternateIdentifier>
+                <alternateIdentifier>https://www1.usgs.gov/obis-usa/ipt/resource?r=nefsc_bottom_trawl_surveys_coml</alternateIdentifier>
+        <title>Northeast Fisheries Science Center Bottom Trawl Survey Data</title>
+            <creator>
+            <individualName>
+<givenName>Linda</givenName>                    <surName>Despres</surName>
+            </individualName>
+<organizationName>National Oceanic and Atmospheric Administration</organizationName><positionName>Chief Scientist</positionName>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Abby</givenName>                    <surName>Benson</surName>
+            </individualName>
+<organizationName>U.S. Geological Survey</organizationName><positionName>Biologist</positionName><electronicMailAddress>albenson@usgs.gov</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Abigail</givenName>                    <surName>Benson</surName>
+            </individualName>
+<organizationName>U.S. Geological Survey</organizationName><positionName>Biologist</positionName><electronicMailAddress>albenson@usgs.gov</electronicMailAddress>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-08-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This is the Northeast Fisheries Science Center Bottom Trawl Survey database for Northwest Atlantic marine organisms. Survey cruises use a bottom trawl to sample randomly selected stations in an attempt to delineate the species composition, geographic distribution, and abundance of various resources. Fish and selected invertebrate species are identified. Weight, length, total catch numbers, age structures, maturity stages, sex determinations and food content are recorded or collected during the survey cruises but only weight, total catch numbers, and sex determinations are available here. Ichthyoplankton and zooplankton data is available for a subset of the stations. Geographic coverage is from Cape Hatteras to the Gulf of Maine and from the coast to the slope water.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>marine, harvested by OBIS</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.sciencebase.gov/catalog/item/5707eed5e4b06fa6ac6644fa</url>
+                </online>
+            </distribution>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Linda</givenName>                    <surName>Despres</surName>
+            </individualName>
+<organizationName>National Oceanic and Atmospheric Administration</organizationName><positionName>Chief Scientist</positionName>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:53:03Z</dateStamp>
+                <citation>United States Geological Survey: Northeast Fisheries Science Center Bottom Trawl Survey Data https://doi.org/10.15468/8c5pvg accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

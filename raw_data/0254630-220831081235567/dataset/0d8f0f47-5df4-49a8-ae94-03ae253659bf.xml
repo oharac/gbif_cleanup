@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0d8f0f47-5df4-49a8-ae94-03ae253659bf"  system="http://gbif.org" scope="system"
+xml:lang="es">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ldglbp</alternateIdentifier>
+                <alternateIdentifier>http://www.crbio.cr/ipt/resource.do?r=larnavisi-ecb-una</alternateIdentifier>
+                <alternateIdentifier>0d8f0f47-5df4-49a8-ae94-03ae253659bf</alternateIdentifier>
+        <title>Colección de peces dulceacuícolas de Costa Rica</title>
+            <creator>
+            <individualName>
+<givenName>C. Maurizio</givenName>                    <surName>Protti Quesada</surName>
+            </individualName>
+<organizationName>Laboratorio de Recursos Naturales y Vida Silvestre (LARNAVISI).  Universidad Nacional de Costa Rica (UNA)</organizationName><positionName>Curador</positionName>            <address>
+<deliveryPoint>Escuela de Ciencias Biológicas, Universidad Nacional de Costa Rica</deliveryPoint><city>Heredia</city><administrativeArea>Heredia</administrativeArea><postalCode>86-3000</postalCode><country>COSTA_RICA</country>            </address>
+<phone>(0506) 22773724</phone><electronicMailAddress>mprottiq@gmail.com</electronicMailAddress><onlineUrl>http://www.una.ac.cr/</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>C. Maurizio</givenName>                    <surName>Protti Quesada</surName>
+            </individualName>
+<organizationName>Laboratorio de Recursos Naturales y Vida Silvestre (LARNAVISI).  Universidad Nacional de Costa Rica (UNA)</organizationName><positionName>Curador</positionName>            <address>
+<deliveryPoint>Escuela de Ciencias Biológicas, Universidad Nacional de Costa Rica</deliveryPoint><city>Heredia</city><administrativeArea>Heredia</administrativeArea><postalCode>86-3000</postalCode><country>COSTA_RICA</country>            </address>
+<phone>(0506) 22773724</phone><electronicMailAddress>mprottiq@gmail.com</electronicMailAddress><onlineUrl>http://www.una.ac.cr/</onlineUrl>            </metadataProvider>
+            <pubDate>
+                2014-04-29
+            </pubDate>
+        <language>SPANISH</language>
+            <abstract>
+                    <para>Incluye una colección de referencia de peces dulceacuícolas preservados en húmedo    ( alcohol 70°) con registros en formato duro (bitácora de ingresos) y digital (base en Microsoft Access). Se dispone de información sobre la identificación taxonómica (especie, familia, orden y clase), determindor, número de registro, fecha, lugar de captura, colector (es), cantidad de ejemplares, estado  de la especie (rara, común, abundante, etc.) y ubicación en la colección.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>peces dulceacuícolas</keyword>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Costa Rica</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-86</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-82</eastBoundingCoordinate>
+                                <northBoundingCoordinate>11</northBoundingCoordinate>
+                                <southBoundingCoordinate>7</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Peces dulceacuícolas</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Piscis</taxonRankValue>
+                                        <commonName>Peces</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <purpose>
+                <para>Incluye una colección de referencia de peces dulceacuícolas preservados en húmedo    ( alcohol 70°) con registros en formato duro (bitácora de ingresos) y digital (base en Microsoft Access). Se dispone de información sobre la identificación taxonómica (especie, familia, orden y clase), determindor, número de registro, fecha, lugar de captura, colector (es), cantidad de ejemplares, estado  de la especie (rara, común, abundante, etc.) y ubicación en la colección.</para>
+            </purpose>
+            <contact>
+            <individualName>
+<givenName>C. Maurizio</givenName>                    <surName>Protti Quesada</surName>
+            </individualName>
+<organizationName>Laboratorio de Recursos Naturales y Vida Silvestre (LARNAVISI).  Universidad Nacional de Costa Rica (UNA)</organizationName><positionName>Curador</positionName>            <address>
+<deliveryPoint>Escuela de Ciencias Biológicas, Universidad Nacional de Costa Rica</deliveryPoint><city>Heredia</city><administrativeArea>Heredia</administrativeArea><postalCode>86-3000</postalCode><country>COSTA_RICA</country>            </address>
+<phone>(0506) 22773724</phone><electronicMailAddress>mprottiq@gmail.com</electronicMailAddress><onlineUrl>http://www.una.ac.cr/</onlineUrl>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Las técnicas de captura están en función de las características propias de los sitios y de los objetivos del muestreo.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Costa Rica</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Las técnicas de captura están en función de las características propias de los sitios y de los objetivos del muestreo.</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+            <project >
+                <title>Colección de peces dulceacuícolas de Costa Rica</title>
+                    <personnel>
+            <individualName>
+<givenName>C. Maurizio</givenName>                    <surName>Protti Quesada</surName>
+            </individualName>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+                    </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Recursos propios del LARNAVISI  y de la Escuela de Ciencias Biológicas</para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>colección de muestras de peces dulceacuícolas de Costa Rica</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+                    <designDescription>
+                        <description>
+                            <para>Incluye la documentación del material preservado que ha sido colectado durante muestreos de estudios de impacto ambiental, tesis, proyectos de investigación y publicaciones adscritas al LARNAVISI.</para>
+                        </description>
+                    </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:28Z</dateStamp>
+                <citation>Protti Quesada C M (2014). Colección de peces dulceacuícolas de Costa Rica. Laboratorio de Recursos Naturales y Vida Silvestre (LARNAVISI). Universidad Nacional de Costa Rica (UNA). Occurrence dataset https://doi.org/10.15468/ldglbp accessed via GBIF.org on 2023-01-20.</citation>
+                        <collection>
+                            <parentCollectionIdentifier>UNA</parentCollectionIdentifier>
+                            <collectionIdentifier>LARNAVISI-ECB</collectionIdentifier>
+                            <collectionName>Colección de peces dulceacuícolas de Costa Rica</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

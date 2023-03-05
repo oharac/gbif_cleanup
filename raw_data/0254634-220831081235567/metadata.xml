@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="10.15468/dl.zptuac"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+                <alternateIdentifier>0254634-220831081235567</alternateIdentifier>
+        <title>GBIF Occurrence Download 10.15468/dl.zptuac</title>
+            <creator>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </metadataProvider>
+            <pubDate>
+                2023-01-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [
+    &quot;is Haliotis kamtschatkana Jonas, 1845&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+6480 records from Abundance of Rocky Reef Fishes, Invertebrates and Algae, Reef Check California (RCCA), 2006 - 2017
+1 records from Collection Mollusca SMF
+10 records from Canadian Museum of Nature Mollusc Collection
+9 records from Molluscan specimen database of Kanagawa Prefectural Museum of Natural History
+1 records from Field Museum of Natural History (Zoology) Invertebrate Collection
+44 records from UF Invertebrate Zoology
+12 records from University of California Museum of Paleontology
+3 records from Mollusca (Luomus)
+1 records from Natural History Museum Aarhus Malacology Collection
+1 records from Gastropoda collection (TSZG) The Arctic University Museum of Norway
+44 records from Galiano Island BC Canada Marine Zoology 1893–2021
+8 records from Royal Belgian Institute of Natural Sciences Mollusc collection
+1 records from Gastropod Specimens of the Yamagata Prefectural Museum
+38 records from CAS Invertebrate Zoology (IZ)
+120 records from LACM Malacology
+101 records from Gwaii Haanas Invertebrates (OBIS Canada)
+3 records from Biologiezentrum Linz
+34 records from International Barcode of Life project (iBOL)
+7 records from LACM Invertebrate Paleontology
+2 records from bmhs_weatherheadshell_collection
+38 records from Museum of Comparative Zoology, Harvard University
+4 records from Invertebrate Zoology Division, Yale Peabody Museum
+3 records from Recent Invertebrates Specimens
+1 records from Collection Malakologie - SNSD
+190 records from Ocean Genome Legacy Collection
+16 records from MAL
+14 records from UAM Invertebrate Collection (Arctos)
+1 records from Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Invertebrates National Collection (MACNIn)
+6 records from University of Victoria - Zooarchaeology Lab Collection
+22 records from NatureServe Network Species Occurrence Data
+4 records from Natural History Museum (London) Collection Specimens
+26 records from BMSM Bailey-Matthews National Shell Museum
+1 records from SysTax -  Zoological Collections
+8 records from RBINS DaRWIN
+3 records from Natural History Museum Rotterdam - Specimens
+2 records from NHMD Invertebrate Zoology Collection
+57 records from NMNH Extant Specimen Records (USNM, US)
+2 records from Invertebrates excl. Entomology at the Natural History Museum of Denmark
+1 records from Molluscus specimens of Toyohashi Museum of Natural History
+3 records from SIO Benthic Invertebrate Collection
+2 records from Auburn University Museum of Natural History Mollusks
+1 records from Museu de Ciències Naturals de Barcelona: MCNB-Malac
+2 records from Mollusca specimens of Manazuru Shell Museum
+4 records from SDNHM Paleontology Collection
+1 records from Mollusca specimens of Okinawa Prefectural Museum &amp; Art Museum
+13 records from INSDC Sequences
+3 records from CHAS Malacology Collection (Arctos)
+2 records from SDSM Invertebrate Collections
+1 records from Bernice P. Bishop Museum
+38 records from Delaware Museum of Natural History – Mollusks
+4 records from Invertebrate fossil collection of National Museum of Nature and Science
+1 records from Biodiversitätsdatenbank Salzburg
+9 records from DMNS Marine Invertebrate Collection (Arctos)
+17 records from Naturalis Biodiversity Center (NL) - Mollusca
+1 records from FBIP:ELM: Malacology Collections
+484 records from iNaturalist Research-grade Observations</para>
+            </abstract>
+            <contact>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:55:39Z</dateStamp>
+                <citation identifier="10.15468/dl.zptuac">GBIF Occurrence Download 10.15468/dl.zptuac</citation>
+                    <physical>
+                        <objectName>Darwin Core Archive</objectName>
+                        <characterEncoding>UTF-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>Darwin Core Archive</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">https://api.gbif.org/v1/occurrence/download/request/0254634-220831081235567.zip</url>
+                            </online>
+                        </distribution>
+                    </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

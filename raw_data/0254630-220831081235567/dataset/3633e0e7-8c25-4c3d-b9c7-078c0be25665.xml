@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3633e0e7-8c25-4c3d-b9c7-078c0be25665"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/jornbc</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=cumv_fish</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=cumv_fish</alternateIdentifier>
+                <alternateIdentifier>3633e0e7-8c25-4c3d-b9c7-078c0be25665</alternateIdentifier>
+                <alternateIdentifier>14900</alternateIdentifier>
+        <title>CUMV Fish Collection</title>
+            <creator>
+            <individualName>
+<givenName>Casey</givenName>                    <surName>Dillman</surName>
+            </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Curator of Fishes, Amphibians and Reptiles</positionName>            <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850-1923</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+1 607-254-2162</phone><electronicMailAddress>cbd63@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Casey</givenName>                    <surName>Dillman</surName>
+            </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Curator of Fishes, Amphibians and Reptiles</positionName>            <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850-1923</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+1 607-254-2162</phone><electronicMailAddress>cbd63@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>John</givenName>                    <surName>Wieczorek</surName>
+            </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Charles</givenName>                    <surName>Dardia</surName>
+            </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Collection Manager</positionName>            <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850-1923</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+1 607-254-2161</phone><electronicMailAddress>cmd7@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu</onlineUrl>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <pubDate>
+                2018-07-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The CUMV Fish Collection was established shortly after the founding of the university in 1865. Many of our earliest specimens were collected by well-known researchers such as David Starr Jordan, Carl Eigenmann, Charles Frederick Hartt and Seth Meek. By 1935, the collection contained only 3,000 lots, but during the following 35 years, Edward Raney and his students built the finest collection of eastern North American freshwater fishes in existence today. In Collette and Lachner&amp;#39;s (1976) report on fish collections in the United States and Canada, the CUMV Fish Collection ranked thirteenth among all collections and fourth among National Resource Centers in North America. Although there is worldwide representation of both marine and freshwater species, the bulk of the collection is strongly representative of freshwater fishes from eastern North America and has formed the basis for numerous systematic works on the North American fish fauna. Much of the material is in large geographic series, and many sites have been sampled repeatedly through extended periods of time. Some specimens are from the original New York State Biological Survey (1926–1939). Many of our collections are from the highly industrialized Northeast and Middle Atlantic states and thus document earlier faunas in habitats now greatly altered, and we have repeated samples through time from many of these localities. The primary activities for the last several years has been collection building efforts directed toward African freshwater fishes.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>http://vertnet.org/resources/norms.html</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.cumv.cornell.edu/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Global</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Acanthodii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Cephalaspidomorphi</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Chondrichthyes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Elasmobranchii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Holocephali</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Leptocardii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Myxini</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Placodermi</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Pteraspidomorphi</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Sarcopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Teleostei</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Casey</givenName>                    <surName>Dillman</surName>
+            </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Curator of Fishes, Amphibians and Reptiles</positionName>            <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850-1923</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+1 607-254-2162</phone><electronicMailAddress>cbd63@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:26Z</dateStamp>
+                <citation>Dillman C (2018). CUMV Fish Collection. Version 28.16. Cornell University Museum of Vertebrates. Occurrence dataset https://doi.org/10.15468/jornbc accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>http://ipt.vertnet.org:8080/ipt/logo.do?r=cumv_fish</resourceLogoUrl>
+                    <livingTimePeriod>1860 to present</livingTimePeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

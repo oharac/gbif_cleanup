@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a2254f58-8bbf-41e6-ac4e-03d1683e0ce5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/uxpj1o</alternateIdentifier>
+                <alternateIdentifier>a2254f58-8bbf-41e6-ac4e-03d1683e0ce5</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=msb_fish</alternateIdentifier>
+        <title>MSB Fish Collection (Arctos)</title>
+            <creator>
+            <individualName>
+<givenName>Thomas</givenName>                    <surName>Turner</surName>
+            </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Curator of Fishes</positionName>            <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(505) 277-7541</phone><electronicMailAddress>Turnert@unm.edu</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Thomas_Turner2</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Alexandra</givenName>                    <surName>Snyder</surName>
+            </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Collection Manager</positionName>            <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(505) 277-6005</phone><electronicMailAddress>amsnyder@unm.edu</electronicMailAddress><onlineUrl>http://msb.unm.edu/divisions/fishes/index.html</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Dusty</givenName>                    <surName>McDonald</surName>
+            </individualName>
+<organizationName>University of Alaska Museum</organizationName><positionName>Arctos Database Programmer</positionName><electronicMailAddress>dlmcdonald@alaska.edu</electronicMailAddress><onlineUrl>http://arctos.database.museum</onlineUrl>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Alexandra</givenName>                    <surName>Snyder</surName>
+            </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Collection Manager</positionName>            <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(505) 277-6005</phone><electronicMailAddress>amsnyder@unm.edu</electronicMailAddress><onlineUrl>http://msb.unm.edu/divisions/fishes/index.html</onlineUrl>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <pubDate>
+                2022-12-27
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The MSB Division of Fishes supports research of the ichthyofauna of a region in North America noted for a wide range of ecotypes and elevational gradients, from the Rocky Mountains to the Great Basin and the Great Plains, with the convergence of three major deserts, the Chihuahua, Sonora, and Mojave. The fishes of New Mexico (and the southwestern US) are characterized by high endemism, low diversity, and remarkable physiological tolerances. The MSB collections are particularly valuable because aquatic habitats in the region are declining as demands on water increase due to human population growth and global climate changes. The MSB collections of fishes provides a 80-year window on the natural history of New Mexico&amp;#39;s imperiled native fishes and aquatic systems. The MSB has over 100,000 cataloged lots of fishes (ca. 4,153,582 specimens),representing 66 families, 200 genera, and 443 species. Approximately 1/3 of the collection consists of fish eggs and larvae as part of ongoing river monitoring programs and life history studies in desert fishes.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>http://www.vertnet.org/resources/norms.html</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://msb.unm.edu/divisions/fishes/index.html</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>The MSB Division of Fishes collections are from the southwestern US, primarily the Chihuahua Desert of New Mexico, with good representation from the Rio Grande,and the Gila, Pecos, Canadian, San Juan, and Zuni Rivers.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>The MSB Division of Fishes collections are predominately cypriniform fishes, collections of native and endemic minnows and suckers from the Rio Grande, Gila and Pecos Rivers; other well-represented groups fishes are the Cyprinodontidae, Ictaluridae, and Centrarchidae.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Osteichthyes</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Thomas</givenName>                    <surName>Turner</surName>
+            </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Curator of Fishes</positionName>            <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>            </address>
+<phone>(505) 277-7541</phone><electronicMailAddress>turnert@unm.edu</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Thomas_Turner2</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:31Z</dateStamp>
+                <citation>Turner T, Snyder A (2022). MSB Fish Collection (Arctos). Version 1.52. Museum of Southwestern Biology. Occurrence dataset https://doi.org/10.15468/uxpj1o accessed via GBIF.org on 2023-01-20.</citation>
+                    <livingTimePeriod>1900 to present</livingTimePeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

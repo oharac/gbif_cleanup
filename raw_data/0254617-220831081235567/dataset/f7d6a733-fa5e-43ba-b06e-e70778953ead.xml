@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f7d6a733-fa5e-43ba-b06e-e70778953ead"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/f8ranh</alternateIdentifier>
+                <alternateIdentifier>https://collections.ala.org.au/public/show/dr1840</alternateIdentifier>
+                <alternateIdentifier>fad4e81e-095a-3529-84f1-a338ec978711</alternateIdentifier>
+                <alternateIdentifier>http://collections.ala.org.au/public/show/dr1840</alternateIdentifier>
+                <alternateIdentifier>f7d6a733-fa5e-43ba-b06e-e70778953ead</alternateIdentifier>
+                <alternateIdentifier>de52ad4f-a5f6-3113-a7df-40f5e24af11b</alternateIdentifier>
+                <alternateIdentifier>01c867e1-0ce7-3259-935a-b505d7b68da1</alternateIdentifier>
+        <title>Tasmanian Museum and Art Gallery provider for OZCAM-Arthropoda</title>
+            <creator>
+<organizationName>OZCAM (Online Zoological Collections of Australian Museums) Provider</organizationName>            </creator>
+            <creator>
+<organizationName>Tasmanian Museum and Art Gallery</organizationName>            </creator>
+            <metadataProvider>
+<organizationName>OZCAM (Online Zoological Collections of Australian Museums) Provider</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>            <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>            </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-09-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Tasmanian Museum and Art Gallery provider for OZCAM</para>
+            </abstract>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://collections.ala.org.au/public/show/dr1840</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Catherine</givenName>                    <surName>Byrne</surName>
+            </individualName>
+<positionName>editor</positionName><electronicMailAddress>catherine.byrne@tmag.tas.gov.au</electronicMailAddress>            </contact>
+            <methods>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:42:55Z</dateStamp>
+                <citation>Tasmanian Museum and Art Gallery (2019). Tasmanian Museum and Art Gallery provider for OZCAM-Arthropoda. Occurrence dataset https://doi.org/10.15468/f8ranh accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>https://collections.ala.org.au/data/dataProvider/ozcam.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

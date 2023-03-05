@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e90a588b-0eed-4077-8a4f-7e61da35b3f8"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/a2laag</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=uaic_fish</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=uaic_fish</alternateIdentifier>
+                <alternateIdentifier>e90a588b-0eed-4077-8a4f-7e61da35b3f8</alternateIdentifier>
+        <title>UAIC Ichthyological Collection</title>
+            <creator>
+            <individualName>
+<givenName>Worth</givenName>                    <surName>Pugh</surName>
+            </individualName>
+<organizationName>University of Alabama</organizationName><positionName>Coordinator of Zoological Collections</positionName>            <address>
+<deliveryPoint>Department of Biological Sciences, 403 Mary Harmon Bryant Hall</deliveryPoint><city>Tuscaloosa</city><administrativeArea>AL</administrativeArea><postalCode>35487</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 205-348-1822</phone><electronicMailAddress>mwpugh@ua.edu</electronicMailAddress><onlineUrl>http://bsc.ua.edu/</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Worth</givenName>                    <surName>Pugh</surName>
+            </individualName>
+<organizationName>University of Alabama</organizationName><positionName>Coordinator of Zoological Collections</positionName>            <address>
+<deliveryPoint>Department of Biological Sciences, 403 Mary Harmon Bryant Hall</deliveryPoint><city>Tuscaloosa</city><administrativeArea>AL</administrativeArea><postalCode>35487</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 205-348-1822</phone><electronicMailAddress>mwpugh@ua.edu</electronicMailAddress><onlineUrl>http://bsc.ua.edu/</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Laura</givenName>                    <surName>Russell</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>Programmer</positionName><electronicMailAddress>larussell@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>John</givenName>                    <surName>Wieczorek</surName>
+            </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Phillip</givenName>                    <surName>Harris</surName>
+            </individualName>
+<organizationName>University of Alabama</organizationName><positionName>Associate Professor and Curator of Fishes</positionName>            <address>
+<deliveryPoint>Department of Biological Sciences, 407 Mary Harmon Bryant Hall</deliveryPoint><city>Tuscaloosa</city><administrativeArea>AL</administrativeArea><postalCode>35487</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 205-348-1831</phone><electronicMailAddress>pharris@bama.ua.edu</electronicMailAddress><onlineUrl>http://bsc.ua.edu/</onlineUrl>            <role>CURATOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-10-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The State of Alabama contains the most diverse fish fauna of North America.  The University of Alabama Ichthyological Collection (UAIC) documents this diversity and is one of the largest educational and research collections of fishes in the southeastern United States.  This nationally and internationally recognized biological resource includes over one million preserved, skeletal, and frozen specimens, some dating back to the mid 1900&amp;#39;s, and is the best single resource documenting past and present distributions and abundances of fishes in the State.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>http://vertnet.org/resources/norms.html</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://uaic.as.ua.edu</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>While the primary emphasis of UAIC has been to serve in the study and documentation of Alabama freshwater and marine fishes, the collection contains much more diversity.  A significant number of fish species inhabiting aquatic ecosystems from other areas in North America are represented in the collection, as well as collections from Central and South America, Europe, and Asia.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Most taxa are from the Southeastern United States, but good holdings exist from other localities both foreign and domestic.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Chondrichthyes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Sarcopterygii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Myxini</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Worth</givenName>                    <surName>Pugh</surName>
+            </individualName>
+<organizationName>University of Alabama</organizationName><positionName>Coordinator of Zoological Collections</positionName>            <address>
+<deliveryPoint>Department of Biological Sciences, 403 Mary Harmon Bryant Hall</deliveryPoint><city>Tuscaloosa</city><administrativeArea>AL</administrativeArea><postalCode>35487</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+01 205-348-1822</phone><electronicMailAddress>mwpugh@ua.edu</electronicMailAddress><onlineUrl>http://bsc.ua.edu/</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:40Z</dateStamp>
+                <citation identifier="UAIC">Pugh W (2021). UAIC Ichthyological Collection. Version 3.3. University of Alabama Biodiversity and Systematics. Occurrence dataset https://doi.org/10.15468/a2laag accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>http://ipt.vertnet.org:8080/ipt/logo.do?r=uaic_fish</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier>UAIC</parentCollectionIdentifier>
+                            <collectionIdentifier>UAIC</collectionIdentifier>
+                            <collectionName>University of Alabama Ichthyology Collection</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

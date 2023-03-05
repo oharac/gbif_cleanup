@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0e5c0373-f957-4ce3-b8d9-a9054df51fc5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/paioao</alternateIdentifier>
+                <alternateIdentifier>https://collections.ala.org.au/public/show/dr4256</alternateIdentifier>
+                <alternateIdentifier>eb9093f3-ef49-3835-991f-4c2a2a3675d3</alternateIdentifier>
+                <alternateIdentifier>http://collections.ala.org.au/public/show/dr4256</alternateIdentifier>
+                <alternateIdentifier>0e5c0373-f957-4ce3-b8d9-a9054df51fc5</alternateIdentifier>
+                <alternateIdentifier>6d66251a-f9b2-31e1-93b4-d538a9ebe452</alternateIdentifier>
+                <alternateIdentifier>bdd31f95-85a3-3131-a01d-5924ad371ff4</alternateIdentifier>
+        <title>MDFRC macroinvertebrate survey</title>
+            <creator>
+<organizationName>MDFRC macroinvertebrate survey</organizationName>            </creator>
+            <creator>
+<organizationName>Murray-Darling Basin Authority</organizationName>            </creator>
+            <metadataProvider>
+<organizationName>MDFRC macroinvertebrate survey</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>            <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>            </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-09-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Macroinvertebrate survey is conducted by the Murray–Darling Fresh Water Research Centre (MDFRC) on behalf of the Murray–Darling Basin Authority to provide long term baseline biological datasets for eight specified locations in the Murray River and four specified locations in the Mitta Mitta River.</para>
+            </abstract>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://collections.ala.org.au/public/show/dr4256</url>
+                </online>
+            </distribution>
+            <contact>
+<organizationName>Atlas of Living Australia</organizationName>            <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>            </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>            </contact>
+            <methods>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:57:39Z</dateStamp>
+                <citation>Murray-Darling Basin Authority (2019). MDFRC macroinvertebrate survey. Occurrence dataset https://doi.org/10.15468/paioao accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

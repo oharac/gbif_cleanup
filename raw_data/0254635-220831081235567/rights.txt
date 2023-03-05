@@ -1,0 +1,78 @@
+Dataset: ALA species sightings and OzAtlas 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Canberra Nature Map 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Queen Victoria Museum Art Gallery provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Victorian Biodiversity Atlas 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Auckland Museum NZ Marine Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RBINS DaRWIN 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Northern Territory Museum and Art Gallery provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Earth Guardians Weekly Feed 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Auswildlife 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Contrat de Rivière - RIPARIAS: detection and management of aquatic invasive alien species 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museums Victoria provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tasmanian Museum and Art Gallery provider for OZCAM-Arthropoda 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: City of Kalamunda Biodiversity Inventory 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NSW BioNet Atlas 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NHMD Invertebrate Zoology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian National Wildlife Collection provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Invertebrates excl. Entomology at the Natural History Museum of Denmark 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tasmanian Natural Values Atlas 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Collection Crustacea SMF 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Wingecarribee Shire Council Macroinvertebrate Sampling 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Western Australian Museum provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Living Murray Fish data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: South Australian Museum Adelaide provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Queensland Museum provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INSDC Sequences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Material Samples (USNM) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Royal Belgian Institute of Natural Sciences Crustacea collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Girraween National Park 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NatureMapr 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Crustacea 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NatureShare 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MDFRC macroinvertebrate survey 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian Museum provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SA Fauna (BDBSA) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: WildNet - Queensland Wildlife Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Tasmanian Museum and Art Gallery provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode

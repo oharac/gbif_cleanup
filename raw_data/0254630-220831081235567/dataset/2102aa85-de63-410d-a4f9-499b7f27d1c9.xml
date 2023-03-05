@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="2102aa85-de63-410d-a4f9-499b7f27d1c9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/cu2cek</alternateIdentifier>
+                <alternateIdentifier>2102aa85-de63-410d-a4f9-499b7f27d1c9</alternateIdentifier>
+                <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=owu_fish</alternateIdentifier>
+        <title>Ohio Wesleyan University Fish Specimens (Arctos)</title>
+            <creator>
+            <individualName>
+<givenName>Josh</givenName>                    <surName>Pletcher</surName>
+            </individualName>
+<organizationName>Ohio Wesleyan University Museum of Natural History</organizationName><positionName>Student Curator</positionName>            <address>
+<city>Delaware</city><administrativeArea>Ohio</administrativeArea><postalCode>43015</postalCode><country>UNITED_STATES</country>            </address>
+<phone>19706320027</phone><electronicMailAddress>jrpletch@owu.edu</electronicMailAddress><onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>            </creator>
+            <creator>
+            <individualName>
+<givenName>Lisa</givenName>                    <surName>Tabak</surName>
+            </individualName>
+<organizationName>Ohio Wesleyan University Museum of Natural History</organizationName><positionName>Curatorial Director</positionName>            <address>
+<deliveryPoint>90 S Henry St, SCSC 166</deliveryPoint><city>Delaware</city><administrativeArea>Ohio</administrativeArea><postalCode>43015</postalCode><country>UNITED_STATES</country>            </address>
+<phone>1-740-368-3887</phone><electronicMailAddress>lmtabak@owu.edu</electronicMailAddress><onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Josh</givenName>                    <surName>Pletcher</surName>
+            </individualName>
+<organizationName>Ohio Wesleyan University Museum of Natural History</organizationName><positionName>Student Curator</positionName>            <address>
+<city>Delaware</city><administrativeArea>Ohio</administrativeArea><postalCode>43015</postalCode><country>UNITED_STATES</country>            </address>
+<phone>19706320027</phone><electronicMailAddress>jrpletch@owu.edu</electronicMailAddress><onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Lisa</givenName>                    <surName>Tabak</surName>
+            </individualName>
+<organizationName>Ohio Wesleyan University Museum of Natural History</organizationName><positionName>Curatorial Director</positionName>            <address>
+<deliveryPoint>90 S Henry St, SCSC 166</deliveryPoint><city>Delaware</city><administrativeArea>Ohio</administrativeArea><postalCode>43015</postalCode><country>UNITED_STATES</country>            </address>
+<phone>1-740-368-3887</phone><electronicMailAddress>lmtabak@owu.edu</electronicMailAddress><onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Eric</givenName>                    <surName>Gangloff</surName>
+            </individualName>
+<organizationName>Ohio Wesleyan University Museum of Natural History</organizationName><positionName>Assistant Professor of Zoology</positionName>            <address>
+<city>Delaware</city><administrativeArea>Ohio</administrativeArea><postalCode>43015</postalCode><country>UNITED_STATES</country>            </address>
+<phone>1-740-368-3892</phone><electronicMailAddress>ejgangloff@owu.edu</electronicMailAddress><onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>            <role>CURATOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>David</givenName>                    <surName>Bloom</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>Vertnet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>John</givenName>                    <surName>Wieczorek</surName>
+            </individualName>
+<organizationName>VertNet</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress><onlineUrl>http://vertnet.org/</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Dusty</givenName>                    <surName>McDonald</surName>
+            </individualName>
+<organizationName>Arctos</organizationName><positionName>Arctos Database Programmer</positionName><electronicMailAddress>dustymc@gmail.com</electronicMailAddress><onlineUrl>http://arctos.database.museum</onlineUrl>            <role>PROGRAMMER</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The fish collection at the Ohio Wesleyan University Museum of Natural History largely consists of freshwater fish from central Ohio. The collection also includes several mid-water marine fishes and invertebrates donated by Dr. Richard E. Young of the University of Hawaii Department of Oceanography.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>Arctos Data Ownership and Use: http://arctosdb.org/home/data/; http://vertnet.org/resources/norms.html</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.owu.edu/academics/natural-history-museum/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Worldwide: Mostly freshwater fish from Ohio, with a collection of midwater fish from Hawaii, as well as smaller collections of fish from Delaware Bay and the North Sea.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-168.047</westBoundingCoordinate>
+                                <eastBoundingCoordinate>53.438</eastBoundingCoordinate>
+                                <northBoundingCoordinate>63.392</northBoundingCoordinate>
+                                <southBoundingCoordinate>-29.535</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Myxini, Hyperoartia, Elasmobranchii, Holocephali, Acipenseriformes, Polypteriformes, Holostei, Teleostei, Dipnoi</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Myxini</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Elasmobranchii</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Holocephali</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Holostei</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Teleostei</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Dipnoi</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Hyperoartia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Acipenseriformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Polypteriformes</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <purpose>
+                <para>Freshwater fishes of Ohio</para>
+            </purpose>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Josh</givenName>                    <surName>Pletcher</surName>
+            </individualName>
+<organizationName>Ohio Wesleyan University Museum of Natural History</organizationName><positionName>Student Curator</positionName>            <address>
+<city>Delaware</city><administrativeArea>Ohio</administrativeArea><postalCode>43015</postalCode><country>UNITED_STATES</country>            </address>
+<phone>19706320027</phone><electronicMailAddress>jrpletch@owu.edu</electronicMailAddress><onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>            </contact>
+            <contact>
+            <individualName>
+<givenName>Lisa</givenName>                    <surName>Tabak</surName>
+            </individualName>
+<organizationName>Ohio Wesleyan University Museum of Natural History</organizationName><positionName>Curatorial Director</positionName>            <address>
+<deliveryPoint>90 S Henry St, SCSC 166</deliveryPoint><city>Delaware</city><administrativeArea>Ohio</administrativeArea><postalCode>43015</postalCode><country>UNITED_STATES</country>            </address>
+<phone>1-740-368-3887</phone><electronicMailAddress>lmtabak@owu.edu</electronicMailAddress><onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para></para>
+                        </description>
+                    </methodStep>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:50:32Z</dateStamp>
+                <citation>Pletcher J, Tabak L (2023). Ohio Wesleyan University Fish Specimens (Arctos). Version 1.18. Ohio Wesleyan University Museum of Natural History. Occurrence dataset https://doi.org/10.15468/cu2cek accessed via GBIF.org on 2023-01-20.</citation>
+                        <collection>
+                            <parentCollectionIdentifier>OWU</parentCollectionIdentifier>
+                            <collectionIdentifier>https://arctos.database.museum/collection/OWU:Fish</collectionIdentifier>
+                            <collectionName>Ohio Wesleyan University Fish Specimens</collectionName>
+                        </collection>
+                    <livingTimePeriod>1859-Present</livingTimePeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

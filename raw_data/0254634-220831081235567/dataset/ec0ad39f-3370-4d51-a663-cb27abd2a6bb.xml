@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ec0ad39f-3370-4d51-a663-cb27abd2a6bb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/xxm2eb</alternateIdentifier>
+                <alternateIdentifier>https://ipt.idigbio.org/resource?r=lacm-mollusks</alternateIdentifier>
+                <alternateIdentifier>ec0ad39f-3370-4d51-a663-cb27abd2a6bb</alternateIdentifier>
+                <alternateIdentifier>http://ipt.idigbio.org/resource?r=lacm-mollusks</alternateIdentifier>
+        <title>LACM Malacology</title>
+            <creator>
+            <individualName>
+<givenName>Lindsey</givenName>                    <surName>Groves</surName>
+            </individualName>
+<organizationName>Natural History Museum of Los Angeles County</organizationName><positionName>Collection Manager</positionName>            <address>
+<deliveryPoint>900 W Exposition Blvd</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90007</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>lgroves@nhm.org</electronicMailAddress>            </creator>
+            <creator>
+            <individualName>
+<givenName>William</givenName>                    <surName>Mertz</surName>
+            </individualName>
+<organizationName>Natural History Museum of Los Angeles County</organizationName><positionName>Database Manager</positionName>            <address>
+<deliveryPoint>900 W Exposition Blvd</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90007</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>wmertz@nhm.org</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Lindsey</givenName>                    <surName>Groves</surName>
+            </individualName>
+<organizationName>Natural History Museum of Los Angeles County</organizationName><positionName>Collection Manager</positionName>            <address>
+<deliveryPoint>900 W Exposition Blvd</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90007</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>lgroves@nhm.org</electronicMailAddress>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>William</givenName>                    <surName>Mertz</surName>
+            </individualName>
+<organizationName>Natural History Museum of Los Angeles County</organizationName><positionName>Database Manager</positionName>            <address>
+<deliveryPoint>900 W Exposition Blvd</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90007</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>wmertz@nhm.org</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Erica</givenName>                    <surName>Krimmel</surName>
+            </individualName>
+<electronicMailAddress>ekrimmel@nhm.org</electronicMailAddress>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2022-12-12
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The James H. McLean Mollusk Collection of the LACM Malacology Department is one of the largest recent mollusk collections in North America and the world … and is the largest of its kind on the Pacific Rim. The collection is predominantly dry material with lesser amounts of wet preserved specimens and includes material from all molluscan classes. It is worldwide in scope with an emphasis on the eastern Pacific Ocean (arctic Alaska to southern Chile) and includes an estimated 500,000 lots containing approximately 4.5 million specimens. Over 120,000 lots have been electronically captured, which includes over 2,300 type lots. Renowned acquired collections include those from the University of California, Los Angeles (UCLA) and the Alan Hancock Foundation at the University of Southern California (USC).</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://nhm.org/site/research-collections/malacology</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>The James H. McLean Mollusk Collection is worldwide in scope with an emphasis on the eastern Pacific Ocean (arctic Alaska to southern Chile).</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>The James H. McLean Mollusk Collection of the LACM Malacology Department includes material from all molluscan classes.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Phylum</taxonRankName>
+                                    <taxonRankValue>Mollusca</taxonRankValue>
+                                        <commonName>mollusks</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Lindsey</givenName>                    <surName>Groves</surName>
+            </individualName>
+<organizationName>Natural History Museum of Los Angeles County</organizationName><positionName>Collection Manager</positionName>            <address>
+<deliveryPoint>900 W Exposition Blvd</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90007</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>lgroves@nhm.org</electronicMailAddress>            </contact>
+            <contact>
+            <individualName>
+<givenName>William</givenName>                    <surName>Mertz</surName>
+            </individualName>
+<organizationName>Natural History Museum of Los Angeles County</organizationName><positionName>Database Manager</positionName>            <address>
+<deliveryPoint>900 W Exposition Blvd</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90007</postalCode><country>UNITED_STATES</country>            </address>
+<electronicMailAddress>wmertz@nhm.org</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:55:34Z</dateStamp>
+                <citation>Groves L, Mertz W (2022). LACM Malacology. Version 1.6. Natural History Museum of Los Angeles County. Occurrence dataset https://doi.org/10.15468/xxm2eb accessed via GBIF.org on 2023-01-20.</citation>
+                    <resourceLogoUrl>http://ipt.idigbio.org/logo.do?r=lacm-ip</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

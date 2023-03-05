@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="75bcbf8f-5e58-4714-9eba-382129702022"  system="http://gbif.org" scope="system"
+xml:lang="es">
+
+    <dataset>
+            <alternateIdentifier>10.15472/7oysm0</alternateIdentifier>
+                <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=peces_coleccion_instituto_humboldt</alternateIdentifier>
+                <alternateIdentifier>10.15468/xkvbcs</alternateIdentifier>
+                <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=peces_coleccion_instituto_humboldt</alternateIdentifier>
+                <alternateIdentifier>http://data.biodiversidad.co/iavh/resource.do?r=peces_coleccion_instituto_humboldt</alternateIdentifier>
+                <alternateIdentifier>http://ipt.sibcolombia.net/iavh/resource.do?r=peces_coleccion_instituto_humboldt</alternateIdentifier>
+                <alternateIdentifier>75bcbf8f-5e58-4714-9eba-382129702022</alternateIdentifier>
+                <alternateIdentifier>14432</alternateIdentifier>
+        <title>Colección de Peces de Agua Dulce del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-P)</title>
+            <creator>
+            <individualName>
+<givenName>Carlos-Luis</givenName>                    <surName>Donascimiento-Montoya</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Curador colección de peces</positionName>            <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>cdonascimiento@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Kevin-Giancarlo</givenName>                    <surName>Borja-Acosta</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Administrador Datos Colecciones Biológicas</positionName>            <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Carlos</givenName>                    <surName>Montaña</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Asistente de Investigación 1</positionName>            <address>
+<deliveryPoint>Claustro San Agustín</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><postalCode>57</postalCode><country>COLOMBIA</country>            </address>
+<phone>+57 8 7320791</phone><electronicMailAddress>crmontana@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humborldt.org.co</onlineUrl>            <role>PROCESSOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Juan-Gabriel</givenName>                    <surName>Albornoz</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador</positionName>            <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>jalbornoz@humboldt.org.co</electronicMailAddress>            <role>AUTHOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Alejandro</givenName>                    <surName>Mendez-Lopez</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador</positionName>            <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>amendez@humboldt.org.co</electronicMailAddress>            <role>AUTHOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Erika Marcela</givenName>                    <surName>Muñoz Martínez</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Pasante de sistematización colecciones biológicas</positionName>            <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><onlineUrl>http://www.humboldt.org.co</onlineUrl>            <role>PROCESSOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+                    <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>            <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>            <role>CUSTODIAN_STEWARD</role>
+            </associatedParty>
+            <pubDate>
+                2022-03-18
+            </pubDate>
+        <language>SPANISH</language>
+            <abstract>
+                    <para>La Colección de Peces de Agua Dulce del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-P) fue fundada en 1971 en Bogotá y luego trasladada a su ubicación actual en Villa de Levya en 1995. La colección de peces es uno de los repositorios ictiológicos más grandes de Colombia con más de 22983 lotes catalogados y sistematizados en el software Specify. Esta colección contiene muestras de alrededor de 3100 localidades de los principales sistemas hidrográficos (Amazonas, Orinoco, Magdalena-Cauca y las vertientes del Caribe y el Pacífico), además de todos los departamentos colombianos. En términos taxonómicos, se encuentran representadas alrededor de 1150 especies, aproximadamente el 74% del número total de especies dulceacuícolas nativas registradas para el país. El IAvH-P almacena también especies procedentes de otros países neotropicales (Brasil, Costa Rica, Ecuador, Guayana Francesa,  Guyana, Panamá, Perú y Venezuela). Más de 80 especies nominales están representadas por ejemplares tipo, de las cuales 20 corresponden a holotipos y la información asociada se encuentra disponible en el catálogo de ejemplares tipo en línea, con imágenes en alta resolución. Los registros se encuentran disponibles a través de las plataformas SIB-Colombia, GBIF y CEIBA. En la actualidad, estamos desarrollando un aplicativo que permita obtener la información de los diferentes repositorios en línea, unificando los datos asociados a un espécimen (fotografía, radiografía, enlaces a las secuencias publicadas de ADN, así como los archivos de los artículos científicos, entre otros contenidos multimedia).</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Paratipo</keyword>
+                        <keyword>Actinopterygii</keyword>
+                        <keyword>Holotipo</keyword>
+                        <keyword>Peces</keyword>
+                        <keyword>Chondrichthyes</keyword>
+                        <keyword>Dipnotetrapodomorpha</keyword>
+                        <keywordThesaurus>n/a</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=peces_coleccion_instituto_humboldt</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Los registros de la colección son principalmente de Colombia, La clasificación departamental y municipal sigue la clasificación del DANE. Adicionalmente cuenta con registros de los siguientes países: Costa Rica, Ecuador, Guayana Francesa, Guyana, Panamá, Perú y Venezuela.
+
+Cuenta con registros de especímenes de los 32 departamentos de Colombia.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-83.858</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-34.8</eastBoundingCoordinate>
+                                <northBoundingCoordinate>13.57</northBoundingCoordinate>
+                                <southBoundingCoordinate>-17.68</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1899-12-31
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2020-11-30
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Los ejemplares están determinados a Familia, Género o Especie, el estatus o validez de los nombres científicos sigue la versión en línea más reciente del Catalog of Fishes de California Academy of Sciences: http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp (Eschmeyer et al.), ademas para la clasificación de taxones de rangos taxonómicos superiores (Clase a Subrorden) se siguió a Betancur-R. et al. (2017).
+Para los siguientes grupos se siguieron los trabajos señalados: Orden Gymnotiformes: Tagliacollo et al. (2016), orden Characiformes: Mirande (2009, 2010) y Oliveira et al. (2011), orden Siluriformes: Sullivan et al. (2006), superfamilia Doradoidea: Birindelli (2014), superfamilia Pimelodoidea: Sullivan et al. (2013), familia Cichlidae: López-Fernández et al. (2010), subfamilia Stevardiinae: Thomaz et al. (2015), subfamilia Hypostominae: Lujan et al. (2015), subfamilias Hypoptopomatinae y Otothyrinae: Roxo et al. (2014), subfamilia Loricariinae: Covain et al. (2016), los grupos restantes: Nelson et al. (2016).</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Characiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Siluriformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Cyprinodontiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Mugiliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Gobiiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Gymnotiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Cichliformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Synbranchiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Incertae Sedis</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Clupeiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Ceratodontiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Uranoscopiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Carangiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Cypriniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Myliobatiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Batrachoidiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Elopiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Ephippiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Tetraodontiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Pleuronectiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Beloniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Anabantiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Osteoglossiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Gobiesociformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Spariformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Gerreiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Salmoniformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Centrarchiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Syngnathiformes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Anguilliformes</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <purpose>
+                <para>La Colección de Peces de Agua Dulce del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-P) fue fundada en 1971 en Bogotá y luego trasladada a su ubicación actual en Villa de Levya en 1995. La colección de peces es uno de los repositorios ictiológicos más grandes de Colombia con más de 22983 lotes catalogados y sistematizados en el software Specify. Esta colección contiene muestras de alrededor de 3100 localidades de los principales sistemas hidrográficos (Amazonas, Orinoco, Magdalena-Cauca y las vertientes del Caribe y el Pacífico), además de todos los departamentos colombianos. En términos taxonómicos, se encuentran representadas alrededor de 1150 especies, aproximadamente el 74% del número total de especies dulceacuícolas nativas registradas para el país. El IAvH-P almacena también especies procedentes de otros países neotropicales (Brasil, Costa Rica, Ecuador, Guayana Francesa,  Guyana, Panamá, Perú y Venezuela). Más de 80 especies nominales están representadas por ejemplares tipo, de las cuales 20 corresponden a holotipos y la información asociada se encuentra disponible en el catálogo de ejemplares tipo en línea, con imágenes en alta resolución. Los registros se encuentran disponibles a través de las plataformas SIB-Colombia, GBIF y CEIBA. En la actualidad, estamos desarrollando un aplicativo que permita obtener la información de los diferentes repositorios en línea, unificando los datos asociados a un espécimen (fotografía, radiografía, enlaces a las secuencias publicadas de ADN, así como los archivos de los artículos científicos, entre otros contenidos multimedia).</para>
+            </purpose>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Carolina</givenName>                    <surName>Gómez-Posada</surName>
+            </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Coordinadora</positionName>            <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>3202767</phone><electronicMailAddress>cgomez@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Transcripción de catálogos físicos en Hoja de Excel (Archivo de Migración), validación de información geográfica de registros por parte de I2D, verificación de número de ejemplares por registro e identificación taxonómica hasta el nivel más detallado posible, ingreso de nuevos Números de Catálogo directamente en el Archivo de Migración, migración de registros desde Archivo de Migración a Specify y generación de archivo Darwin Core desde Specify.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Las zonas hídricas de agua dulce del territorio nacional.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Los ejemplares de la colección han sido capturados con métodos como: atarraya, electropesca, captura manual entre otros, sin embargo existe una incertidumbre grande pues se desconoce en gran parte dada la a antigüedad y procedencia de la colección.</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>Los ejemplares deben haber sido fijados en formol al 10% y preservados en etanol al 70%. Los ejemplares deben encontrarse fijados en una posición natural (i.e. no retorcidos) y enteros (i.e. sin disecciones y órganos internos no removidos).
+La información mínima asociada a los ejemplares incluye (para el caso de ejemplares provenientes de Colombia): datos completos de localidad de captura (departamento, municipio, nombre o descripción de la localidad específica, coordenadas geográficas), fecha de captura, nombres completos de los colectores e información detallada del permiso de colecta que avala la captura de los ejemplares. Información adicional (ejemplo hora de captura, arte pesca o método de captura, descripción del hábitat, medición de parámetros fisicoquímicos del cuerpo de agua donde se obtuvieron los ejemplares, mediciones de los ejemplares) es también documentada.
+
+Ajuste de vocabularios controlados en:
+Elementos de registros: collectionID, palabras clave</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project >
+                <title>Colecciones Biológicas del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</title>
+                    <personnel>
+            <individualName>
+<givenName>Kevin-Giancarlo</givenName>                    <surName>Borja-Acosta</surName>
+            </individualName>
+            <role>ORIGINATOR</role>
+                    </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>La colección cuenta con representación en los 32 departamentos del territorio Nacional, a nivel de regiones naturales se encuentra mejor representada en las regiones Andina y Orinoquia.</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+                    <designDescription>
+                        <description>
+                            <para>Ejemplares depositados en las colecciones biológicas del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</para>
+                        </description>
+                    </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:53:05Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/7oysm0">Donascimiento-Montoya C, Borja-Acosta K (2022). Colección de Peces de Agua Dulce del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-P). Version 32.13. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/7oysm0 accessed via GBIF.org on 2023-01-20.</citation>
+                    <bibliography>
+                <citation>Betancur-R. R, Wiley EO, Arratia G, Acero A, Bailly N, Miya M, Lecointre G, Ortí G (2017) Phylogenetic classification of bony fishes. BMC Evolutionary Biology 2017: 162.  https://doi.org/10.1186/s12862-017-0958-3</citation>
+                <citation>Birindelli JLO (2014) Phylogenetic relationships of the South American Doradoidea (Ostariophysi: Siluriformes) Neotropical Ichthyology 12: 451–564. https://doi.org/10.1590/1982-0224-20120027.</citation>
+                <citation>Covain R, Fisch-Muller S, Oliveira C, Mol JH, Montoya-Burgos JI, Dray S (2016) Molecular phylogeny of the highly diversified catfish subfamily Loricariinae (Siluriformes, Loricariidae) reveals incongruences with morphological classification. Molecular Phylogenetics and Evolution 94: 492–517. https://doi.org/10.1016/j.ympev.2015.10.018</citation>
+                <citation>Eschmeyer WN, Fricke R, van der Laan R (eds).  CATALOG OF FISHES: GENERA, SPECIES, REFERENCES. http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp</citation>
+                <citation>López-Fernández H, Winemiller KO, Honeycutt RL (2010) Multilocus phylogeny and rapid radiations in Neotropical cichlid fishes (Perciformes: Cichlidae: Cichlinae). Molecular Phylogenetics and Evolution 55: 1070–1086. https://doi.org/10.1016/j.ympev.2010.02.020</citation>
+                <citation>Lujan NK, Armbruster JW, Lovejoy NR, López-Fernández H (2015) Multilocus molecular phylogeny of the suckermouth armored catfishes (Siluriformes: Loricariidae) with a focus on subfamily Hypostominae. Molecular Phylogenetics and Evolution 82: 269–288. https://doi.org/10.1016/j.ympev.2014.08.020</citation>
+                <citation>Mirande JM (2009) Weighted parsimony phylogeny of the family Characidae (Teleostei: Characiformes). Cladistics 25: 1–40.  https://doi.org/10.1111/j.1096-0031.2009.00262.x.</citation>
+                <citation>Mirande JM (2010) Phylogeny of the family Characidae (Teleostei: Characiformes) from characters to taxonomy. Neotropical Ichthyology 8: 385–568.  https://doi.org/10.1590/S1679-62252010000300001.</citation>
+                <citation>Nelson JS, Grande T, Wilson MVH (2016) Fishes of the world. Fifth edition. John Wiley &amp; Sons, Hoboken, 707 pp.  https://doi.org/10.1002/9781119174844.</citation>
+                <citation>Oliveira C, Avelino GS, Abe KT, Mariguela TC, Benine RC, Ortí G, Vari RP Corrêa e Castro RM (2011) Phylogenetic relationships within the speciose family Characidae (Teleostei: Ostariophysi: Characiformes) based on multilocus analysis and extensive ingroup sampling. BMC Evolutionary Biology 11: 275. https://doi.org/10.1186/1471-2148-11-275.</citation>
+                <citation>Roxo FF, Albert JS, Silva GSC, Zawadzki CH, Foresti F, Oliveira C (2014) Molecular phylogeny and biogeographic history of the armored Neotropical catfish subfamilies Hypoptopomatinae, Neoplecostominae and Otothyrinae (Siluriformes: Loricariidae). PLoS ONE 9: e105564.  https://doi.org/10.1371/journal.pone.0105564.</citation>
+                <citation>Sullivan JP, Lundberg JG, Hardman M (2006) A phylogenetic analysis of the major groups of catfishes (Teleostei: Siluriformes) using rag1 and rag2 nuclear gene sequences. Molecular Phylogenetics and Evolution 41: 636–662.  https://doi.org/10.1016/j.ympev.2006.05.044.</citation>
+                <citation>Sullivan JP, Muriel-Cunha, J Lundberg JG (2013) Phylogenetic relationships and molecular dating of the major groups of catfishes of the Neotropical superfamily Pimelodoidea (Teleostei, Siluriformes) Proceedings of the Academy of Natural Sciences of Philadelphia 162: 89–110. https://doi.org/10.1635/053.162.0106.</citation>
+                <citation>Tagliacollo VA, Bernt MJ, Craig JM, Oliveira C, Albert JS (2016) Model-based total evidence phylogeny of Neotropical electric knifefishes (Teleostei, Gymnotiformes) Molecular Phylogenetics and Evolution 95: 20–33.  https://doi.org/10.1016/j.ympev.2015.11.007.</citation>
+                <citation>Thomaz AT, Arcila D, Ortí G, Malabarba LR (2015) Molecular phylogeny of the subfamily Stevardiinae Gill, 1858 (Characiformes: Characidae): classification and the evolution of reproductive traits. BMC Evolutionary Biology 15: 146. https://doi.org/10.1186/s12862-015-0403-4.</citation>
+                    </bibliography>
+                    <physical>
+                        <objectName>Colección de Peces de Agua Dulce del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-P)</objectName>
+                        <characterEncoding>UTF-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>txt</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=peces_coleccion_instituto_humboldt</url>
+                            </online>
+                        </distribution>
+                    </physical>
+                    <physical>
+                        <objectName>Illustrated and online catalog of type specimens of freshwater fishes in the Colección de Peces Dulceacuícolas of Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-P), Colombia</objectName>
+                        <characterEncoding>UTF-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>pdf</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">http://dx.doi.org/10.11646/zootaxa.4171.3.1</url>
+                            </online>
+                        </distribution>
+                    </physical>
+                    <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                            <collectionIdentifier>IAvH-P</collectionIdentifier>
+                            <collectionName>Colección de Peces del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

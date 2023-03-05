@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="10.15468/dl.6b29w2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+                <alternateIdentifier>0254617-220831081235567</alternateIdentifier>
+        <title>GBIF Occurrence Download 10.15468/dl.6b29w2</title>
+            <creator>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </metadataProvider>
+            <pubDate>
+                2023-01-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [
+    &quot;is Cherax tenuimanus Smith, 1912&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+10 records from International Barcode of Life project (iBOL)
+159 records from Western Australian Museum provider for OZCAM
+9 records from South Australian Museum Adelaide provider for OZCAM
+4 records from Natural History Museum (London) Collection Specimens
+1 records from AM: Freshwater Invertebrates (1900-2005)
+2 records from INSDC Sequences
+4 records from NMNH Material Samples (USNM)
+3 records from Queensland Museum provider for OZCAM
+2 records from Crustacean specimens of Bihoro Museum
+2 records from Tasmanian Museum and Art Gallery provider for OZCAM-Arthropoda
+9 records from Museums Victoria provider for OZCAM
+3 records from Naturalis Biodiversity Center (NL) - Crustacea
+31 records from Australian Museum provider for OZCAM
+1 records from NMNH Extant Specimen Records (USNM, US)
+2 records from Tasmanian Museum and Art Gallery provider for OZCAM</para>
+            </abstract>
+            <contact>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:42:56Z</dateStamp>
+                <citation identifier="10.15468/dl.6b29w2">GBIF Occurrence Download 10.15468/dl.6b29w2</citation>
+                    <physical>
+                        <objectName>Darwin Core Archive</objectName>
+                        <characterEncoding>UTF-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>Darwin Core Archive</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">https://api.gbif.org/v1/occurrence/download/request/0254617-220831081235567.zip</url>
+                            </online>
+                        </distribution>
+                    </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

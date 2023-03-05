@@ -1,0 +1,40 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+Citizen Science - ALA Website (2022). ALA species sightings and OzAtlas. Occurrence dataset https://doi.org/10.15468/jayxmn accessed via GBIF.org on 2023-01-20.
+NatureMapr (2022). Canberra Nature Map. Occurrence dataset https://doi.org/10.15468/uv6p4z accessed via GBIF.org on 2023-01-20.
+Queen Victoria Museum and Art Gallery (2022). Queen Victoria Museum Art Gallery provider for OZCAM. Occurrence dataset https://doi.org/10.15468/tedfxn accessed via GBIF.org on 2023-01-20.
+Victorian Department of Environment, Land, Water and Planning (2022). Victorian Biodiversity Atlas. Occurrence dataset https://doi.org/10.15468/khlfs3 accessed via GBIF.org on 2023-01-20.
+Blom W, Moriarty A (2022). Auckland Museum NZ Marine Collection. Version 1.67. Auckland War Memorial Museum. Occurrence dataset https://doi.org/10.15468/plyefd accessed via GBIF.org on 2023-01-20.
+Pauwels O, Samyn Y, Vandenberghe T (2021). RBINS DaRWIN. Royal Belgian Institute of Natural Sciences. Occurrence dataset https://doi.org/10.15468/qxy4mc accessed via GBIF.org on 2023-01-20.
+Museum and Art Gallery of the Northern Territory (2022). Northern Territory Museum and Art Gallery provider for OZCAM. Occurrence dataset https://doi.org/10.15468/giro3a accessed via GBIF.org on 2023-01-20.
+Questagame (2022). Earth Guardians Weekly Feed. Occurrence dataset https://doi.org/10.15468/slqqt8 accessed via GBIF.org on 2023-01-20.
+Atlas of Living Australia (2019). Auswildlife. Occurrence dataset https://doi.org/10.15468/h9eivu accessed via GBIF.org on 2023-01-20.
+Gosse D, Guyon J (2023). Contrat de Rivière - RIPARIAS: detection and management of aquatic invasive alien species. Version 1.7. Contrat de rivière Senne. Sampling event dataset https://doi.org/10.15468/fwp5xs accessed via GBIF.org on 2023-01-20.
+Museums Victoria (2021). Museums Victoria provider for OZCAM. Occurrence dataset https://doi.org/10.15468/lp1ctu accessed via GBIF.org on 2023-01-20.
+Tasmanian Museum and Art Gallery (2019). Tasmanian Museum and Art Gallery provider for OZCAM-Arthropoda. Occurrence dataset https://doi.org/10.15468/f8ranh accessed via GBIF.org on 2023-01-20.
+City of Kalamunda (2022). City of Kalamunda Biodiversity Inventory. Occurrence dataset https://doi.org/10.15468/x5b0f7 accessed via GBIF.org on 2023-01-20.
+NSW Department of planning, industry and environment (2022). NSW BioNet Atlas. Occurrence dataset https://doi.org/10.15468/14jd9g accessed via GBIF.org on 2023-01-20.
+Natural History Museum of Denmark (2023). NHMD Invertebrate Zoology Collection. Occurrence dataset https://doi.org/10.15468/nuz79n accessed via GBIF.org on 2023-01-20.
+Commonwealth Scientific and Industrial Research Organisation (2021). Australian National Wildlife Collection provider for OZCAM. Occurrence dataset https://doi.org/10.15468/gscnac accessed via GBIF.org on 2023-01-20.
+Orrell T, Informatics Office (2023). NMNH Extant Specimen Records (USNM, US). Version 1.65. National Museum of Natural History, Smithsonian Institution. Occurrence dataset https://doi.org/10.15468/hnhrg3 accessed via GBIF.org on 2023-01-20.
+Eibye-Jacobsen D, Pavesi L, Schiøtte T, Sørensen M V, Olesen J (2019). Invertebrates excl. Entomology at the Natural History Museum of Denmark. Version 1.2. Natural History Museum of Denmark. Occurrence dataset https://doi.org/10.15468/wodhis accessed via GBIF.org on 2023-01-20.
+Tasmanian Department of Primary Industries, Parks, Water and Environment (2019). Tasmanian Natural Values Atlas. Occurrence dataset https://doi.org/10.15468/rtnb4m accessed via GBIF.org on 2023-01-20.
+Senckenberg. Collection Crustacea SMF. Occurrence dataset https://doi.org/10.15468/mc7ysi accessed via GBIF.org on 2023-01-20.
+Atlas of Living Australia (2021). Wingecarribee Shire Council Macroinvertebrate Sampling. Occurrence dataset https://doi.org/10.15468/3xhjwd accessed via GBIF.org on 2023-01-20.
+The International Barcode of Life Consortium (2022). International Barcode of Life project (iBOL). Occurrence dataset https://doi.org/10.15468/inygc6 accessed via GBIF.org on 2023-01-20.
+Western Australian Museum (2022). Western Australian Museum provider for OZCAM. Occurrence dataset https://doi.org/10.15468/5qt0dm accessed via GBIF.org on 2023-01-20.
+Murray-Darling Basin Authority (2020). The Living Murray Fish data. Occurrence dataset https://doi.org/10.15468/elgwwi accessed via GBIF.org on 2023-01-20.
+South Australian Museum (2022). South Australian Museum Adelaide provider for OZCAM. Occurrence dataset https://doi.org/10.15468/wz4rrh accessed via GBIF.org on 2023-01-20.
+Queensland Museum (2021). Queensland Museum provider for OZCAM. Occurrence dataset https://doi.org/10.15468/lotsye accessed via GBIF.org on 2023-01-20.
+European Bioinformatics Institute (EMBL-EBI), GBIF Helpdesk (2023). INSDC Sequences. Version 1.14. European Nucleotide Archive (EMBL-EBI). Occurrence dataset https://doi.org/10.15468/sbmztx accessed via GBIF.org on 2023-01-20.
+Orrell T, Informatics Office (2023). NMNH Material Samples (USNM). Version 1.48. National Museum of Natural History, Smithsonian Institution. Occurrence dataset https://doi.org/10.15468/jb9tdf accessed via GBIF.org on 2023-01-20.
+Samyn Y, Vandenberghe T (2021). Royal Belgian Institute of Natural Sciences Crustacea collection. Royal Belgian Institute of Natural Sciences. Occurrence dataset https://doi.org/10.15468/xtppux accessed via GBIF.org on 2023-01-20.
+Atlas of Living Australia (2019). Girraween National Park. Occurrence dataset https://doi.org/10.15468/flcvft accessed via GBIF.org on 2023-01-20.
+NatureMapr (2022). NatureMapr. Occurrence dataset https://doi.org/10.15468/uye32x accessed via GBIF.org on 2023-01-20.
+Goud J, van der Bijl B, Creuwels J (2022). Naturalis Biodiversity Center (NL) - Crustacea. Naturalis Biodiversity Center. Occurrence dataset https://doi.org/10.15468/vjoltu accessed via GBIF.org on 2023-01-20.
+Atlas of Living Australia (2020). NatureShare. Occurrence dataset https://doi.org/10.15468/4cqg2v accessed via GBIF.org on 2023-01-20.
+Murray-Darling Basin Authority (2019). MDFRC macroinvertebrate survey. Occurrence dataset https://doi.org/10.15468/paioao accessed via GBIF.org on 2023-01-20.
+Australian Museum (2021). Australian Museum provider for OZCAM. Occurrence dataset https://doi.org/10.15468/e7susi accessed via GBIF.org on 2023-01-20.
+South Australia, Department for Environment and Water (2022). SA Fauna (BDBSA). Occurrence dataset https://doi.org/10.15468/xsderl accessed via GBIF.org on 2023-01-20.
+Queensland Department of Environment and Science (2022). WildNet - Queensland Wildlife Data. Occurrence dataset https://doi.org/10.15468/lxgoyb accessed via GBIF.org on 2023-01-20.
+iNaturalist contributors, iNaturalist (2023). iNaturalist Research-grade Observations. iNaturalist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2023-01-20.
+Tasmanian Museum and Art Gallery (2022). Tasmanian Museum and Art Gallery provider for OZCAM. Occurrence dataset https://doi.org/10.15468/ijp8p9 accessed via GBIF.org on 2023-01-20.

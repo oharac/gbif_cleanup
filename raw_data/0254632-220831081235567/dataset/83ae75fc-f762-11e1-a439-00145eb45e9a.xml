@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="83ae75fc-f762-11e1-a439-00145eb45e9a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/jbshoy</alternateIdentifier>
+                <alternateIdentifier>http://ipt.iobis.org/obiscanada/resource?r=ecnasap</alternateIdentifier>
+                <alternateIdentifier>https://gcmd.nasa.gov/KeywordSearch/Metadata.do?Portal=caobis&amp;MetadataType=0&amp;KeywordPath=&amp;MetadataView=Full&amp;EntryId=OBIS.groundfish_atlas</alternateIdentifier>
+                <alternateIdentifier>83ae75fc-f762-11e1-a439-00145eb45e9a</alternateIdentifier>
+                <alternateIdentifier>349</alternateIdentifier>
+        <title>ECNASAP - East Coast North America Strategic Assessment</title>
+            <creator>
+            <individualName>
+                    <surName>OBIS Canada</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>data management team</positionName>            <address>
+<deliveryPoint>Bedford Institute of Oceanography</deliveryPoint><city>Dartmouth</city><administrativeArea>Nova Scotia</administrativeArea><postalCode>B2Y 4A2</postalCode><country>CANADA</country>            </address>
+<electronicMailAddress>obiscanada2017@gmail.com</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>OBIS Canada</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>data management team</positionName>            <address>
+<deliveryPoint>Bedford Institute of Oceanography</deliveryPoint><city>Dartmouth</city><administrativeArea>Nova Scotia</administrativeArea><postalCode>B2Y 4A2</postalCode><country>CANADA</country>            </address>
+<electronicMailAddress>obiscanada2017@gmail.com</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+                    <surName>OBIS Canada</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>data management team</positionName>            <address>
+<deliveryPoint>Bedford Institute of Oceanography</deliveryPoint><city>Dartmouth</city><administrativeArea>Nova Scotia</administrativeArea><postalCode>B2Y 4A2</postalCode><country>CANADA</country>            </address>
+<electronicMailAddress>obiscanada2017@gmail.com</electronicMailAddress>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-06
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This resource was created for the Census of Marine Life by OBIS Canada and is based on fishery-independent groundfish data for the east coast of North America from Cape Hatteras to the US/Canadian border and for Bay of Fundy through the Scotian Shelf. Time period is 1970-1995.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>biological classification</keyword>
+                        <keyword>biota</keyword>
+                        <keyword>oceans</keyword>
+                        <keywordThesaurus>GCMD – Global Change master Directory</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Observation</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>marine, harvested by iOBIS</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://iobis.org/mapper/?resource_id=38</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>East coast of North America</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-86.18</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-6.57</eastBoundingCoordinate>
+                                <northBoundingCoordinate>69.53</northBoundingCoordinate>
+                                <southBoundingCoordinate>5.34</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1970-02-03
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                1995-06-02
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Gadus morhua</taxonRankValue>
+                                        <commonName>Atlantic cod</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                    <taxonRankValue>Gadidae</taxonRankValue>
+                                        <commonName>cod</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Hippoglossus platessoides</taxonRankValue>
+                                        <commonName>American plaice</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Hippoglossus hippoglossus</taxonRankValue>
+                                        <commonName>ATLANTIC HALIBUT</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Limanda ferruginea</taxonRankValue>
+                                        <commonName>YELLOWTAIL FLOUNDER</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Species</taxonRankName>
+                                    <taxonRankValue>Melanogrammus aeglefinus</taxonRankValue>
+                                        <commonName>haddock</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+                    <surName>OBIS Canada</surName>
+            </individualName>
+<organizationName>Fisheries and Oceans Canada</organizationName><positionName>data management team</positionName>            <address>
+<deliveryPoint>Bedford Institute of Oceanography</deliveryPoint><city>Dartmouth</city><administrativeArea>Nova Scotia</administrativeArea><postalCode>B2Y 4A2</postalCode><country>CANADA</country>            </address>
+<electronicMailAddress>obiscanada2017@gmail.com</electronicMailAddress>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>This resource was created by the data provider for OBIS Canada. Records were downloaded from the source database and and an OBIS view of the collection was created. In 2014 this resource was removed from the OBIS Canada DiGIR server and copied to the OBIS Canada IPT. In 2017 the GBIF version of this resource which was based on the Rutger-DiGIR soruce was migrated to the OBIS Canada IPT as the source.</para>
+                        </description>
+                    </methodStep>
+                    <methodStep>
+                        <description>
+                            <para>The DwC field dynamicproperties is null for this dataset.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>The Department of Fisheries and Oceans Canada (DFO) and the National Marine Fisheries Service (NMFS) are the federal agencies responsible for marine fishery assessment and management in Canada and the USA. These agencies conduct large annual resource assessment trawl surveys for their stock assessments, and to help determine management objectives. 
+
+DFO conducts surveys in four regional programs: the Bay of Fundy through the Scotian Shelf; the Southern Gulf of St. Lawrence; the Northern Gulf of St. Lawrence; and the west and south coasts of Newfoundland, Grand Banks, and Labrador Shelf. The NMFS survey extends from Cape Hatteras to the US/Canadian border. These are by far the most comprehensive sets of fishery-independent groundfish data available for the east coast of North America. 
+
+The Groundfish Atlas consists of distribution maps for 99 groundfish species off the east coast of North America. Ninety-nine species maps (including four genus maps) are presented in this atlas. The study area extends from the coastline to beyond the continental shelf from Cape Hatteras, North Carolina, USA (35 degrees North latitude), to Cape Chidley, Labrador, Canada (61 degrees North latitude). These maps contain information on catch in numbers per tow, along with some basic analyses of temporal variability by five-year time blocks.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Standard resource assessment trawl survey data were obtained from each source for 1970-1994, although little sampling was conducted in the Northern Gulf of St. Lawrence and off northern Labrador in the earlier years. Corrections were made to handle taxonomic errors and inconsistencies in species coding systems among the surveys, and the data sets were merged into a single file format (see Brown, et al., 1996 for details). No attempt was made to standardize the data for the possible effects of differing survey gear. The overall dataset contains 55,043 tows with 26,286,369 individuals from 412 species (including some aggregate groups). 
+
+A technical report based on the same data set, East Coast of North America Groundfish: Initial Explorations of Biogeography and Species Assemblages (Brown et al. 1996), is also available. 
+
+The maps, derived from trawl survey data, were developed as part of the East Coast of North America Strategic Assessment Project (ECNASAP), a US/Canada data synthesis and mapping project concerned with living marine resources and their habitats.</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>Scientific names listed in the source database species list have been mapped to recognized standards - marine taxa have been mapped to the World Register of Marine Species (WoRMS).  The respective codes(WoRMS AphiaIDs) have been included in this resource in the scientificNameID field as LSIDs.</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:53:06Z</dateStamp>
+                <citation identifier="http://iobis.org/mapper/?resource_id=38">Brown S.K.R., Zwanenburg K., Branton R. (2005).  ECNASAP - East Coast North America Strategic Assessment. Version 1 In OBIS Canada Digital Collections. Bedford Institute of Oceanography, Dartmouth, NS, Canada. Published by OBIS, Digital http://www.iobis.org/. Accessed on –INSERT DATE https://doi.org/10.15468/jbshoy accessed via GBIF.org on 2021-04-16. accessed via GBIF.org on 2021-04-16. accessed via GBIF.org on 2023-01-20.</citation>
+                    <bibliography>
+                <citation>Brown, S.K., R. Mahon, K.C.T. Zwaneburg, K.R. Buja, L.W. Claflin, R.N. O&apos;Boyle, B. Atkinson, M. Sinclair, G.Howell, and M.E. Monaco. 1996. East Coast of North America Groundfish: Initial Explorations of Biogeography and Species Assemblages. Silver Spring, MD: National Oceanic and Atmospheric Administration, and Dartmouth, NS: Department of Fisheries and Oceans. 111 pp.
+www.dfo-mpo.gc.ca/Library/229282.pdf‎</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1cc1bd52-369e-4e54-b351-e7beacfda698"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ms5iqu</alternateIdentifier>
+                <alternateIdentifier>1cc1bd52-369e-4e54-b351-e7beacfda698</alternateIdentifier>
+                <alternateIdentifier>https://gbifipt.niwa.co.nz/resource?r=nzffd</alternateIdentifier>
+        <title>New Zealand Freshwater Fish Database</title>
+            <creator>
+            <individualName>
+<givenName>Rick</givenName>                    <surName>Sotffels</surName>
+            </individualName>
+<organizationName>NIWA National Institute of Water &amp; Atmospheric Research</organizationName><positionName>Freshwater Ecologist</positionName>            <address>
+<deliveryPoint>10 Kyle St, Riccarton</deliveryPoint><city>Christchurch</city><administrativeArea>Canterbury</administrativeArea><postalCode>8011</postalCode><country>NEW_ZEALAND</country>            </address>
+<phone>03-348 8987</phone><electronicMailAddress>rick.stoffels@niwa.co.nz</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Rick</givenName>                    <surName>Sotffels</surName>
+            </individualName>
+<organizationName>NIWA National Institute of Water &amp; Atmospheric Research</organizationName><positionName>Freshwater Ecologist</positionName>            <address>
+<deliveryPoint>10 Kyle St, Riccarton</deliveryPoint><city>Christchurch</city><administrativeArea>Canterbury</administrativeArea><postalCode>8011</postalCode><country>NEW_ZEALAND</country>            </address>
+<phone>03-348 8987</phone><electronicMailAddress>rick.stoffels@niwa.co.nz</electronicMailAddress>            </metadataProvider>
+            <pubDate>
+                2022-01-06
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The New Zealand Freshwater Fish Database (NZFFD)
+records the occurrence of fish in fresh waters of New Zealand,
+including major offshore islands. We maintain the database at
+our Wellington campus. Data stored include the site location,
+the species present, their abundance and size, as well as
+information such as the fishing method used and a physical
+description of the site. The latter includes an assessment of
+the habitat type, substrate type, available fish cover,
+catchment vegetation, riparian vegetation, water widths and
+depths, and some water quality measures.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Observation</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://dc.niwa.co.nz/niwa_dc/srv/eng/catalog.search#/metadata/df676dde-98ed-4141-b497-03efe0b0a24d</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>New Zealand</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>166.34</westBoundingCoordinate>
+                                <eastBoundingCoordinate>178.415</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-34.281</northBoundingCoordinate>
+                                <southBoundingCoordinate>-47.163</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1915-01-01
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                1915-01-01
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Rick</givenName>                    <surName>Sotffels</surName>
+            </individualName>
+<organizationName>NIWA National Institute of Water &amp; Atmospheric Research</organizationName><positionName>Freshwater Ecologist</positionName>            <address>
+<deliveryPoint>10 Kyle St, Riccarton</deliveryPoint><city>Christchurch</city><administrativeArea>Canterbury</administrativeArea><postalCode>8011</postalCode><country>NEW_ZEALAND</country>            </address>
+<phone>03-348 8987</phone><electronicMailAddress>rick.stoffels@niwa.co.nz</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-01-20T19:53:07Z</dateStamp>
+                <citation>Sotffels R (2022). New Zealand Freshwater Fish Database. Version 1.7. The National Institute of Water and Atmospheric Research (NIWA). Occurrence dataset https://doi.org/10.15468/ms5iqu accessed via GBIF.org on 2023-01-20.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>
